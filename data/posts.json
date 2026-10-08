@@ -1,5 +1,333 @@
 [
  {
+  "id": 543112,
+  "date": "2026-10-08T19:14:20",
+  "link": "https://www.blocktempo.com/imf-gfsr-tokenization-markets-small-fragmented-four-constraints-financial-stability/",
+  "title": "IMF：代幣化市場成長快但「規模小又分散」，四種限制拖慢擴張",
+  "excerpt": "國際貨幣基金組織（IMF）10 月 8 日發文指出，代幣化市場成長很快，但規模仍小、交易分散。部落格依據的報告",
+  "category": "法規",
+  "tags": [
+   "法規",
+   "金融市場"
+  ]
+ },
+ {
+  "id": 543064,
+  "date": "2026-10-08T18:32:59",
+  "link": "https://www.blocktempo.com/toss-bank-system-update-error-failed-transfers-credited-south-korea/",
+  "title": "韓國 Toss Bank 系統更新出錯，「轉帳失敗」能無限刷錢",
+  "excerpt": "韓國 Toss Bank（토스뱅크）10 月 7 日下午出現大約 30 分鐘的轉帳錯誤，從其他金融機構轉入的部",
+  "category": "金融市場",
+  "tags": [
+   "金融市場",
+   "銀行"
+  ]
+ },
+ {
+  "id": 543069,
+  "date": "2026-10-08T18:27:58",
+  "link": "https://www.blocktempo.com/beeline-ai-cyber-family-voice-assistants-scam-callers-6000-days/",
+  "title": "俄國電信商把詐騙電話轉給「AI 假民眾」接聽，今年陪聊 14 萬小時",
+  "excerpt": "俄羅斯電信業者 Beeline 執行長 Sergey Anokhin 10 月 6 日在莫斯科一場科技論壇上表",
+  "category": "AI",
+  "tags": [
+   "AI",
+   "安全"
+  ]
+ },
+ {
+  "id": 543059,
+  "date": "2026-10-08T18:19:09",
+  "link": "https://www.blocktempo.com/nobel-peace-prize-polymarket-machado-leak-probe-norway-institute-odds/",
+  "title": "Polymarket 大賭諾貝爾和平獎得主！去年疑提前洩漏內線交易",
+  "excerpt": "2026 年諾貝爾和平獎將在台北時間 10 月 9 日晚上 5 點揭曉，Polymarket 押注今年得主的市",
+  "category": "市場分析",
+  "tags": [
+   "即時新聞",
+   "市場分析"
+  ]
+ },
+ {
+  "id": 543038,
+  "date": "2026-10-08T18:07:47",
+  "link": "https://www.blocktempo.com/young-japanese-workers-quit-corporate-jobs-investment-bank-embroidery-gallup/",
+  "title": "東大畢業生決定高薪離職：解釋了年輕人為何不去公司上班",
+  "excerpt": "這個故事是東京大學畢業的田中優輝，24 歲進入外資投資銀行，年薪 1100 萬日圓，卻選擇在 9 個月後辭職，",
+  "category": "亞太",
+  "tags": [
+   "亞太",
+   "獨立觀點"
+  ]
+ },
+ {
+  "id": 543077,
+  "date": "2026-10-08T17:51:39",
+  "link": "https://www.blocktempo.com/ai-agents-infer-user-wealth-recommend-pricier-flights-insurance-study/",
+  "title": "有錢人的 AI agent 買東西，也傾向「買更貴的」",
+  "excerpt": "Cisco 與卡內基美隆大學研究人員發表論文，研究用 32.5 萬次實驗測試 13 個 AI 模型擔任個人 A",
+  "category": "AI",
+  "tags": [
+   "AI"
+  ]
+ },
+ {
+  "id": 543019,
+  "date": "2026-10-08T16:54:44",
+  "link": "https://www.blocktempo.com/79thvault-operator-private-key-compromise-bnb-chain-79au-pancakeswap-drained/",
+  "title": "BNB 鏈上 79thVault 疑遭私鑰盜用，損失約 1250 萬鎂",
+  "excerpt": "BNB Chain 上的 79thVault 專案 10 月 7 日損失約 1,250 萬美元。團隊營運熱錢包",
+  "category": "安全",
+  "tags": [
+   "即時新聞",
+   "安全"
+  ]
+ },
+ {
+  "id": 543001,
+  "date": "2026-10-08T16:48:17",
+  "link": "https://www.blocktempo.com/anthropic-claude-max-team-monthly-api-credits-exclude-claude-code/",
+  "title": "舒服！Claude 宣布每月送 Max 與 Team 訂閱戶免費 API 額度",
+  "excerpt": "Anthropic 開始每月送 Claude Max 與 Team 訂閱戶一筆 API 額度，Max 20x",
+  "category": "AI",
+  "tags": [
+   "AI"
+  ]
+ },
+ {
+  "id": 542989,
+  "date": "2026-10-08T16:40:05",
+  "link": "https://www.blocktempo.com/standard-chartered-singapore-digital-asset-custody-launch-institutional-crypto/",
+  "title": "渣打銀行進軍新加坡加密託管！機構客戶可存比特幣、穩定幣、RWA",
+  "excerpt": "渣打銀行宣布在新加坡推出加密資產託管服務，機構與合格企業客戶可託管比特幣、穩定幣與代幣化資產，成為又一家跨足加",
+  "category": "即時新聞",
+  "tags": [
+   "即時新聞"
+  ]
+ },
+ {
+  "id": 542977,
+  "date": "2026-10-08T15:56:50",
+  "link": "https://www.blocktempo.com/anthropic-cyber-verification-program-three-tiers-mythos-glasswing-defenders-access/",
+  "title": "Anthropic 鬆綁最強模型 Mythos：資安人員分三級申請，個人也有資格",
+  "excerpt": "Anthropic 擴大資安驗證計畫 CVP，併入玻璃翼計劃後改成 Defense、Red Team、Spec",
+  "category": "AI",
+  "tags": [
+   "AI",
+   "安全"
+  ]
+ },
+ {
+  "id": 542969,
+  "date": "2026-10-08T15:56:31",
+  "link": "https://www.blocktempo.com/morgan-stanley-ai-memory-shortage-nvidia-rubin-hbm-cut-cxl-demand-shift/",
+  "title": "AI 記憶體荒為何反讓輝達減配？大摩：瓶頸將把資料掃向 NAND 與互連晶片",
+  "excerpt": "摩根士丹利最新研報指出，AI 記憶體短缺恐貫穿整個週期，但輝達不會坐等擴產——傳將為 Rubin 平台推出降規",
+  "category": "AI",
+  "tags": [
+   "AI"
+  ]
+ },
+ {
+  "id": 542886,
+  "date": "2026-10-08T15:11:57",
+  "link": "https://www.blocktempo.com/jacob-coxon-claims-china-spies-openai-anthropic-offers-no-evidence/",
+  "title": "前 OpenAI、Anthropic 研究員：幾乎確定中國間諜已潛入這兩家 AI 大廠",
+  "excerpt": "前 OpenAI、Anthropic 研究員 Jacob Coxon 稱有 90% 把握中國已在兩家公司安插間",
+  "category": "AI",
+  "tags": [
+   "AI",
+   "中國",
+   "美國"
+  ]
+ },
+ {
+  "id": 542900,
+  "date": "2026-10-08T15:05:11",
+  "link": "https://www.blocktempo.com/taipei-songshan-airport-relocation-seven-mayoral-candidates-two-decades-stalled/",
+  "title": "過去 25 年，7 位台北市長候選人提「搬遷松山機場」，為何總是沒下文？",
+  "excerpt": "台北市長蔣萬安今天說要遷移松山機場，把 300 公頃改做台北 AI 園區。但同一件事 25 年來至少 7 位台",
+  "category": "台灣",
+  "tags": [
+   "即時新聞",
+   "台灣"
+  ]
+ },
+ {
+  "id": 542806,
+  "date": "2026-10-08T14:34:54",
+  "link": "https://www.blocktempo.com/deepseek-moonshot-chinese-ai-giants-ipo-race-openai-anthropic-funding/",
+  "title": "DeepSeek 募 120 億、Moonshot 500 億！中國 AI 巨頭衝 IPO",
+  "excerpt": "中國 AI 巨頭 DeepSeek 籌資逾 120 億美元、Moonshot AI 估值達 500 億美元，兩",
+  "category": "AI",
+  "tags": [
+   "AI"
+  ]
+ },
+ {
+  "id": 542842,
+  "date": "2026-10-08T14:33:34",
+  "link": "https://www.blocktempo.com/samsung-usdc-solana-samsung-wallet-cross-border-remittance/",
+  "title": "Samsung 把 USDC 塞進 Galaxy！8200 萬支手機月底用 Solana 轉帳",
+  "excerpt": "Samsung 宣布 10 月底在美版 Galaxy 手機內建 USDC 跨境轉帳，基於 Solana 與 S",
+  "category": "穩定幣",
+  "tags": [
+   "穩定幣"
+  ]
+ },
+ {
+  "id": 542832,
+  "date": "2026-10-08T13:03:47",
+  "link": "https://www.blocktempo.com/keurig-coffee-maker-sent-1tb-wifi-traffic-most-stayed-home/",
+  "title": "家中咖啡機 10 天送出 1TB 塞爆 Wi-Fi：沒人知道它在傳什麼",
+  "excerpt": "一部 Keurig 智慧咖啡機 10 天竟送出 1,008 GB 資料！當事人 Nomad 事後補充，多數流量",
+  "category": "安全",
+  "tags": [
+   "安全",
+   "技術"
+  ]
+ },
+ {
+  "id": 542776,
+  "date": "2026-10-08T12:19:11",
+  "link": "https://www.blocktempo.com/michael-smith-ai-songs-bots-streaming-royalty-fraud-18-months/",
+  "title": "1 萬個機器人狂刷 AI 歌曲騙走 809 萬鎂版稅，美國首宗串流詐欺案判 18 個月",
+  "excerpt": "美國首宗串流詐欺刑案判處被告 18 個月徒刑、沒收 809 萬美元，他用幾十萬首 AI 生成的歌，透過 1 萬",
+  "category": "AI",
+  "tags": [
+   "AI",
+   "犯罪",
+   "美國"
+  ]
+ },
+ {
+  "id": 542774,
+  "date": "2026-10-08T12:16:44",
+  "link": "https://www.blocktempo.com/ups-f35-lockheed-china-hong-kong-itar-email-stealth-parts/",
+  "title": "UPS 出大包：員工漏看一封信，F-35 戰機零件繞道香港落入中國",
+  "excerpt": "F-35 隱形戰機的座艙罩與武器艙門遭誤送香港，最終落入中國當局手中。彭博引述一名聽取過五角大廈簡報的知情人士",
+  "category": "中國",
+  "tags": [
+   "中國",
+   "管制",
+   "美國"
+  ]
+ },
+ {
+  "id": 542828,
+  "date": "2026-10-08T11:58:09",
+  "link": "https://www.blocktempo.com/malaysia-penang-silicon-island-ai-chips-reclamation-progress-court-ruling/",
+  "title": "馬來西亞填海造「矽島」搶 AI 晶片廠：喊貢獻 1.1 兆令吉，可三年才填兩成",
+  "excerpt": "馬來西亞在檳城外海填一座 2,300 英畝的「矽島」搶 AI 晶片投資，官方喊出 2050 年貢獻 1.1 兆",
+  "category": "AI",
+  "tags": [
+   "AI",
+   "亞太"
+  ]
+ },
+ {
+  "id": 542763,
+  "date": "2026-10-08T11:34:02",
+  "link": "https://www.blocktempo.com/openai-chatgpt-intelligent-ui-gpt-6-interactive-interfaces-free-rollout/",
+  "title": "ChatGPT UI 大改版：回答從文字變成可操作的按鈕、表單或是圖表",
+  "excerpt": "OpenAI 讓 GPT-6 在 ChatGPT 自己決定用文字、圖形或可點選的工具回答，付費方案美國時間 1",
+  "category": "AI",
+  "tags": [
+   "AI"
+  ]
+ },
+ {
+  "id": 542766,
+  "date": "2026-10-08T11:21:31",
+  "link": "https://www.blocktempo.com/anthropic-claude-haiku-price-cut-ninety-percent-matches-openai-luna/",
+  "title": "Anthropic 推出 Claude Haiku 5.5，主打最便宜、最快的小模型",
+  "excerpt": "Anthropic 推出 Claude Haiku 5.5，四項 API 牌價與 OpenAI GPT-6 L",
+  "category": "AI",
+  "tags": [
+   "AI"
+  ]
+ },
+ {
+  "id": 542756,
+  "date": "2026-10-08T11:13:55",
+  "link": "https://www.blocktempo.com/openai-chatgpt-teens-college-planner-common-sense-media-unacceptable-risk/",
+  "title": "ChatGPT 青少年版將推升學規劃工具 College Planner：幫高中生搞定大學申請",
+  "excerpt": "OpenAI 預告 ChatGPT 青少年版將加入大學申請規劃工具 College Planner，首波鎖定美",
+  "category": "AI",
+  "tags": [
+   "AI",
+   "美國"
+  ]
+ },
+ {
+  "id": 542787,
+  "date": "2026-10-08T10:56:48",
+  "link": "https://www.blocktempo.com/google-playground-unity-spark-roblox-creators-monetization-gemini-launch-stocks/",
+  "title": "Google 新推實驗產品「Playground」：一句話生成客製化遊戲世界，合作 Unity 遊戲引擎",
+  "excerpt": "Google 推出實驗產品 Playground，用文字描述就能做出可玩的遊戲。首波僅限美國成年人、生成額度按",
+  "category": "AI",
+  "tags": [
+   "AI",
+   "遊戲"
+  ]
+ },
+ {
+  "id": 542785,
+  "date": "2026-10-08T10:39:24",
+  "link": "https://www.blocktempo.com/pew-social-media-democracy-netherlands-overtakes-america-wealthy-countries-pessimistic/",
+  "title": "37 國民調：愈來愈多富裕國家覺得社群媒體正在傷害民主",
+  "excerpt": "皮尤研究中心對 37 國的民調發現，美國有 64% 的人說社群媒體對民主是壞事，與 2022 年相同，但荷蘭已",
+  "category": "社交",
+  "tags": [
+   "社交",
+   "美國"
+  ]
+ },
+ {
+  "id": 542753,
+  "date": "2026-10-08T10:18:55",
+  "link": "https://www.blocktempo.com/zuckerberg-biohub-virtual-cell-initiative-google-deepmind-meta-energy-department/",
+  "title": "祖克柏的「虛擬細胞」計畫拉來 Google DeepMind 與美國政府加入：已籌資 18 億美元",
+  "excerpt": "祖克柏夫婦的 Biohub 公布，Google DeepMind、Meta 與美國政府已加入它的虛擬細胞資料計",
+  "category": "AI",
+  "tags": [
+   "AI",
+   "美國"
+  ]
+ },
+ {
+  "id": 542747,
+  "date": "2026-10-08T10:06:49",
+  "link": "https://www.blocktempo.com/vitalik-warns-ai-accelerated-math-research-could-undermine-post-quantum-crypto-advises-keeping-funds-in-untouched-addresses/",
+  "title": "Vitalik 警告：AI 加速數學研究削弱抗量子密碼安全，呼籲資金留在未用過的地址",
+  "excerpt": "Vitalik Buterin 指出，AI 加速數學研究可能未來兩年內重創格密碼體系，以太坊 Lean 路線圖",
+  "category": "加密貨幣市場",
+  "tags": [
+   "加密貨幣市場"
+  ]
+ },
+ {
+  "id": 542684,
+  "date": "2026-10-08T09:46:36",
+  "link": "https://www.blocktempo.com/sui-offchain-tunnels-40-million-tps-live-ai-agent-stress-test-record/",
+  "title": "Sui 離鏈通道衝 4061 萬 TPS！AI Agent 壓力測試破紀錄",
+  "excerpt": "Sui 在新加坡 Basecamp 現場壓力測試中，離鏈通道（tunnels）峰值達 4061 萬 TPS，為",
+  "category": "加密貨幣市場",
+  "tags": [
+   "加密貨幣市場"
+  ]
+ },
+ {
+  "id": 542699,
+  "date": "2026-10-08T09:43:05",
+  "link": "https://www.blocktempo.com/solana-orca-loopscale-merger-formation-defi-ai-robotics-defense-finance/",
+  "title": "Solana 協議 Orca 跟 Loopscale 合併！新公司 Formation 要把 DeFi 帶進 AI 跟國防融資",
+  "excerpt": "Solana 龍頭 DEX Orca 與借貸平台 Loopscale 宣布合併成立 Formation，由 L",
+  "category": "defi",
+  "tags": [
+   "defi"
+  ]
+ },
+ {
   "id": 542702,
   "date": "2026-10-08T09:37:36",
   "link": "https://www.blocktempo.com/solana-foundation-dvp-settlement-standard-jpmorgan-institutional-atomic-trade/",
