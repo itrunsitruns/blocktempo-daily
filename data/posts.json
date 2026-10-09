@@ -1,5 +1,162 @@
 [
  {
+  "id": 543337,
+  "date": "2026-10-09T10:20:36",
+  "link": "https://www.blocktempo.com/ai-threatens-bitcoin-cryptography-public-key-exposure/",
+  "title": "AI 將提前破解比特幣？以太坊研究員喊進入「地堡模式」，Vitalik 認同風險但勸：勿恐慌搬錢包",
+  "excerpt": "AI 演算法暴衝將成為加密貨幣最大威脅？據 CoinDesk 報導，鏈上數據顯示已有超過 600 萬枚比特幣（",
+  "category": "AI",
+  "tags": [
+   "AI",
+   "比特幣"
+  ]
+ },
+ {
+  "id": 543330,
+  "date": "2026-10-09T10:03:38",
+  "link": "https://www.blocktempo.com/hacker-uses-claude-ai-to-attack-korean-banks-accidentally-exposes-identity/",
+  "title": "傻眼！中國駭客靠 AI 爽洗韓國銀行客戶個資，竟因叫 Claude「幫寫履歷」自爆身分",
+  "excerpt": "人工智慧（AI）竟成為駭客自爆的雙面刃！國際頂尖資安機構 CrowdStrike 最新報告揭露，一名疑為中國籍",
+  "category": "AI",
+  "tags": [
+   "AI"
+  ]
+ },
+ {
+  "id": 543325,
+  "date": "2026-10-09T09:46:40",
+  "link": "https://www.blocktempo.com/us-government-moves-1-billion-bitfinex-bitcoin/",
+  "title": "美國政府轉移 10.1 億美元比特幣！Bitfinex 查獲資產入新錢包，引發市場戒備",
+  "excerpt": "據 Decrypt 報導，美國政府持有之區塊鏈錢包於 8 日突發巨額轉帳，將從 2016 年 Bitfinex",
+  "category": "比特幣",
+  "tags": [
+   "比特幣",
+   "美國"
+  ]
+ },
+ {
+  "id": 543231,
+  "date": "2026-10-09T09:32:23",
+  "link": "https://www.blocktempo.com/imf-warns-tokenized-markets-amplify-volatility-and-liquidity-risks/",
+  "title": "IMF 再警告代幣化市場風險！代幣化股票流動性差、波動率高三成，系統性風險還來得及防嗎？",
+  "excerpt": "IMF 最新分析指出代幣化股票流動性遠遜於傳統市場、波動率高達 1.5 倍，雖然目前系統性風險仍有限，但隨著規",
+  "category": "市場分析",
+  "tags": [
+   "即時新聞",
+   "市場分析",
+   "法規"
+  ]
+ },
+ {
+  "id": 543238,
+  "date": "2026-10-09T09:24:36",
+  "link": "https://www.blocktempo.com/bitwise-ceo-dogecoin-etf-failure-shows-etf-buyers-crypto-user-gap/",
+  "title": "Bitwise CEO：狗狗幣 ETF 失敗「很可憐」！ETF 買家跟加密散戶完全不同",
+  "excerpt": "Bitwise CEO Hunter Horsley 拿自家 Dogecoin ETF 說事，指出 ETF 買",
+  "category": "市場分析",
+  "tags": [
+   "市場分析",
+   "獨立觀點"
+  ]
+ },
+ {
+  "id": 543261,
+  "date": "2026-10-09T09:21:40",
+  "link": "https://www.blocktempo.com/blumenthal-tether-cantor-fitzgerald-probe-iran-shadow-banking-stablecoin/",
+  "title": "民主黨參議員追查 Tether 與 Cantor 合作！涉伊朗影子銀行，商務部長兒子遭問",
+  "excerpt": "參議院少數黨調查委員會主席 Richard Blumenthal 正式致函 Cantor Fitzgerald",
+  "category": "法規",
+  "tags": [
+   "法規",
+   "穩定幣"
+  ]
+ },
+ {
+  "id": 543272,
+  "date": "2026-10-09T09:19:42",
+  "link": "https://www.blocktempo.com/robinhood-adds-25-million-bitcoin-balance-sheet-crypto-push-strategy-metaplanet/",
+  "title": "Robinhood 資產負債表加碼 2500 萬鎂比特幣！市值千億公司也追比特幣財庫潮",
+  "excerpt": "Robinhood 資產負債表加碼 2500 萬美元比特幣，加密高階主管 Johann Kerbrat 在獨家",
+  "category": "市場分析",
+  "tags": [
+   "市場分析",
+   "比特幣"
+  ]
+ },
+ {
+  "id": 543287,
+  "date": "2026-10-09T09:16:14",
+  "link": "https://www.blocktempo.com/senate-probes-cantor-fitzgerald-tether-reserves-compliance/",
+  "title": "追查 USDT 暗黑金流！美參議員調查 Cantor Fitzgerald 與 Tether 關係，要求交代美債儲備與反洗錢細節",
+  "excerpt": "據 CoinDesk 報導，美國參議院常設調查小組委員會民主黨資深成員 Richard Blumenthal",
+  "category": "穩定幣",
+  "tags": [
+   "穩定幣",
+   "管制",
+   "美國"
+  ]
+ },
+ {
+  "id": 543282,
+  "date": "2026-10-09T08:56:58",
+  "link": "https://www.blocktempo.com/arthur-hayes-ai-encryption-fud-wall-of-worry-bull-run/",
+  "title": "Arthur Hayes：2026「AI 加密 FUD」是起飛前的擔憂之牆，央行印鈔比特幣必拉盤",
+  "excerpt": "面對近期市場對 AI 與加密貨幣領域的疑慮，BitMEX 共同創辦人 Arthur Hayes 於今（9）日發",
+  "category": "市場分析",
+  "tags": [
+   "市場分析",
+   "獨立觀點"
+  ]
+ },
+ {
+  "id": 543278,
+  "date": "2026-10-09T08:46:02",
+  "link": "https://www.blocktempo.com/crypto-market-crash-btc-80k-eth-liquidations-1b/",
+  "title": "比特幣下探 $80500 後反彈、以太坊失守 2450 美元！全網 24 小時爆倉 11.9 億鎂",
+  "excerpt": "台北時間 10 月 8 日深夜，比特幣（BTC）急墜跌破 8.05 萬美元，以太坊（ETH）下探逼近 2,40",
+  "category": "加密貨幣市場",
+  "tags": [
+   "加密貨幣市場"
+  ]
+ },
+ {
+  "id": 543133,
+  "date": "2026-10-08T21:02:42",
+  "link": "https://www.blocktempo.com/iran-araghchi-reviewing-washington-response-hormuz-seven-day-plan-tasnim/",
+  "title": "伊朗：荷姆茲海峽「七日方案」仍在評估美國意見，數日內回覆",
+  "excerpt": "伊朗外交部長阿拉格齊（Abbas Araghchi）8 日表示，伊朗正在評估美方對「七日方案」的意見。他認為伊",
+  "category": "美國",
+  "tags": [
+   "即時新聞",
+   "美國"
+  ]
+ },
+ {
+  "id": 543129,
+  "date": "2026-10-08T20:59:44",
+  "link": "https://www.blocktempo.com/us-initial-jobless-claims-197000-forecast-200000-prior-week-revised/",
+  "title": "美國經濟數據》本週初請失業金 19.7 萬人低於預期",
+  "excerpt": "本週美國經季節調整的初請失業金人數預估為 19.7 萬人，比市場預期的 20 萬人少 3,000 人。前一週的",
+  "category": "金融市場",
+  "tags": [
+   "即時新聞",
+   "金融市場"
+  ]
+ },
+ {
+  "id": 543124,
+  "date": "2026-10-08T20:47:13",
+  "link": "https://www.blocktempo.com/justin-sun-token2049-singapore-dialogue-tron-ai-agent-economy-blockchain/",
+  "title": "孫宇晨出席 TOKEN 2049 新加坡：真實需求驅動波場 TRON 發展，持續賦能 AI Agent 經濟",
+  "excerpt": "波場TRON創始人孫宇晨在TOKEN2049新加坡活動中分享創業理念，強調以真實使用者需求為核心，推動穩定幣規",
+  "category": "AI",
+  "tags": [
+   "AI",
+   "加密貨幣市場",
+   "區塊鏈平台"
+  ]
+ },
+ {
   "id": 543112,
   "date": "2026-10-08T19:14:20",
   "link": "https://www.blocktempo.com/imf-gfsr-tokenization-markets-small-fragmented-four-constraints-financial-stability/",
