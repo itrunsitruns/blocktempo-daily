@@ -1,5 +1,149 @@
 [
  {
+  "id": 543495,
+  "date": "2026-10-09T16:17:30",
+  "link": "https://www.blocktempo.com/anthropic-oss-scanner-open-source-security-audit-crypto-projects-apply-claude/",
+  "title": "Anthropic 開放頂級 AI 當資安掃描器！Nethermind、ZEUS 搶先申請",
+  "excerpt": "Anthropic 推出「OSS Scanner」，讓開源專案可以主動申請用 Claude 最頂尖模型掃描程式",
+  "category": "AI",
+  "tags": [
+   "AI",
+   "即時新聞"
+  ]
+ },
+ {
+  "id": 543504,
+  "date": "2026-10-09T16:15:47",
+  "link": "https://www.blocktempo.com/remote-worker-sues-employer-over-ai-surveillance/",
+  "title": "每 3 分鐘拍一張照！遠端員工拒絕「AI 攝影機監控」慘遭開除，怒告雇主歧視",
+  "excerpt": "AI 視訊監控深入居家職場引爆人權與隱私大戰！據《Tech Times》報導，美國新澤西州一名任職逾十年的資深",
+  "category": "AI",
+  "tags": [
+   "AI"
+  ]
+ },
+ {
+  "id": 543490,
+  "date": "2026-10-09T14:56:57",
+  "link": "https://www.blocktempo.com/white-house-6-billion-science-golden-age-super-intelligence/",
+  "title": "川普政府砸 60 億美元開啟「科學黃金時代」！白宮聯手 NVIDIA、OpenAI 押注超級智慧 SI",
+  "excerpt": "白宮於 10 月 8 日舉行的高峰會上宣布，產官學界將聯合投入超過 60 億美元，啟動名為「科學的新黃金時代」",
+  "category": "AI",
+  "tags": [
+   "AI",
+   "美國"
+  ]
+ },
+ {
+  "id": 543486,
+  "date": "2026-10-09T14:36:49",
+  "link": "https://www.blocktempo.com/openai-revenue-disclosures-trigger-ai-stock-selloff/",
+  "title": "OpenAI 實收 500 億鎂比預期低「200 億」！引爆 AI 概念股拋售潮，輝達跌 3%、CoreWeave 重挫 8%",
+  "excerpt": "據 CNBC 報導，AI 龍頭 OpenAI 集中向投資人揭露截至 9 月底的年化營收約為 500 億美元，低",
+  "category": "Openai",
+  "tags": [
+   "Openai"
+  ]
+ },
+ {
+  "id": 543479,
+  "date": "2026-10-09T14:25:34",
+  "link": "https://www.blocktempo.com/meanwhile-raises-37m-bitcoin-life-insurance-sam-altman/",
+  "title": "Sam Altman 支持的比特幣人壽保險公司 Meanwhile 融資 3750 萬鎂，估值 3.5 億進軍亞洲市場",
+  "excerpt": "據 Axios 報導 與官方公告，由 OpenAI 執行長 Sam Altman 投資支持的比特幣人壽保險公司",
+  "category": "加密貨幣市場",
+  "tags": [
+   "加密貨幣市場",
+   "比特幣"
+  ]
+ },
+ {
+  "id": 543245,
+  "date": "2026-10-09T14:18:31",
+  "link": "https://www.blocktempo.com/netflix-ftx-series-julia-garner-anthony-boyle-november-release/",
+  "title": "FTX 世紀詐欺案登上 Netflix！重現 SBF「有效利他主義」豪賭，11/19 全球上線",
+  "excerpt": "加密圈史上最大醜聞搬上大銀幕！串流巨頭 Netflix 於今（9）日正式發布預告片，宣布將於 11 月 19",
+  "category": "即時新聞",
+  "tags": [
+   "即時新聞"
+  ]
+ },
+ {
+  "id": 543463,
+  "date": "2026-10-09T14:04:42",
+  "link": "https://www.blocktempo.com/ai-agents-wealth-discrimination-economic-misalignment/",
+  "title": "AI 越聰明越會幫商家殺熟？CMU 研究：即使要求「最便宜」，AI 仍向有錢人推貴 6 倍商品",
+  "excerpt": "個人 AI 代理人竟成為幫商家「殺熟」的推手？據卡內基美隆大學（CMU）與 Cisco 最新發布的研究指出，測",
+  "category": "AI",
+  "tags": [
+   "AI"
+  ]
+ },
+ {
+  "id": 543370,
+  "date": "2026-10-09T13:48:14",
+  "link": "https://www.blocktempo.com/bitcoin-rebounds-to-82000-as-trump-rules-out-iran-strikes/",
+  "title": "比特幣反彈至 8.2 萬！川普喊不打伊朗，加密圈也甩掉「防空洞」恐懼",
+  "excerpt": "比特幣週五反彈至 8.2 萬美元，川普宣布在 11 月 3 日中期選舉前不攻擊伊朗，油價回跌，AI 加密專家也",
+  "category": "比特幣",
+  "tags": [
+   "即時新聞",
+   "比特幣"
+  ]
+ },
+ {
+  "id": 543362,
+  "date": "2026-10-09T13:46:02",
+  "link": "https://www.blocktempo.com/thailand-sec-finalizes-bitcoin-ether-spot-etf-rules-october/",
+  "title": "泰國 SEC 定案加密現貨 ETF 規則！限比特幣與以太幣，10/16 正式生效",
+  "excerpt": "泰國證券交易委員會（SEC）於 10 月 8 日正式定案比特幣與以太幣現貨 ETF 的監管規範，11 項相關公",
+  "category": "以太坊",
+  "tags": [
+   "以太坊",
+   "即時新聞",
+   "比特幣"
+  ]
+ },
+ {
+  "id": 543416,
+  "date": "2026-10-09T13:40:09",
+  "link": "https://www.blocktempo.com/xrp-ledger-permission-delegation-feature-banks-stablecoin-compliance-upgrade/",
+  "title": "XRP Ledger 上線「許可權委派」功能！銀行可分權管理，穩定幣合規再近一步",
+  "excerpt": "XRP Ledger 10 月 8 日啟用 PermissionDelegationV1_1，讓機構能將部分操",
+  "category": "其他幣別",
+  "tags": [
+   "其他幣別",
+   "分散式帳本技術",
+   "加密貨幣市場"
+  ]
+ },
+ {
+  "id": 543320,
+  "date": "2026-10-09T11:26:12",
+  "link": "https://www.blocktempo.com/hyperliquid-policy-ceo-exchanges-blockchain-infrastructure-cme-lawsuit-delay/",
+  "title": "Hyperliquid 政策長：10 年內每間交易所都要上鏈！CME 訴訟只是拖延戰術",
+  "excerpt": "Hyperliquid Policy Center 執行長 Jake Chervinsky 在新加坡 Digi",
+  "category": "交易所",
+  "tags": [
+   "交易所",
+   "法規",
+   "獨立觀點"
+  ]
+ },
+ {
+  "id": 543342,
+  "date": "2026-10-09T11:22:15",
+  "link": "https://www.blocktempo.com/kbw2026-chimaek-chill/",
+  "title": "MY AI PET Co-Host KBW 2026 Side Event「Chimaek & Chill」 以炸雞、啤 酒串起 Web3 社群之夜",
+  "excerpt": "KBW 2026 期間，Web3 社群活動「Chimaek & Chill」於 9 月 29 日晚間在",
+  "category": "Web3.0",
+  "tags": [
+   "Web3.0",
+   "加密貨幣市場",
+   "社交"
+  ]
+ },
+ {
   "id": 543337,
   "date": "2026-10-09T10:20:36",
   "link": "https://www.blocktempo.com/ai-threatens-bitcoin-cryptography-public-key-exposure/",
