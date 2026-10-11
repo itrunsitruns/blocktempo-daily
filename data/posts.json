@@ -1,9 +1,258 @@
 [
  {
+  "id": 544157,
+  "date": "2026-10-11T16:29:14",
+  "link": "https://www.blocktempo.com/papertrade-1000x-leverage-first-day-liquidations-hyperliquid-price-manipulation-allegations/",
+  "title": "贏了要排隊，輸了能領幣：一次看懂 Papertrade「爆倉即挖礦」的 1000 倍莊家生意",
+  "excerpt": "Papertrade 以 1000 倍槓桿、零 LP 冷啟動在 10 月 10 日上線，由協議當所有部位的對手",
+  "category": "defi",
+  "tags": [
+   "defi",
+   "交易所"
+  ]
+ },
+ {
+  "id": 544147,
+  "date": "2026-10-11T16:18:09",
+  "link": "https://www.blocktempo.com/former-ftx-coo-constance-wang-netflix-altruists-trailer-inaccurate/",
+  "title": "FTX 前高管看預告片直呼想吐！我們每天工作 18 小時「Netflix 卻拍成巴哈馬狂歡愛情片」",
+  "excerpt": "前 FTX 營運長 Constance Wang 看了 Netflix 即將播出的 FTX 劇集《The Al",
+  "category": "交易所",
+  "tags": [
+   "交易所"
+  ]
+ },
+ {
+  "id": 543930,
+  "date": "2026-10-11T16:05:15",
+  "link": "https://www.blocktempo.com/openai-mathematicians-years-verify-ai-proofs-lean-gaps-three-retracted/",
+  "title": "OpenAI 一次丟出 722 篇數學論文，有學者多年心血一夜歸零",
+  "excerpt": "OpenAI 公開 722 篇數學手稿四天後，The Verge 訪問 30 多位數學家，結論是裡面有真東西，",
+  "category": "AI",
+  "tags": [
+   "AI",
+   "技術"
+  ]
+ },
+ {
+  "id": 544123,
+  "date": "2026-10-11T15:39:46",
+  "link": "https://www.blocktempo.com/github-rebuilds-git-storage-azure-blob-ai-agents-commits-fivefold/",
+  "title": "AI 代理灌爆 GitHub：9 月提交量是去年 5 倍多，Git 儲存底層將重寫",
+  "excerpt": "GitHub 9 月提交量達一年前的 5 倍多，故而決定把 Git 儲存底層從頭重做、資料改放 Azure B",
+  "category": "AI",
+  "tags": [
+   "AI",
+   "技術"
+  ]
+ },
+ {
+  "id": 544131,
+  "date": "2026-10-11T15:10:06",
+  "link": "https://www.blocktempo.com/ai-data-center-memory-prices-pc-shipments-fall-asus-share/",
+  "title": "AI 推高記憶體價格，全球 Q3 電腦出貨少 1,580 萬台，蘋果與華碩跌幅最少",
+  "excerpt": "統計數據顯示，2026 年第三季全球電腦出貨年減超過兩成，旺季反而比第二季更淡。記憶體產能被 AI 資料中心拉",
+  "category": "AI",
+  "tags": [
+   "AI",
+   "台灣"
+  ]
+ },
+ {
+  "id": 543894,
+  "date": "2026-10-11T15:04:06",
+  "link": "https://www.blocktempo.com/tron-post-quantum-cryptography-live-testnet-justin-sun-ready-mainnet/",
+  "title": "Tron 抗量子升級測試網上線，孫宇晨：主網隨時啟動",
+  "excerpt": "Tron 測試網已上線抗量子密碼學方案，孫宇晨宣稱主網部署「隨時啟動」，成為少數準備在 Q-Day 前升級的公",
+  "category": "安全",
+  "tags": [
+   "安全"
+  ]
+ },
+ {
+  "id": 543934,
+  "date": "2026-10-11T14:42:01",
+  "link": "https://www.blocktempo.com/trump-ai-liability-push-agents-hacking-law-intent-gap-lawsuits/",
+  "title": "川普政府要 AI 公司出事自己扛，但 Agent 闖禍該告誰還說不清",
+  "excerpt": "川普政府不訂新的 AI 安全規則，改押注訴訟威脅，讓開發商為自家模型負責。但 AI 代理自己行動闖禍時，美國反",
+  "category": "AI",
+  "tags": [
+   "AI",
+   "法規",
+   "美國"
+  ]
+ },
+ {
+  "id": 543997,
+  "date": "2026-10-11T14:27:41",
+  "link": "https://www.blocktempo.com/solana-halves-block-times-200-milliseconds-simd-0525-epoch-1053/",
+  "title": "Solana 區塊時間砍到 200 毫秒：每秒 5 個區塊，交易更快但驗證者壓力更大",
+  "excerpt": "Solana 週五正式將目標區塊時間從 250 毫秒縮短至 200 毫秒，完成自八月起系列升級。每秒五個區塊機",
+  "category": "以太坊",
+  "tags": [
+   "以太坊",
+   "即時新聞"
+  ]
+ },
+ {
+  "id": 544053,
+  "date": "2026-10-11T13:51:50",
+  "link": "https://www.blocktempo.com/xrpl-payment-engine-overflow-bug-mint-xrp-skipped-amendment-fix/",
+  "title": "XRPL 驚爆潛伏十年的「憑空印幣」漏洞！官方破例跳過修正案緊急修補",
+  "excerpt": "XRP Ledger 支付引擎爆出藏著一個自 2015 年就存在的整數溢位漏洞，攻擊者只需數百枚 XRP 的成",
+  "category": "其他幣別",
+  "tags": [
+   "其他幣別",
+   "即時新聞",
+   "安全"
+  ]
+ },
+ {
+  "id": 544101,
+  "date": "2026-10-11T13:09:45",
+  "link": "https://www.blocktempo.com/denmark-cpr-breach-pays-two-employee-firm-admin-password-123456/",
+  "title": "密碼 123456！丹麥 880 萬筆身分證號外洩禍首是一家 2 人小公司，安全意識低的可怕",
+  "excerpt": "丹麥 880 萬筆身分證號外洩案，目前漏洞來源已確認是一家 2 人資料公司 Pays，政府已發函 1,039",
+  "category": "安全",
+  "tags": [
+   "安全"
+  ]
+ },
+ {
+  "id": 544047,
+  "date": "2026-10-11T13:00:42",
+  "link": "https://www.blocktempo.com/trump-floats-renaming-atlantic-pacific-trump-ocean-before-leaving-office/",
+  "title": "川普這回連大西洋都想冠上自己的姓，「川普洋」脫口而出",
+  "excerpt": "川普 10 月 10 日在田納西州造勢時，提議卸任前替大西洋或太平洋改名，還端出以自己為名的「川普洋」。從美國",
+  "category": "美國",
+  "tags": [
+   "美國"
+  ]
+ },
+ {
+  "id": 544063,
+  "date": "2026-10-11T12:42:14",
+  "link": "https://www.blocktempo.com/berkeley-report-global-frontier-ai-pause-feasible-inference-only-chips/",
+  "title": "全球暫停 AI 訓練可能嗎？柏克萊學者：關鍵是停產訓練晶片",
+  "excerpt": "柏克萊等校 26 位學者算出，如果美中領袖都想停，從晶片下手的全球 AI 訓練暫停在技術上做得到，已上線的 A",
+  "category": "AI",
+  "tags": [
+   "AI",
+   "管制"
+  ]
+ },
+ {
+  "id": 544060,
+  "date": "2026-10-11T11:58:12",
+  "link": "https://www.blocktempo.com/thailand-sec-bitcoin-ethereum-etf-rules-october-2026-framework/",
+  "title": "泰國 SEC 發布加密 ETF 規範：比特幣、以太坊基金 10/16 生效",
+  "excerpt": "泰國證券暨交易委員會（SEC）正式發布加密資產 ETF 規範，首批僅開放比特幣與以太坊，規則定於 10 月 1",
+  "category": "以太坊",
+  "tags": [
+   "以太坊",
+   "比特幣",
+   "法規"
+  ]
+ },
+ {
+  "id": 544087,
+  "date": "2026-10-11T11:52:48",
+  "link": "https://www.blocktempo.com/tron-interpol-new-technologies-forum-global-compliance-blockchain-security-financial-crime-investigation-vienna-regulatory/",
+  "title": "波場 TRON 亮相國際刑警組織新技術論壇，展示鏈上安全與合規建設新進展",
+  "excerpt": "波場TRON近期接連參與國際刑警組織新技術論壇、CoinDesk政策大會及巴西數位資產培訓，強調公鏈合規與安全",
+  "category": "加密貨幣市場",
+  "tags": [
+   "加密貨幣市場",
+   "區塊鏈平台",
+   "法規"
+  ]
+ },
+ {
+  "id": 543955,
+  "date": "2026-10-11T11:48:49",
+  "link": "https://www.blocktempo.com/trump-artificial-intelligence-users-enemy-white-house-ai-gov-rebrand/",
+  "title": "川普：不改稱 AI 為「SI，超級智慧」就是白宮的敵人，AI.gov 標誌換成 SI GOV",
+  "excerpt": "川普本週稍早發文，說白宮把用「 AI 人工智慧」而不用「SI 超級智慧」的人視為敵人。AI.gov 同日也換成",
+  "category": "AI",
+  "tags": [
+   "AI",
+   "美國"
+  ]
+ },
+ {
+  "id": 543944,
+  "date": "2026-10-11T11:21:36",
+  "link": "https://www.blocktempo.com/turkey-bans-social-media-children-under-fifteen-egovernment-age-checks/",
+  "title": "14 歲男孩槍殺 9 名學生與 1 名老師後，土耳其 11 月起禁止未滿 15 歲用 IG、TikTok 等社群軟體",
+  "excerpt": "土耳其 10 日公布法規，11 月 1 日起社群業者不得讓未滿 15 歲的孩子開帳號，用戶一律要用政府 e-D",
+  "category": "法規",
+  "tags": [
+   "法規",
+   "社交"
+  ]
+ },
+ {
+  "id": 544006,
+  "date": "2026-10-11T11:15:37",
+  "link": "https://www.blocktempo.com/vc-funds-nine-years-no-principal-returned-lp-carta-ai/",
+  "title": "VC 殘酷真相：多數基金只返還不到四成本金給出資人",
+  "excerpt": "Carta 資料顯示，2017 年成立的 VC 基金中位數九年只返還 0.37 倍現金，前 10% 才勉強超過",
+  "category": "AI",
+  "tags": [
+   "AI"
+  ]
+ },
+ {
+  "id": 544024,
+  "date": "2026-10-11T10:54:40",
+  "link": "https://www.blocktempo.com/uk-sanctions-cryptomus-tokenspot-a7-network-russia-evasion-2026/",
+  "title": "英國制裁三家交易所和兩家支付平台，涉協助俄羅斯繞過金融制裁",
+  "excerpt": "英國外交部週四公布 38 項新制裁，目標三家加密交易所和兩家支付平台，指其協助俄羅斯繞過金融制裁，其中兩家曾處",
+  "category": "法規",
+  "tags": [
+   "法規"
+  ]
+ },
+ {
+  "id": 543941,
+  "date": "2026-10-11T10:48:24",
+  "link": "https://www.blocktempo.com/nvidia-reportedly-ends-rtx-5090-gb202-supply-favoring-rtx-pro/",
+  "title": "輝達傳停供「RTX 5090 晶片」全轉 AI 專業卡，玩家旗艦顯卡或退到 5080 24GB",
+  "excerpt": "兩位硬體爆料者與 BenchLife 都說，輝達往後的 GB202 晶片將全數留給 RTX Pro 專業卡，R",
+  "category": "AI",
+  "tags": [
+   "AI",
+   "技術"
+  ]
+ },
+ {
+  "id": 543924,
+  "date": "2026-10-11T10:17:02",
+  "link": "https://www.blocktempo.com/bitcoin-ethereum-order-book-depth-recovery-altcoin-liquidity-drain-coindesk/",
+  "title": "距離 10/11 史上最大爆倉日滿一週年：BTC、ETH 流動性已回血，山寨幣仍持續探底",
+  "excerpt": "CoinDesk Research 對比四個時點訂單簿深度：比特幣 1% 深度較崩盤當日增約 75%，以太坊",
+  "category": "市場分析",
+  "tags": [
+   "市場分析"
+  ]
+ },
+ {
+  "id": 544029,
+  "date": "2026-10-11T10:05:35",
+  "link": "https://www.blocktempo.com/empire-market-co-founder-40-years-prison-1230-bitcoin-forfeiture-darkweb/",
+  "title": "暗網藥市 Empire Market 創辦人重判 40 年！沒收 1,230 枚 BTC 價值 1 億美元",
+  "excerpt": "美國維吉尼亞男子 Raheim Hamilton 因共同經營暗網毒品交易平台 Empire Market 被判",
+  "category": "法規",
+  "tags": [
+   "即時新聞",
+   "法規"
+  ]
+ },
+ {
   "id": 543876,
   "date": "2026-10-10T22:44:44",
   "link": "https://www.blocktempo.com/china-telecom-takeout-food-safety-seal-ai-kitchen-monitoring-shanghai/",
-  "title": "中國食安用AI解決？外送全程監視製作流程「打上認證」",
+  "title": "中國打食安新招：料理全程 AI 監視，消費者掃碼就能看後廚",
   "excerpt": "中國電信 10 月 9 日宣布在上海推出「外賣雲監管，食安封簽」方案。外送餐點用防拆、防篡改的封簽封裝，消費者",
   "category": "AI",
   "tags": [
