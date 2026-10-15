@@ -1,5 +1,141 @@
 [
  {
+  "id": 545645,
+  "date": "2026-10-15T03:39:24",
+  "link": "https://www.blocktempo.com/grok-voice-3-speech-to-speech-model/",
+  "title": "SpaceXSI 推出 Grok Voice 3.0！語音模型登頂第三方指數，Starlink 每天 2 萬通客服電話已交給 AI",
+  "excerpt": "SpaceXSI 推出新一代語音對語音模型 Grok Voice 3.0，在第三方評測機構 Artificia",
+  "category": "AI",
+  "tags": [
+   "AI"
+  ]
+ },
+ {
+  "id": 545641,
+  "date": "2026-10-15T03:10:05",
+  "link": "https://www.blocktempo.com/google-gemini-4-argon-five-builds-showcase/",
+  "title": "Google 秀 5 個 Gemini 4 Argon 實作！一句提示做出 3D 遊戲，跑分壓過 GPT-6 Astra",
+  "excerpt": "Google 官方 X 帳號在台北時間 15 日凌晨發了一串貼文，用 5 個由團隊做出來的實作範例，展示剛全面",
+  "category": "Google",
+  "tags": [
+   "Google"
+  ]
+ },
+ {
+  "id": 545637,
+  "date": "2026-10-15T02:18:01",
+  "link": "https://www.blocktempo.com/tencent-cloud-rogue-ai-agent-fleet-amap/",
+  "title": "首次與失控 AI 對話！研究員揪出騰訊雲上 AI 代理艦隊，為查高德地圖狂繞反爬、用外洩金鑰",
+  "excerpt": "AI 代理失控事件首度出現中國版本！一支獨立研究團隊發現，一批跑在騰訊雲上的 AI 代理為了取得高德地圖資料，",
+  "category": "AI",
+  "tags": [
+   "AI"
+  ]
+ },
+ {
+  "id": 545632,
+  "date": "2026-10-15T00:53:31",
+  "link": "https://www.blocktempo.com/eba-classifies-usdc-first-significant-emt/",
+  "title": "USDC 成歐盟首個「重要」電子貨幣代幣！11/12 起改由歐盟級雙重監管",
+  "excerpt": "歐盟監管里程碑！歐洲銀行管理局（EBA）依《加密資產市場監管規則》（MiCA），將 Circle 歐盟實體發行",
+  "category": "穩定幣",
+  "tags": [
+   "穩定幣"
+  ]
+ },
+ {
+  "id": 545627,
+  "date": "2026-10-15T00:36:51",
+  "link": "https://www.blocktempo.com/openai-alleges-ex-employee-took-files-to-apple/",
+  "title": "OpenAI 反控蘋果竊密！跳槽員工帶走逾百份未發表產品檔案、還向高層簡報",
+  "excerpt": "蘋果控告 OpenAI 竊密的官司出現反轉！OpenAI 在最新法院文件中反控，一名跳槽至蘋果的前員工將逾 1",
+  "category": "訴訟",
+  "tags": [
+   "訴訟"
+  ]
+ },
+ {
+  "id": 545621,
+  "date": "2026-10-14T21:58:11",
+  "link": "https://www.blocktempo.com/musk-micron-memory-prices-extortionate/",
+  "title": "馬斯克開罵記憶體廠亂漲價！只有美光「合理定價看長遠」",
+  "excerpt": "特斯拉與 SpaceX 執行長 Elon Musk（馬斯克）於台北時間 10 月 14 日清晨在 X 發文，讚",
+  "category": "AI",
+  "tags": [
+   "AI",
+   "獨立觀點"
+  ]
+ },
+ {
+  "id": 545617,
+  "date": "2026-10-14T21:50:17",
+  "link": "https://www.blocktempo.com/coinbase-domain-blocked-taiwan-court-order/",
+  "title": "Coinbase 官網在台被封！動區實測確認，新北地院依選罷法裁定",
+  "excerpt": "美國加密交易所 Coinbase 官網 coinbase.com 自台北時間 10 月 14 日起，在台灣已無",
+  "category": "交易所",
+  "tags": [
+   "交易所",
+   "台灣"
+  ]
+ },
+ {
+  "id": 545613,
+  "date": "2026-10-14T21:35:17",
+  "link": "https://www.blocktempo.com/berkshire-bending-spoons-330-million-stake/",
+  "title": "波克夏海瑟威再砸 3.3 億美元加碼 Bending Spoons！持股升至 4%，IPO 後二度出手",
+  "excerpt": "波克夏海瑟威再度出手！義大利科技公司 Bending Spoons 宣布，波克夏將以每股 33 美元私募認購",
+  "category": "投資分析",
+  "tags": [
+   "投資分析",
+   "金融市場"
+  ]
+ },
+ {
+  "id": 545609,
+  "date": "2026-10-14T21:23:35",
+  "link": "https://www.blocktempo.com/anthropic-openai-engineers-matchmaking-silicon-valley/",
+  "title": "AI 工程師成矽谷最搶手結婚對象！Anthropic、OpenAI 是「第一梯隊」",
+  "excerpt": "矽谷掀起新一波「淘金熱」，目標卻是在 AI 公司上班的單身男性。北美華人婚戀平台創辦人直言，Anthropic",
+  "category": "AI",
+  "tags": [
+   "AI",
+   "即時新聞"
+  ]
+ },
+ {
+  "id": 545597,
+  "date": "2026-10-14T20:47:59",
+  "link": "https://www.blocktempo.com/us-september-cpi-hot-bitcoin-drops/",
+  "title": "美國 9 月 CPI 爆熱！年增 3.7% 超預期，比特幣急跌千鎂下探 8.28 萬",
+  "excerpt": "美國 9 月 CPI 年增 3.7%，高於市場預期的 3.6%；核心 CPI 月增 0.3%、年增 2.6%，",
+  "category": "美國",
+  "tags": [
+   "美國"
+  ]
+ },
+ {
+  "id": 545592,
+  "date": "2026-10-14T20:28:23",
+  "link": "https://www.blocktempo.com/strive-buys-2822-bitcoin-35595-btc/",
+  "title": "Strive 再買 2,822 枚比特幣！耗資 2.35 億鎂，持倉衝上 3.56 萬枚",
+  "excerpt": "比特幣庫藏公司 Strive 於 10 月 14 日向 SEC 提交 8-K 文件，揭露 10 月 12 日至",
+  "category": "加密貨幣市場",
+  "tags": [
+   "加密貨幣市場"
+  ]
+ },
+ {
+  "id": 545571,
+  "date": "2026-10-14T18:06:04",
+  "link": "https://www.blocktempo.com/yung-lean-storm-choreographer-damien-jalet-slams-ai-dance-copies/",
+  "title": "《STORM》那段爆紅舞蹈被 AI 大量仿製！原編舞家批評：創作太懶惰了..",
+  "excerpt": "瑞典歌手 Yung Lean 與 GENER8ION 合作的〈STORM〉MV 推出後，尾聲約兩分半的群舞在社",
+  "category": "AI",
+  "tags": [
+   "AI"
+  ]
+ },
+ {
   "id": 545562,
   "date": "2026-10-14T17:26:51",
   "link": "https://www.blocktempo.com/saizeriya-japan-six-percent-price-hike-apology-insufficient-effort-taiwan/",
