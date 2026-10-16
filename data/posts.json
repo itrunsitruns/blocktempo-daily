@@ -1,5 +1,239 @@
 [
  {
+  "id": 546459,
+  "date": "2026-10-16T17:08:02",
+  "link": "https://www.blocktempo.com/bitcoin-whale-profit-taking-sopr-realized-profit-metrics-explained-guide/",
+  "title": "比特幣巨鯨在停利嗎？一文讀懂 SOPR 與已實現利潤（Realized Profit）指標",
+  "excerpt": "據 DailyCoin 引述 Santiment 的統計，比特幣 10 月 8 日鏈上單日已實現利潤約 10.",
+  "category": "市場分析",
+  "tags": [
+   "市場分析",
+   "比特幣"
+  ]
+ },
+ {
+  "id": 546504,
+  "date": "2026-10-16T17:02:24",
+  "link": "https://www.blocktempo.com/nvidia-rtx-5090-disappears-official-marketplace-production-halt-rumor-unconfirmed/",
+  "title": "RTX 5090 從輝達官方商城消失，停產並未正式證實",
+  "excerpt": "輝達旗艦顯示卡 RTX 5090 已從官方商城消失，美國零售商 Micro Center 也不再販售。輝達至今",
+  "category": "AI",
+  "tags": [
+   "AI",
+   "技術"
+  ]
+ },
+ {
+  "id": 546478,
+  "date": "2026-10-16T16:57:34",
+  "link": "https://www.blocktempo.com/korea-coin-king-jonbeo-kim-acquitted-3400-billion-won-fraud/",
+  "title": "一審無罪！韓國「迷因幣王」笑了，被起訴詐騙3400億韓元「沒證據」",
+  "excerpt": "綽號「존버킴」、被韓國加密社群稱為「幣王」的韓國朴姓男子，被控發行葡萄幣與아튜브兩種詐騙幣，詐得合計約 3,4",
+  "category": "亞太",
+  "tags": [
+   "亞太",
+   "犯罪"
+  ]
+ },
+ {
+  "id": 546460,
+  "date": "2026-10-16T16:32:08",
+  "link": "https://www.blocktempo.com/japan-access-taiwan-subsidiary-cros-ecommerce-breach-customer-credit-card/",
+  "title": "日商 ACCESS 台灣子公司遭駭，15 萬筆網購個資外洩",
+  "excerpt": "日本軟體開發商 ACCESS 於 10 月 15 日公告，台灣子公司 ACCESS AP TAIWAN 的電商",
+  "category": "亞太",
+  "tags": [
+   "亞太",
+   "台灣",
+   "安全"
+  ]
+ },
+ {
+  "id": 546437,
+  "date": "2026-10-16T15:55:52",
+  "link": "https://www.blocktempo.com/apate-ai-agents-pose-scam-victims-extract-accounts-crypto-wallets/",
+  "title": "澳洲打詐「AI假裝阿嬤」接電話，誘出人頭帳戶再給銀行封殺，台灣呢？",
+  "excerpt": "這家新創 Apate.ai 旗下數千個 AI 代理每天和數萬名詐騙者周旋，目標是在有人受害前拿到帳戶與錢包線索",
+  "category": "AI",
+  "tags": [
+   "AI",
+   "安全"
+  ]
+ },
+ {
+  "id": 546431,
+  "date": "2026-10-16T15:41:08",
+  "link": "https://www.blocktempo.com/zeabur-hacked-again-seven-weeks-shared-cluster-dedicated-servers-credentials/",
+  "title": "Zeabur 二度遭駭！環境變數與 API Token 外流，用戶自救止血五步驟",
+  "excerpt": "Zeabur 證實不到七週內再度遭駭：攻擊從退場中的共享叢集爆發，部分 Google Cloud 專用伺服器也",
+  "category": "AI",
+  "tags": [
+   "AI",
+   "台灣",
+   "安全"
+  ]
+ },
+ {
+  "id": 546396,
+  "date": "2026-10-16T14:24:16",
+  "link": "https://www.blocktempo.com/openai-agent-runs-out-of-funds-takes-sepolia-ethereum-wallet-seed-phrase/",
+  "title": "OpenAI 代理錢包沒錢了！靠公共種子短語搶別人的 Sepolia 以太幣",
+  "excerpt": "OpenAI 內部模型在 Sepolia 測試網路用完資金，自行寫指令碼檢查 362 個錢包地址並花掉別人的測",
+  "category": "AI",
+  "tags": [
+   "AI"
+  ]
+ },
+ {
+  "id": 546386,
+  "date": "2026-10-16T14:20:33",
+  "link": "https://www.blocktempo.com/morgan-chase-google-cloud-aws-ai-investment-return-2027-forecast-meta-earnings/",
+  "title": "摩根大通調升谷歌雲107%增長：AI變現真相與Meta盈利警訊",
+  "excerpt": "摩根大通發布最新研究報告，大幅調升谷歌雲與AWS的增長預期，同時對Meta的盈利預測做出下修。報告指出AI變現",
+  "category": "AI",
+  "tags": [
+   "AI"
+  ]
+ },
+ {
+  "id": 546343,
+  "date": "2026-10-16T13:48:14",
+  "link": "https://www.blocktempo.com/google-willow-quantum-chip-error-rate-40x-bitcoin-encryption-threat/",
+  "title": "Google 量子晶片突破：Willow 錯誤率降 40 倍，比特幣加密拉警報",
+  "excerpt": "Google Quantum AI 團隊在《Science》期刊發表最新論文，宣布 Willow 量子晶片成功",
+  "category": "比特幣",
+  "tags": [
+   "比特幣"
+  ]
+ },
+ {
+  "id": 546316,
+  "date": "2026-10-16T11:54:52",
+  "link": "https://www.blocktempo.com/russia-central-bank-confirms-p2p-crypto-ban-july-2027-monero/",
+  "title": "俄羅斯擬 2027 年中封殺公民 P2P 點對點加密貨幣交易",
+  "excerpt": "俄羅斯央行在 10 月 12 日更新的官方問答中確認，自然人之間直接買賣加密貨幣的 P2P 交易，僅能合法進行",
+  "category": "法規",
+  "tags": [
+   "法規",
+   "管制"
+  ]
+ },
+ {
+  "id": 546256,
+  "date": "2026-10-16T11:07:50",
+  "link": "https://www.blocktempo.com/anthropic-scion-version-control-git-monorepo-claude-mythos-seven-engineers/",
+  "title": "Claude 寫太快：Anthropic 自建版本控制系統 Scion 希望 Github 借用",
+  "excerpt": "Claude 寫程式太快，Anthropic 每天合併的程式碼變更 4 個月暴增約 12 倍，讓 Git 快撐",
+  "category": "AI",
+  "tags": [
+   "AI",
+   "技術"
+  ]
+ },
+ {
+  "id": 546251,
+  "date": "2026-10-16T10:58:33",
+  "link": "https://www.blocktempo.com/deepseek-outage-five-hours-refunds-week-api-spend-credit-compensation/",
+  "title": "DeepSeek 昨日當機 5 小時：官方宣布前一週 API 花費以贈金退回當補償",
+  "excerpt": "這是 DeepSeek 從 7 月以來最長的一次故障。補償大約等於讓 API 用戶下一週免費用，但官方沒說故障",
+  "category": "AI",
+  "tags": [
+   "AI",
+   "中國"
+  ]
+ },
+ {
+  "id": 546241,
+  "date": "2026-10-16T10:51:09",
+  "link": "https://www.blocktempo.com/eiliko-ai-robot-toy-leaks-children-chats-china-llm-hijacked/",
+  "title": "這款可愛的 AI 陪伴機器人說「祕密很安全」，結果對話全進入中國伺服器",
+  "excerpt": "Eiliko 是賣給孩子的 AI 陪伴機器人，對話以明文存在中國伺服器，每晚自動替孩子建立檔案，外人還能遠端改",
+  "category": "AI",
+  "tags": [
+   "AI",
+   "中國",
+   "安全"
+  ]
+ },
+ {
+  "id": 546268,
+  "date": "2026-10-16T10:47:50",
+  "link": "https://www.blocktempo.com/tesla-roadster-flying-demo-spacex-thrusters-081-seconds-2028-production/",
+  "title": "不是 AI！特斯拉新電動跑車 Tesla Roadster 竟真的會飛，搭載 SpaceX 噴射技術",
+  "excerpt": "特斯拉新一代 Roadster 在 SpaceX 測試場完成倒吊與空中翻轉。售價尚未揭曉，量產時程訂在 202",
+  "category": "技術",
+  "tags": [
+   "技術",
+   "美國"
+  ]
+ },
+ {
+  "id": 546168,
+  "date": "2026-10-16T10:07:02",
+  "link": "https://www.blocktempo.com/bo-hines-trump-crypto-advisor-genius-act-profit-chain/",
+  "title": "白宮加密顧問帶人搶吃穩定幣！GENIUS 法案幕後利益鏈曝光",
+  "excerpt": "華盛頓郵報發現，川普加密顧問 Bo Hines 在白宮推動穩定幣法案期間，自己創立的投資公司同步收到 Teth",
+  "category": "法規",
+  "tags": [
+   "法規"
+  ]
+ },
+ {
+  "id": 546174,
+  "date": "2026-10-16T10:05:51",
+  "link": "https://www.blocktempo.com/ripple-integrates-stripe-owned-privy-wallets-xrp-ledger-ai-agent-payments-x402/",
+  "title": "Ripple 引入 Stripe 錢包技術！AI Agent 支付破 1400 萬筆",
+  "excerpt": "Ripple 與 Stripe 旗下錢包基礎設施 Privy 合作，讓開發者能在 App 內直接嵌入 XRP",
+  "category": "加密貨幣市場",
+  "tags": [
+   "加密貨幣市場"
+  ]
+ },
+ {
+  "id": 546190,
+  "date": "2026-10-16T10:02:45",
+  "link": "https://www.blocktempo.com/msci-finalizes-non-operating-company-rules-strategy-metaplanet-sharplink-index-exclusion/",
+  "title": "MSCI 敲定新規則！比特幣相關 Strategy、Metaplanet 可能被踢出指數",
+  "excerpt": "MSCI 正式透過非營運公司篩查規則，Strategy、Metaplanet、SharpLink 等加密財庫公",
+  "category": "比特幣",
+  "tags": [
+   "比特幣"
+  ]
+ },
+ {
+  "id": 546198,
+  "date": "2026-10-16T10:01:45",
+  "link": "https://www.blocktempo.com/australia-oecd-carf-crypto-tax-reporting-framework-2028-draft-bill/",
+  "title": "澳洲把 OECD 加密框架寫進草案！2028 起加密稅務資料將自動跨國交換",
+  "excerpt": "澳洲財政部公布草案，準備把 OECD 的加密資產稅務報告框架（CARF）納入國內法，77 個管轄區已同意採用，",
+  "category": "法規",
+  "tags": [
+   "法規"
+  ]
+ },
+ {
+  "id": 546194,
+  "date": "2026-10-16T09:35:28",
+  "link": "https://www.blocktempo.com/farcaster-acquired-network-school-balaji-social-smart-contract-neynar/",
+  "title": "Farcaster 被收購！Network School 接手，使用者要簽「社交智慧合約」",
+  "excerpt": "去中心化社交網路 Farcaster 今年二度易主，Balaji Srinivasan 創辦的 Network",
+  "category": "社交",
+  "tags": [
+   "社交"
+  ]
+ },
+ {
+  "id": 546208,
+  "date": "2026-10-16T09:27:20",
+  "link": "https://www.blocktempo.com/morning-roundup-btc-82k-eth-2400-liquidations-840m-greed-63/",
+  "title": "比特幣強彈回8.26萬鎂、以太坊收復2,467鎂！爆倉8.4億鎂、貪婪指數回升至63點",
+  "excerpt": "美 9 月 PPI 爆表一度壓垮比特幣跌破 8 萬美元，隨後強彈重返 82,333 美元、24 小時漲 0.8",
+  "category": "市場分析",
+  "tags": [
+   "市場分析"
+  ]
+ },
+ {
   "id": 546162,
   "date": "2026-10-16T01:23:27",
   "link": "https://www.blocktempo.com/chainalysis-ledger-theft-task-scammer-60-btc/",
