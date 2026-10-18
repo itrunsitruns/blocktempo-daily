@@ -1,5 +1,151 @@
 [
  {
+  "id": 547218,
+  "date": "2026-10-18T16:58:02",
+  "link": "https://www.blocktempo.com/tether-invests-aisa-ai-agent-infrastructure-strategic-investor-seed-extension-round/",
+  "title": "Tether 投資 AI Agent 基礎設施 AIsa！HIVEN 跟進，募資破 900 萬美元",
+  "excerpt": "Tether 和 HIVEN 以策略投資人身份加入 AI Agent 基礎設施公司 AIsa 的種子延伸輪，總",
+  "category": "AI",
+  "tags": [
+   "AI",
+   "即時新聞"
+  ]
+ },
+ {
+  "id": 547102,
+  "date": "2026-10-18T15:45:12",
+  "link": "https://www.blocktempo.com/anthropic-drafts-ai-safety-bill-judge-approval-required-model-suspension/",
+  "title": "Anthropic 私下推自家法案：AI 恐致 50 人死傷、10 億美元損失才能叫停",
+  "excerpt": "Politico 取得 Anthropic 私下推銷的前沿 AI 安全法案草案：僅在模型構成迫在眉睫、可能造成",
+  "category": "AI",
+  "tags": [
+   "AI",
+   "法規",
+   "美國"
+  ]
+ },
+ {
+  "id": 547134,
+  "date": "2026-10-18T15:01:31",
+  "link": "https://www.blocktempo.com/waymo-toronto-canada-robotaxi-2028-ontario-pilot-rules-expire-2027/",
+  "title": "Waymo 自動駕駛進軍加拿大，目標 2028 年多倫多載客",
+  "excerpt": "Waymo 瞄準 2028 年在多倫多載客，但安大略現行試點規章僅允許測試、2027 年 10 月就廢止，Wa",
+  "category": "AI",
+  "tags": [
+   "AI",
+   "技術"
+  ]
+ },
+ {
+  "id": 547202,
+  "date": "2026-10-18T14:50:43",
+  "link": "https://www.blocktempo.com/strive-7600-btc-td-cowen-raises-target-630m-preferred/",
+  "title": "投行上調 Strive 目標價，兩週狂掃 7,600 枚 BTC 成美股上市公司第四大比特幣財庫",
+  "excerpt": "Strive 過去兩週加倉近 7,600 枚比特幣，持倉飆上 35,595 枚超越 MARA，投行 TD Co",
+  "category": "市場分析",
+  "tags": [
+   "市場分析",
+   "比特幣"
+  ]
+ },
+ {
+  "id": 547191,
+  "date": "2026-10-18T14:40:57",
+  "link": "https://www.blocktempo.com/coinbase-marqeta-stablecoin-backed-cards-for-businesses-base-settlement/",
+  "title": "助企業自由發行穩定幣支付卡，Coinbase 管錢、Marqeta 管卡",
+  "excerpt": "支付科技公司 Marqeta 與 Coinbase 宣布擴大六年合作，企業客戶可發行以穩定幣為後盾的支付卡。C",
+  "category": "AI",
+  "tags": [
+   "AI",
+   "以太坊"
+  ]
+ },
+ {
+  "id": 547157,
+  "date": "2026-10-18T13:00:04",
+  "link": "https://www.blocktempo.com/openai-trains-employees-spot-honeypot-spies-erase-whiteboards-anthropic-google/",
+  "title": "OpenAI 教員工防美人計：被搭訕「可能是間諜」、別在外穿有公司 Logo 衣服",
+  "excerpt": "OpenAI 在內部培訓提醒員工，有人勾引時先想想對方會不會是間諜，開完會也要把白板擦乾淨。據《華爾街日報》報",
+  "category": "AI",
+  "tags": [
+   "AI",
+   "安全",
+   "美國"
+  ]
+ },
+ {
+  "id": 547138,
+  "date": "2026-10-18T12:48:51",
+  "link": "https://www.blocktempo.com/anap-japan-bitcoin-treasury-valuation-loss-debt-shareholder-dilution-apparel/",
+  "title": "日本上市服飾公司 ANAP 跟風囤比特幣一年，從賺 12 億變虧 43.7 億日圓",
+  "excerpt": "日本服飾公司 ANAP 去年靠比特幣帳面賺 12.2 億日圓，可一年過去變成虧 43.7 億，幣沒賣、但仍未回",
+  "category": "市場分析",
+  "tags": [
+   "市場分析",
+   "比特幣"
+  ]
+ },
+ {
+  "id": 547127,
+  "date": "2026-10-18T11:35:58",
+  "link": "https://www.blocktempo.com/penn-professor-carolyn-marvin-arrested-blocking-uber-eats-delivery-robots/",
+  "title": "78 歲美國退休教授阻擋 Uber Eats 送餐機器人被捕：抗議搶走外送員工作",
+  "excerpt": "78 歲的賓大名譽教授馬文在費城人行道上擋 Uber Eats 送餐機器人，10 月 14 日被警方以擾亂秩序",
+  "category": "AI",
+  "tags": [
+   "AI",
+   "美國"
+  ]
+ },
+ {
+  "id": 547121,
+  "date": "2026-10-18T11:22:53",
+  "link": "https://www.blocktempo.com/opencode-breach-console-provider-api-keys-exposed-distillation-attack-anthropic/",
+  "title": "開源工具 OpenCode 今晨遇駭：用戶 OpenAI、Anthropic、Google 金鑰恐已外洩",
+  "excerpt": "開源程式代理工具 OpenCode 的雲端服務 Console 有一套舊系統被入侵，用戶存在裡面的 OpenA",
+  "category": "AI",
+  "tags": [
+   "AI",
+   "安全"
+  ]
+ },
+ {
+  "id": 547092,
+  "date": "2026-10-18T11:11:10",
+  "link": "https://www.blocktempo.com/deepseek-flash-update-faster-shorter-answers-same-price-open-weights/",
+  "title": "DeepSeek 推出 V4.1 Flash 新版：跑分升、回答更短、價格不變",
+  "excerpt": "DeepSeek 週末推出 V4.1-Flash-1017 小改版，官方稱跑分更高、回答更短、API 價格不變",
+  "category": "AI",
+  "tags": [
+   "AI",
+   "中國"
+  ]
+ },
+ {
+  "id": 546983,
+  "date": "2026-10-18T10:30:03",
+  "link": "https://www.blocktempo.com/bis-paper-banks-can-slow-stablecoin-growth-by-paying-deposit-rates-more/",
+  "title": "國際清算銀行研究：銀行只要多付 0.01% 存款利率，穩定幣成長就會慢 20～50%",
+  "excerpt": "國際清算銀行（BIS）新論文發現，銀行平均存款利率每上升1個基點（0.01%），就能把穩定幣市值 10 週平均",
+  "category": "法規",
+  "tags": [
+   "法規",
+   "穩定幣"
+  ]
+ },
+ {
+  "id": 547084,
+  "date": "2026-10-18T10:15:02",
+  "link": "https://www.blocktempo.com/anthropic-blackstone-10-percent-yield-600-billion-ai-chip-financing/",
+  "title": "Anthropic 以 10% 票息向黑石融資 600 億美元，比市場基準高 300 個基點",
+  "excerpt": "英國《金融時報》披露，Anthropic 以 10% 票息向黑石集團融資 600 億美元，換取史上最大規模的晶",
+  "category": "AI",
+  "tags": [
+   "AI",
+   "美國"
+  ]
+ },
+ {
   "id": 546974,
   "date": "2026-10-17T19:55:39",
   "link": "https://www.blocktempo.com/arthur-hayes-quantum-threat-known-risk-address-hygiene-bitcoin-wallets/",
@@ -510,8 +656,8 @@
   "id": 546396,
   "date": "2026-10-16T14:24:16",
   "link": "https://www.blocktempo.com/openai-agent-runs-out-of-funds-takes-sepolia-ethereum-wallet-seed-phrase/",
-  "title": "OpenAI 代理錢包沒錢了！靠公共種子短語搶別人的 Sepolia 以太幣",
-  "excerpt": "OpenAI 內部模型在 Sepolia 測試網路用完資金，自行寫指令碼檢查 362 個錢包地址並花掉別人的測",
+  "title": "OpenAI 代理沒錢付手續費！靠公共種子短語動用別人的 Sepolia 以太幣",
+  "excerpt": "OpenAI 內部模型要在 Sepolia 測試網路部署合約，手上沒有測試幣付手續費，就自行寫指令碼檢查 36",
   "category": "AI",
   "tags": [
    "AI"
