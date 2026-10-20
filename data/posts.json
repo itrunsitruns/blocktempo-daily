@@ -1,5 +1,168 @@
 [
  {
+  "id": 547873,
+  "date": "2026-10-20T01:33:07",
+  "link": "https://www.blocktempo.com/ai-agents-hacker-cairn-100-sites-deere-norforge/",
+  "title": "中文駭客靠 AI 代理狂掃 1,200 個網站！Deere、SharkNinja 受害，每次入侵只要 50 美元",
+  "excerpt": "資安公司 NorForge 研究員發現，一名說中文的駭客幾乎全靠 AI 代理自動攻擊，嘗試入侵超過 1,200",
+  "category": "AI",
+  "tags": [
+   "AI",
+   "安全"
+  ]
+ },
+ {
+  "id": 547869,
+  "date": "2026-10-20T01:23:45",
+  "link": "https://www.blocktempo.com/mastercard-stablecoin-security-risk-intelligence/",
+  "title": "萬事達卡發表風控服務 Stablecoin Security！穩定幣上鏈前先打風險分數，2027 年全球商用",
+  "excerpt": "萬事達卡（Mastercard）在 Money20/20 USA 發表穩定幣風控服務「Stablecoin S",
+  "category": "穩定幣",
+  "tags": [
+   "穩定幣"
+  ]
+ },
+ {
+  "id": 547854,
+  "date": "2026-10-19T23:46:52",
+  "link": "https://www.blocktempo.com/anthropic-new-model-reads-user-intentions/",
+  "title": "Anthropic 傳本月發表新模型！Google Gemini 4 Carbon 同步備戰，OpenAI 新 Terra 也可能跟進",
+  "excerpt": "美媒獨家爆料，Anthropic 正準備發表一款推理與直覺更強的新模型，擅長在資訊有限時判讀用戶真正的意圖，也",
+  "category": "AI",
+  "tags": [
+   "AI"
+  ]
+ },
+ {
+  "id": 547840,
+  "date": "2026-10-19T23:11:01",
+  "link": "https://www.blocktempo.com/sparkassen-crypto-trading-launch-deka/",
+  "title": "德國儲蓄銀行 Sparkassen 開放加密交易！首批上線 BTC 等 5 幣，每筆收 0.99 歐元",
+  "excerpt": "德國儲蓄銀行（Sparkassen）週一起分批開放客戶用 App 買賣比特幣等 5 種加密貨幣，每月再增 30",
+  "category": "其他國家",
+  "tags": [
+   "其他國家",
+   "銀行"
+  ]
+ },
+ {
+  "id": 547836,
+  "date": "2026-10-19T22:36:31",
+  "link": "https://www.blocktempo.com/dhs-orders-deepseek-removal-federal-agencies/",
+  "title": "美國國土安全部下令聯邦文職機關全面移除 DeepSeek！第三方衍生服務也遭封殺",
+  "excerpt": "美國國土安全部（DHS）週一公告，依《聯邦採購供應鏈安全法》（FASCSA）下令聯邦文職機關將 DeepSee",
+  "category": "AI",
+  "tags": [
+   "AI",
+   "中國",
+   "美國"
+  ]
+ },
+ {
+  "id": 547826,
+  "date": "2026-10-19T21:17:21",
+  "link": "https://www.blocktempo.com/zakura-quantum-unlinkability-zec-near-intents/",
+  "title": "ZEC 與 NEAR 深度綁定？Zakura 量子防護方案揭露跨鏈隱私的真實代價",
+  "excerpt": "Zcash 全節點團隊 Zakura 發表「量子不可連結性」方案，直指 ZEC 透過 NEAR Intents",
+  "category": "加密貨幣市場",
+  "tags": [
+   "加密貨幣市場",
+   "市場分析"
+  ]
+ },
+ {
+  "id": 547818,
+  "date": "2026-10-19T20:52:46",
+  "link": "https://www.blocktempo.com/bitmine-buys-12535-eth-holdings-6-04-million/",
+  "title": "Bitmine 再買 12,535 枚 ETH！總持倉達 604 萬枚，距 5% 上限剩約 6.4 萬枚",
+  "excerpt": "以太坊財庫龍頭 Bitmine 於台北時間 10/19 晚間公布最新週報，過去一週再增持 12,535 枚 E",
+  "category": "以太坊",
+  "tags": [
+   "以太坊",
+   "加密貨幣市場"
+  ]
+ },
+ {
+  "id": 547809,
+  "date": "2026-10-19T20:45:08",
+  "link": "https://www.blocktempo.com/super-league-approves-metaplanet-superplanet/",
+  "title": "Metaplanet 進軍美國！Super League 股東批准 2,100 枚 BTC 注資、將更名 Superplanet",
+  "excerpt": "Metaplanet 進軍美股最關鍵的一關過了！那斯達克上市公司 Super League 股東會批准全部議案",
+  "category": "加密貨幣市場",
+  "tags": [
+   "加密貨幣市場",
+   "比特幣",
+   "美國"
+  ]
+ },
+ {
+  "id": 547802,
+  "date": "2026-10-19T20:36:06",
+  "link": "https://www.blocktempo.com/strive-buys-1223-bitcoin-36818-btc/",
+  "title": "Strive 再買 1,223 枚比特幣！持倉達 36,818 枚，6.3 億鎂 SATS 優先股 10/20 交割",
+  "excerpt": "比特幣財庫公司 Strive（Nasdaq：ASST）於台北時間 10 月 19 日晚間向 SEC 提交 8-",
+  "category": "加密貨幣市場",
+  "tags": [
+   "加密貨幣市場"
+  ]
+ },
+ {
+  "id": 547795,
+  "date": "2026-10-19T20:18:39",
+  "link": "https://www.blocktempo.com/strategy-buys-267-bitcoin-strc-buyback-3-billion/",
+  "title": "Strategy 再買 267 枚比特幣、回購 1.93 億鎂 STRC！回購額度擴至 30 億美元",
+  "excerpt": "比特幣財庫龍頭 Strategy 今（19）日向 SEC 申報，上週以 2,210 萬美元加碼 267 枚比特",
+  "category": "加密貨幣市場",
+  "tags": [
+   "加密貨幣市場"
+  ]
+ },
+ {
+  "id": 547791,
+  "date": "2026-10-19T20:11:21",
+  "link": "https://www.blocktempo.com/slowmist-darksword-ios-wallet-attack-live/",
+  "title": "慢霧警告：iPhone 惡意程式「DarkSword」已武器化上線，開網頁就可能被盜加密助記詞",
+  "excerpt": "資安公司慢霧（SlowMist）最新威脅情報指出，今年 3 月起陸續公開在 GitHub 上的 iOS 漏洞利",
+  "category": "安全",
+  "tags": [
+   "安全",
+   "錢包"
+  ]
+ },
+ {
+  "id": 547770,
+  "date": "2026-10-19T19:29:19",
+  "link": "https://www.blocktempo.com/variant-alana-levin-bull-market-marginal-dollars-ai-narrative-trap/",
+  "title": "Variant：牛市下半場錢只湧向兩類資產，AI 幣是警訊",
+  "excerpt": "Variant 合夥人 Alana Levin 斷言：7 月已確立底部，牛市下半場邊際美元只湧向兩大陣營——本",
+  "category": "市場分析",
+  "tags": [
+   "市場分析"
+  ]
+ },
+ {
+  "id": 547755,
+  "date": "2026-10-19T18:46:41",
+  "link": "https://www.blocktempo.com/crypto-vault-deposits-surge-10-billion-lending-risks-sec-scrutiny-defi/",
+  "title": "Crypto vault 存款破 100 億！3-20% 報酬背後，抵押品風險浮現",
+  "excerpt": "加密貨幣借貸 vault 存款在一年內從 40 億飆到 100 億，curator 機制仿傳統基金經理模式，報",
+  "category": "defi",
+  "tags": [
+   "defi"
+  ]
+ },
+ {
+  "id": 547751,
+  "date": "2026-10-19T18:44:40",
+  "link": "https://www.blocktempo.com/yuga-labs-mudwater-tcg-nft-market-community-attempt/",
+  "title": "Yuga Labs 送 TCG卡包，NFT 市場不買帳",
+  "excerpt": "Yuga Labs推出Mudwater TCG卡牌，但NFT市場低迷加上成熟IP競爭，市場反應冷淡 （前情提要",
+  "category": "nft",
+  "tags": [
+   "nft"
+  ]
+ },
+ {
   "id": 547720,
   "date": "2026-10-19T17:19:06",
   "link": "https://www.blocktempo.com/nintendo-switch-2-repair-price-hike-memory-cost/",
@@ -6824,28 +6987,6 @@
   "tags": [
    "AI",
    "美國"
-  ]
- },
- {
-  "id": 539654,
-  "date": "2026-09-30T15:28:57",
-  "link": "https://www.blocktempo.com/kalshi-40-billion-valuation-new-funding-round-sequoia-tiger-global-dragoneer/",
-  "title": "Kalshi 估價衝 400 億美元！4 個月翻倍，Sequoia 領投",
-  "excerpt": "Kalshi 再傳融資大訊息。路透社獨家曝，預測市場平台正在進行新一輪約 10 億美元融資，估值已衝上 400",
-  "category": "加密貨幣市場",
-  "tags": [
-   "加密貨幣市場"
-  ]
- },
- {
-  "id": 539690,
-  "date": "2026-09-30T15:21:11",
-  "link": "https://www.blocktempo.com/sec-new-crypto-rules-faq-explained/",
-  "title": "SEC 加密新規 FAQ 解讀：代幣回購、質押憑據與網路升級的合規邊界",
-  "excerpt": "SEC 發布加密資產 FAQ，說明代幣回購、質押憑證、上線後開發及交易平台定位怎麼判斷。關鍵在網路是否已具功能",
-  "category": "法規",
-  "tags": [
-   "法規"
   ]
  }
 ]
