@@ -1,5 +1,38 @@
 [
  {
+  "id": 549693,
+  "date": "2026-10-23T02:05:31",
+  "link": "https://www.blocktempo.com/linux-ksmbd-cvss9-rce-unpatched/",
+  "title": "Linux KSMBD 爆兩項 CVSS 9.0 遠端執行漏洞！一項免認證，mainline 尚未修補",
+  "excerpt": "Trend Micro Zero Day Initiative 在公開的 Linux 核心郵件清單揭露兩項 K",
+  "category": "安全",
+  "tags": [
+   "安全"
+  ]
+ },
+ {
+  "id": 549680,
+  "date": "2026-10-23T01:05:08",
+  "link": "https://www.blocktempo.com/bitcoin-below-81k-ethereum-loses-2400/",
+  "title": "比特幣下探 8.1 萬美元、以太坊失守 $2,400！多單爆倉佔逾 9 成，一日回吐 3,400 美元",
+  "excerpt": "比特幣下探 8.1 萬美元關口，24 小時跌幅約 3.7%，以太坊失守 2,400 美元、跌逾 5%。槓桿多單",
+  "category": "加密貨幣市場",
+  "tags": [
+   "加密貨幣市場"
+  ]
+ },
+ {
+  "id": 549669,
+  "date": "2026-10-23T00:18:04",
+  "link": "https://www.blocktempo.com/us-stocks-selloff-iran-oil-ai-bitcoin/",
+  "title": "美股血洗！那斯達克重挫 2%、晶片股暴跌 5%，比特幣跌破 8.2 萬美元",
+  "excerpt": "美股週四盤中重挫，那斯達克指數一度跌逾 2%，費城半導體指數下殺 5.4%。美以傳將於期中選舉後再攻伊朗，布蘭",
+  "category": "金融市場",
+  "tags": [
+   "金融市場"
+  ]
+ },
+ {
   "id": 549657,
   "date": "2026-10-22T23:32:06",
   "link": "https://www.blocktempo.com/tesla-spacex-merger-bitcoin-holdings/",
@@ -6930,40 +6963,6 @@
   "tags": [
    "AI",
    "美國"
-  ]
- },
- {
-  "id": 541220,
-  "date": "2026-10-04T16:06:15",
-  "link": "https://www.blocktempo.com/gpt-6-astra-napoleon-marmont-cipher-engineer-solves-217-year/",
-  "title": "工程師靠 GPT-6 Astra 解開塵封 217 年的拿破崙密令",
-  "excerpt": "SentinelOne 工程師 Carter Church 用 GPT-6 Astra 約 6 小時的模型時間",
-  "category": "AI",
-  "tags": [
-   "AI"
-  ]
- },
- {
-  "id": 541206,
-  "date": "2026-10-04T15:24:39",
-  "link": "https://www.blocktempo.com/openai-robinson-resigns-atlantic-essay-iterative-deployment-safety-culture-fired/",
-  "title": "OpenAI 安全大地震：透明度主管離職轟「文化已壞」、3 名員工涉洩密遭解僱",
-  "excerpt": "OpenAI 安全透明度負責人離職後投書《大西洋》，直指公司靠試錯與迭代部署的做法保證會遇到週期性失敗，主張安",
-  "category": "AI",
-  "tags": [
-   "AI"
-  ]
- },
- {
-  "id": 541215,
-  "date": "2026-10-04T14:49:20",
-  "link": "https://www.blocktempo.com/ex-nca-officer-chowles-silk-road-bitcoin-theft-confiscation-order/",
-  "title": "英國警察從證物偷走 50 枚絲路扣押比特幣，九年後被判罰 240 萬美元",
-  "excerpt": "英國前 NCA 警官 Paul Chowles 偷走絲路 2.0 案查扣的 50 枚比特幣，當年約值 59,4",
-  "category": "比特幣",
-  "tags": [
-   "比特幣",
-   "犯罪"
   ]
  }
 ]
