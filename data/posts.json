@@ -1,5 +1,101 @@
 [
  {
+  "id": 550494,
+  "date": "2026-10-25T01:19:03",
+  "link": "https://www.blocktempo.com/bitcoin-drops-below-80k-as-us-evacuates-mideast/",
+  "title": "美國中東大撤退！WSJ 曝伊朗「致命謀殺」升階，比特幣閃崩 8 萬美元",
+  "excerpt": "美國中東撤僑行動急速升級，DNI 備忘錄披露伊朗針對美國公民的「致命謀殺」已達高階階段。比特幣 24 小時內跌",
+  "category": "市場分析",
+  "tags": [
+   "即時新聞",
+   "市場分析"
+  ]
+ },
+ {
+  "id": 550497,
+  "date": "2026-10-25T01:13:52",
+  "link": "https://www.blocktempo.com/block-dessa-voice-ai-human-scam-fears-cz/",
+  "title": "Jack Dorsey 發表語音 AI「Dessa」社群驚呼太像人！可本地運行於 MacBook Pro",
+  "excerpt": "Jack Dorsey 的支付公司 Block 發布語音 AI「Dessa」，稱只用人類語音訓練、可直接處理音",
+  "category": "AI",
+  "tags": [
+   "AI"
+  ]
+ },
+ {
+  "id": 550444,
+  "date": "2026-10-24T18:06:35",
+  "link": "https://www.blocktempo.com/gmo-forex-cloud-server-hack-ransom-refused-compensation-japan-traders/",
+  "title": "日本 GMO 外匯主機遭駭勒索，超衰用戶 2 秒虧 400 萬日圓",
+  "excerpt": "日本雲端廠商 GMO 網路旗下外匯自動交易常用的雲端主機服務遭駭，GMO 宣布補償用戶因不當交易產生的實現損失",
+  "category": "亞太",
+  "tags": [
+   "亞太",
+   "安全",
+   "犯罪"
+  ]
+ },
+ {
+  "id": 550441,
+  "date": "2026-10-24T18:03:13",
+  "link": "https://www.blocktempo.com/umamusume-los-angeles-concert-canceled-visa-cygames-refunds-travel-hotel/",
+  "title": "《賽馬娘》洛杉磯公演因簽證取消，官方全退「機票與旅館費」",
+  "excerpt": "據 《賽馬娘》官方網站，原定 10 月 22、23 日在洛杉磯 Peacock Theater 舉行的公演，因",
+  "category": "亞太",
+  "tags": [
+   "亞太",
+   "遊戲"
+  ]
+ },
+ {
+  "id": 550442,
+  "date": "2026-10-24T17:58:45",
+  "link": "https://www.blocktempo.com/clifton-collins-ireland-lost-bitcoin-500-btc-coinbase-prime-fifth/",
+  "title": "愛爾蘭毒販弄丟比特幣私鑰，再轉出 500 枚！到底是誰？",
+  "excerpt": "Arkham 標記屬於愛爾蘭毒販 Clifton Collins 的比特幣地址，10 月 20 日在沉睡超過",
+  "category": "比特幣",
+  "tags": [
+   "比特幣",
+   "犯罪"
+  ]
+ },
+ {
+  "id": 550443,
+  "date": "2026-10-24T17:55:31",
+  "link": "https://www.blocktempo.com/netanyahu-israel-blockchain-plan-banking-sanctions-channel-interview-economists-warn/",
+  "title": "以色列面臨「將來的金融制裁」，總理納坦雅胡：用區塊鏈繞過",
+  "excerpt": "以色列總理納坦雅胡 10 月 23 日接受電視專訪時說，以色列可能面臨包括銀行業在內的制裁，他已要求準備用區塊",
+  "category": "法規",
+  "tags": [
+   "即時新聞",
+   "法規"
+  ]
+ },
+ {
+  "id": 550438,
+  "date": "2026-10-24T17:52:18",
+  "link": "https://www.blocktempo.com/machi-big-brother-sells-three-mutant-apes-one-eth-hyperliquid/",
+  "title": "麻吉大哥缺這點錢？1 ETH 拋售變異猿，帳面虧損約 85%",
+  "excerpt": "麻吉大哥 machibigbrother 在 23 日以每隻 1 枚 ETH 賣出 2 隻持有 3 年的變異猿",
+  "category": "nft",
+  "tags": [
+   "nft",
+   "市場分析"
+  ]
+ },
+ {
+  "id": 550424,
+  "date": "2026-10-24T17:36:59",
+  "link": "https://www.blocktempo.com/visa-fireblocks-25b-acquisition-talks-denied-stablecoin-custody/",
+  "title": "Visa 傳 25 億鎂收購 Fireblocks！官方一口否認：訊息不實",
+  "excerpt": "Axios 獨家報導 Visa 正與加密託管巨頭 Fireblocks 進行尾盤階段的收購談判，標價約 25",
+  "category": "市場分析",
+  "tags": [
+   "即時新聞",
+   "市場分析"
+  ]
+ },
+ {
   "id": 550390,
   "date": "2026-10-24T13:29:40",
   "link": "https://www.blocktempo.com/rtx-5090-video-gaming-cards-dismantled-converted-ai-server-blower/",
@@ -6882,104 +6978,6 @@
    "亞太",
    "安全",
    "銀行"
-  ]
- },
- {
-  "id": 542100,
-  "date": "2026-10-06T18:36:34",
-  "link": "https://www.blocktempo.com/type-help-sparks-japan-death-cause-deduction-games-obra-dinn/",
-  "title": "「死因推理遊戲」在日本走紅，免費《Type Help》帶動",
-  "excerpt": "日本遊戲媒體 AUTOMATON 10 月 4 日報導，要玩家從遺體或紀錄查出死者身分與死因的「死因推理遊戲」",
-  "category": "亞太",
-  "tags": [
-   "亞太",
-   "遊戲"
-  ]
- },
- {
-  "id": 542104,
-  "date": "2026-10-06T18:36:01",
-  "link": "https://www.blocktempo.com/korea-ai-judge-app-settles-couple-fights-tops-social-ranking/",
-  "title": "韓國情侶吵架 AI 裁決 App，兩個月衝上社交類下載第 1",
-  "excerpt": "韓國「AI 戀愛法庭」App 讓情侶輸入吵架經過，由 AI 用類似判決書的格式判定誰對誰錯。App 上線 2",
-  "category": "AI",
-  "tags": [
-   "AI",
-   "亞太",
-   "社交"
-  ]
- },
- {
-  "id": 542086,
-  "date": "2026-10-06T18:07:37",
-  "link": "https://www.blocktempo.com/taiwan-blockchain-association-former-chairman-liu-tingwei-meka-fraud-sentenced/",
-  "title": "MEKA 幣吸金案一審，台灣區塊鏈協會前理事長劉庭瑋判 5 年 6 月",
-  "excerpt": "台灣區塊鏈協會前理事長劉庭瑋被控自創 MEKA 幣，又推銷綁定網路遊戲的 SBC、DTT 幣，向 6 位投資人",
-  "category": "台灣",
-  "tags": [
-   "台灣",
-   "法規",
-   "犯罪"
-  ]
- },
- {
-  "id": 542057,
-  "date": "2026-10-06T17:39:53",
-  "link": "https://www.blocktempo.com/fake-suicide-talk-claude-ban-immunity-rumor-debunked-anthropic-protocol/",
-  "title": "中國反 Claude 封鎖奇招：假裝和 AI 聊自殺，美國法律會罩你？",
-  "excerpt": "中國社群近日傳言「假裝聊輕生就不會被封號」的偏方（因為 Claude 目前不允許中國地區用戶使用）。儘管 Cl",
-  "category": "AI",
-  "tags": [
-   "AI",
-   "法規",
-   "美國"
-  ]
- },
- {
-  "id": 542067,
-  "date": "2026-10-06T17:23:37",
-  "link": "https://www.blocktempo.com/amd-lisa-su-confirms-higher-taiwan-supply-chain-investment-capacity/",
-  "title": "蘇姿丰證實 AMD 在台百億美元投資將調高，新金額未公布",
-  "excerpt": "AMD 董事長暨執行長蘇姿丰 10 月 6 日訪台，親口證實今年 5 月宣布的在台 100 億美元供應鏈投資會",
-  "category": "AI",
-  "tags": [
-   "AI",
-   "台灣"
-  ]
- },
- {
-  "id": 542063,
-  "date": "2026-10-06T17:17:02",
-  "link": "https://www.blocktempo.com/ondo-finance-private-markets-tokenized-notes-pre-ipo-ai-company/",
-  "title": "Ondo 推代幣化 Pre-IPO 票據！掛鉤未上市 AI 公司",
-  "excerpt": "Ondo Finance 10 月 6 日推出 Ondo Private Markets，透過代幣化票據提供未",
-  "category": "區塊鏈平台",
-  "tags": [
-   "區塊鏈平台",
-   "金融市場"
-  ]
- },
- {
-  "id": 542004,
-  "date": "2026-10-06T16:11:11",
-  "link": "https://www.blocktempo.com/ethereum-glamsterdam-sepolia-test-emergency-soft-fix-prysm-721-gas-limit-200-million/",
-  "title": "以太坊 Glamsterdam 升級緊急修補 Prysm，Sepolia 測試網 Gas 上限升至 2 億",
-  "excerpt": "以太坊開發團隊在 Glamsterdam 升級上 Sepolia 測試網前緊急推出 Prysm 7.2.1，修",
-  "category": "以太坊",
-  "tags": [
-   "以太坊"
-  ]
- },
- {
-  "id": 542033,
-  "date": "2026-10-06T16:01:41",
-  "link": "https://www.blocktempo.com/cloudflare-clef-open-weights-decision-model-follows-typesafe-jev-qwen/",
-  "title": "Cloudflare 開源決策模型 Clef 對決 Jev：延遲砍半，但單價是 5.7 倍",
-  "excerpt": "Cloudflare 以阿里巴巴的開源 Qwen 為底座，在 Jev 推出 16 天後，交出 API 相容、開",
-  "category": "AI",
-  "tags": [
-   "AI",
-   "技術"
   ]
  }
 ]
