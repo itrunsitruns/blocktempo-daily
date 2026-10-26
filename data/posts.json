@@ -1,5 +1,65 @@
 [
  {
+  "id": 550736,
+  "date": "2026-10-26T08:26:49",
+  "link": "https://www.blocktempo.com/bitcoin-wick-below-80k-eth-holds-2300/",
+  "title": "比特幣今早插針失守 8 萬美元後收回！以太坊險守 $2300，週末爆倉餘波未消",
+  "excerpt": "比特幣今早一度插針、再次失守 8 萬美元，最低約見 7.97 萬至 7.98 萬美元後迅速收回站上關口；以太坊",
+  "category": "加密貨幣市場",
+  "tags": [
+   "加密貨幣市場"
+  ]
+ },
+ {
+  "id": 550720,
+  "date": "2026-10-26T08:11:28",
+  "link": "https://www.blocktempo.com/keystone-breach-180-day-deletion-claim-broken/",
+  "title": "硬體錢包廠 Keystone 資安承諾翻車！180 天刪資料形同虛設，2 年前訂單個資遭外洩",
+  "excerpt": "硬體錢包廠 Keystone 週六宣布 Shopify 官方網站遭駭，客戶姓名、聯絡方式、收件地址與訂單明細外",
+  "category": "安全",
+  "tags": [
+   "安全",
+   "錢包"
+  ]
+ },
+ {
+  "id": 550725,
+  "date": "2026-10-26T08:05:12",
+  "link": "https://www.blocktempo.com/coindcx-confirms-16m-loss-after-ceo-called-breach-false-alarm/",
+  "title": "CoinDCX 認賠 1600 萬鎂！CEO 三天前還說駭案是誤報",
+  "excerpt": "印度加密交易所 CoinDCX 承認，因自動掃款服務中斷，約 1599 萬 USDT 滯留舊錢包遭駭客撿走，公",
+  "category": "交易所",
+  "tags": [
+   "交易所",
+   "安全"
+  ]
+ },
+ {
+  "id": 550549,
+  "date": "2026-10-25T19:39:38",
+  "link": "https://www.blocktempo.com/uk-ai-biosecurity-lab-openai-anthropic-deepmind-model-credits-compute/",
+  "title": "英國設立 AI 生物安全實驗室，OpenAI、Anthropic 提供 2 億英鎊額度",
+  "excerpt": "英國政府出 1 億英鎊設立專攻 AI 生物安全的實驗室，OpenAI 與 Anthropic 另有最多 2 億",
+  "category": "AI",
+  "tags": [
+   "AI",
+   "安全"
+  ]
+ },
+ {
+  "id": 550697,
+  "date": "2026-10-25T19:25:41",
+  "link": "https://www.blocktempo.com/china-ai-export-registration-deepseek-minimax-open-source-weights-continue/",
+  "title": "DeepSeek、Minimax 會受中國出口管制影響嗎？商務部：API 不算技術出口",
+  "excerpt": "中國商務部、科技部擬把 23 項 AI 技術列入出口禁止或限制目錄，並要求出口前先登記。官媒稱 DeepSee",
+  "category": "AI",
+  "tags": [
+   "AI",
+   "中國",
+   "管制"
+  ]
+ },
+ {
   "id": 550681,
   "date": "2026-10-25T17:04:20",
   "link": "https://www.blocktempo.com/elon-musk-x-money-long-press-like-send-dollar-tip/",
@@ -6930,61 +6990,6 @@
   "category": "AI",
   "tags": [
    "AI"
-  ]
- },
- {
-  "id": 542212,
-  "date": "2026-10-07T09:36:56",
-  "link": "https://www.blocktempo.com/uk-six-banks-lead-digital-gilt-instrument-digit-dlt-onchain-settlement-2027/",
-  "title": "英國六家大行領軍數位國債！DIGIT 試水 DLT 鏈上結算，2027 年初發債",
-  "excerpt": "英國政府宣布由 Barclays、HSBC、Lloyds 等六家大行擔任 DIGIT（Digital Gilt",
-  "category": "法規",
-  "tags": [
-   "法規"
-  ]
- },
- {
-  "id": 542202,
-  "date": "2026-10-07T09:36:37",
-  "link": "https://www.blocktempo.com/securitize-lg-cns-partnership-south-korea-tokenized-assets-stocks/",
-  "title": "Securitize 攜手 LG CNS 進軍韓國！代幣化證券 2 月上路，股票漲 8%",
-  "excerpt": "代幣化平台 Securitize 宣布與韓國科技大廠 LG CNS 合作開發韓國金融機構的代幣化基礎設施。韓國",
-  "category": "即時新聞",
-  "tags": [
-   "即時新聞"
-  ]
- },
- {
-  "id": 542209,
-  "date": "2026-10-07T09:34:00",
-  "link": "https://www.blocktempo.com/us-lawmaker-bill-ban-politicians-betting-own-elections-kalshi-polymarket/",
-  "title": "美國眾議員提案禁止政治家賭自己選舉！Kalshi Polymarket 直接躺槍",
-  "excerpt": "美國北卡羅來納州眾議員 Don Davis 提出「No Betting on Your Own Race Ac",
-  "category": "法規",
-  "tags": [
-   "法規"
-  ]
- },
- {
-  "id": 542205,
-  "date": "2026-10-07T09:33:31",
-  "link": "https://www.blocktempo.com/russia-digital-ruble-220k-accounts-first-month-brics-cross-border-payments/",
-  "title": "數位盧布首月爆開 22 萬帳戶！BRICS 跨境支付，俄國加速去美元化",
-  "excerpt": "俄羅斯數位盧布 9 月 1 日正式上線，首月帳戶突破 22 萬，幾乎是央行預估的 4 倍。在西方制裁與 BRI",
-  "category": "其他國家",
-  "tags": [
-   "其他國家"
-  ]
- },
- {
-  "id": 542234,
-  "date": "2026-10-07T09:30:39",
-  "link": "https://www.blocktempo.com/sec-approves-first-3x-leveraged-bitcoin-ether-etfs-volatility-shares-cboe/",
-  "title": "SEC 首開 3 倍槓桿加密 ETF！比特幣以太坊上陣，但專家警告：只適合短線交易",
-  "excerpt": "SEC 於 10 月 2 日批准 Volatility Shares 發行 6 檔 3 倍槓桿 ETF，涵蓋比",
-  "category": "加密貨幣市場",
-  "tags": [
-   "加密貨幣市場"
   ]
  }
 ]
