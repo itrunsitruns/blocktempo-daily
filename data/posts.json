@@ -1,5 +1,75 @@
 [
  {
+  "id": 551087,
+  "date": "2026-10-27T09:36:40",
+  "link": "https://www.blocktempo.com/occ-community-banks-stablecoin-genius-act-rules-january/",
+  "title": "OCC 喊話社群銀行發穩定幣！GENIUS Act 規則拍板，1 月生效",
+  "excerpt": "美國貨幣監理署（OCC）向社群銀行發出正式呼籲，鼓勵參與支付穩定幣發行，GENIUS Act 最終規則已於上週",
+  "category": "即時新聞",
+  "tags": [
+   "即時新聞"
+  ]
+ },
+ {
+  "id": 551096,
+  "date": "2026-10-27T09:27:28",
+  "link": "https://www.blocktempo.com/bitcoin-flat-80k-ether-below-2330-174m-liquidations-fear-greed-falls/",
+  "title": "比特幣持平8萬鎂、以太坊失守2,330、爆倉1.74億鎂，恐慌指數續回落",
+  "excerpt": "比特幣今（27）日續守 8 萬鎂大關，24h 漲幅幾近持平；以太坊微跌至 2,327 鎂、貼近布林下軌。24h",
+  "category": "市場分析",
+  "tags": [
+   "市場分析"
+  ]
+ },
+ {
+  "id": 551024,
+  "date": "2026-10-27T08:06:14",
+  "link": "https://www.blocktempo.com/anthropic-ipo-five-share-classes-trust-founder-voting-control-explained/",
+  "title": "買了 Anthropic 股票能做什麼？拆解 ANT 的五種股份與兩道控制權",
+  "excerpt": "買 ANT 拿到的是每股一票的 Class A，但所有 Class A 加起來最多僅佔 49.9% 投票權，另",
+  "category": "AI",
+  "tags": [
+   "AI",
+   "金融市場"
+  ]
+ },
+ {
+  "id": 551027,
+  "date": "2026-10-26T23:05:58",
+  "link": "https://www.blocktempo.com/anthropic-ipo-lockup-staged-release-employees-founders-public-benefit-fund/",
+  "title": "Anthropic 上市後誰會先賣股？禁售期、員工股與 5% 公益股的賣壓分析",
+  "excerpt": "Anthropic 的禁售期不是單一日期，而是切成 23 個時點的階梯，員工、部分股東與創辦人各走各的時程。公",
+  "category": "AI",
+  "tags": [
+   "AI",
+   "金融市場"
+  ]
+ },
+ {
+  "id": 551021,
+  "date": "2026-10-26T22:44:33",
+  "link": "https://www.blocktempo.com/anthropic-s1-cost-structure-compute-channel-fees-marketing-surge-explained/",
+  "title": "行銷費一年暴增 26 倍！拆解 Anthropic IPO 招股書的成本結構",
+  "excerpt": "Anthropic 2026 年上半年的營業費用共 169.79 億美元，算力仍佔過半；增幅最大的銷售、行銷與",
+  "category": "AI",
+  "tags": [
+   "AI",
+   "金融市場"
+  ]
+ },
+ {
+  "id": 551009,
+  "date": "2026-10-26T21:54:52",
+  "link": "https://www.blocktempo.com/anthropic-files-public-s1-nasdaq-ant-ticker-quarterly-operating-profit/",
+  "title": "快訊》Anthropic 正式申請上市那斯達克 IPO（代號 ANT）：帳面巨虧但本業已賺錢",
+  "excerpt": "Anthropic 於今晚正式向 SEC 公開遞交 IPO 招股書（S-1），申請在那斯達克以代號 ANT 上",
+  "category": "AI",
+  "tags": [
+   "AI",
+   "金融市場"
+  ]
+ },
+ {
   "id": 550942,
   "date": "2026-10-26T16:37:24",
   "link": "https://www.blocktempo.com/mitrade-registration-guide-tutorial-1300-usd-trading-bonus-forex-broker/",
@@ -6915,76 +6985,6 @@
   "tags": [
    "以太坊",
    "即時新聞",
-   "市場分析"
-  ]
- },
- {
-  "id": 542585,
-  "date": "2026-10-07T21:28:29",
-  "link": "https://www.blocktempo.com/wlfi-brings-usd1-payments-to-online-platforms-mesh-partnership-q4-2026/",
-  "title": "川普家族加密項目 WLFI 要把 USD1 推到各大電商！Q4 上線，自己發幣離信託銀行牌照又近一步",
-  "excerpt": "川普家族支援的 WLFI 宣布與 Mesh 合作，將 USD1 穩定幣推向電商與線上商家，Q4 上線；同時 W",
-  "category": "穩定幣",
-  "tags": [
-   "即時新聞",
-   "穩定幣"
-  ]
- },
- {
-  "id": 542608,
-  "date": "2026-10-07T21:22:22",
-  "link": "https://www.blocktempo.com/polymarket-ceo-coplan-chasing-100x-tokens-irrational-exuberance-hot-potato/",
-  "title": "Polymarket CEO：追 100x 代幣是不理性狂熱，交易員在玩「熱土豆」遊戲",
-  "excerpt": "Polymarket 執行長 Shayne Coplan 在 Token2049 新加坡直言，加密交易變成「不",
-  "category": "市場分析",
-  "tags": [
-   "即時新聞",
-   "市場分析"
-  ]
- },
- {
-  "id": 542606,
-  "date": "2026-10-07T21:16:38",
-  "link": "https://www.blocktempo.com/tether-signs-mou-kazakhstan-national-bank-alatau-tokenization/",
-  "title": "Tether 結盟哈薩克央行！簽署 MoU 探討堅戈穩定幣與 RWA 代幣化試點",
-  "excerpt": "穩定幣巨頭 Tether 正式進軍中亞主權金融基礎設施！據 Tether 於今（7）日發布的官方公告，該公司已",
-  "category": "穩定幣",
-  "tags": [
-   "穩定幣"
-  ]
- },
- {
-  "id": 542600,
-  "date": "2026-10-07T21:04:48",
-  "link": "https://www.blocktempo.com/gsr-launches-100m-onchain-credit-vault-business-hare/",
-  "title": "1 億美元押注鏈上信貸！加密做市巨頭 GSR 成立「Hare」金庫，攜手 Aave、Paxos 推出黃金與穩定幣收益",
-  "excerpt": "據 CoinDesk 報導，加密貨幣做市商與交易巨頭 GSR 正式推出名為「Hare」的鏈上信貸與金庫（Vau",
-  "category": "加密貨幣市場",
-  "tags": [
-   "加密貨幣市場"
-  ]
- },
- {
-  "id": 542581,
-  "date": "2026-10-07T20:57:31",
-  "link": "https://www.blocktempo.com/tangem-launches-visa-cards-limited-to-5000-unavailable-in-20-countries/",
-  "title": "Tangem 發物理 Visa 卡！首輪只 5000 張，20 國根本寄不到",
-  "excerpt": "瑞士錢包商 Tangem 推出首張實體 Visa 支付卡，使用者可直接從自託管錢包扣款，但約 20 國因合規限",
-  "category": "支付",
-  "tags": [
-   "即時新聞",
-   "支付"
-  ]
- },
- {
-  "id": 542595,
-  "date": "2026-10-07T20:49:52",
-  "link": "https://www.blocktempo.com/glassnode-analysis-bitcoin-85k-volume-options-liquidations/",
-  "title": "Glassnode 示警：比特幣衝 8.5 萬鎂遇壓，短期持有者狂倒貨、8.1 萬成防守關鍵",
-  "excerpt": "比特幣（BTC）日前一度衝破 8.5 萬美元大關，但隨即面臨沉重賣壓。知名鏈上數據分析機構 Glassnode",
-  "category": "加密貨幣市場",
-  "tags": [
-   "加密貨幣市場",
    "市場分析"
   ]
  }
