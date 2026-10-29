@@ -1,5 +1,283 @@
 [
  {
+  "id": 552065,
+  "date": "2026-10-29T09:51:05",
+  "link": "https://www.blocktempo.com/coinbase-q3-earnings-preview-robinhood-crypto-revenue-sinks-55-percent/",
+  "title": "Robinhood 加密貨幣收入大崩 55%，Coinbase 今晚財報預測分岐",
+  "excerpt": "Coinbase 週四美股盤後公布第三季財報，Robinhood 加密收入年減 55% 先敲警鐘，分析師對交易",
+  "category": "市場分析",
+  "tags": [
+   "市場分析"
+  ]
+ },
+ {
+  "id": 552090,
+  "date": "2026-10-29T09:46:21",
+  "link": "https://www.blocktempo.com/apx-lending-bitcoin-backed-mortgage-canada-launch-2027/",
+  "title": "不賣 BTC 也能買房：加拿大 APX 推出比特幣「抵押房貸」",
+  "excerpt": "加拿大放款機構 APX Lending 宣布 2027 年初推出比特幣抵押房貸，買房不必先賣幣。房貸利率、成數",
+  "category": "市場分析",
+  "tags": [
+   "即時新聞",
+   "市場分析"
+  ]
+ },
+ {
+  "id": 552108,
+  "date": "2026-10-29T09:39:12",
+  "link": "https://www.blocktempo.com/ethereum-glamsterdam-deposit-bug-staking-builders-fix/",
+  "title": "以太坊 Glamsterdam 升息爆漏洞：操作員能吞走質押資金（已修補完成）",
+  "excerpt": "以太坊開發者修補 Glamsterdam 升級的一處漏洞，該瑕疵原本可能讓操作員把質押服務準備給新驗證者的 E",
+  "category": "以太坊",
+  "tags": [
+   "以太坊",
+   "技術"
+  ]
+ },
+ {
+  "id": 552117,
+  "date": "2026-10-29T09:35:24",
+  "link": "https://www.blocktempo.com/bitcoin-holds-81k-ethereum-rebounds-2350-fed-holds-fear-greed-flat/",
+  "title": "聯準會利率按兵不動：比特幣站穩 8.1 萬鎂、以太坊拉回 $2,350，美股收漲",
+  "excerpt": "比特幣今（29）日站穩 8.1 萬美元關卡、以太坊站回 2,350 美元上方，稍早聯準會以 10 比 2 按兵",
+  "category": "市場分析",
+  "tags": [
+   "即時新聞",
+   "市場分析"
+  ]
+ },
+ {
+  "id": 552068,
+  "date": "2026-10-29T03:17:06",
+  "link": "https://www.blocktempo.com/warsh-press-conference-oct-2026-meeting-reform/",
+  "title": "華許 FOMC 會後記者會：通膨仍太高、拒前瞻指引，2027 起減少利率投票",
+  "excerpt": "聯準會主席華許（Kevin Warsh）週三決議後記者會結束，經濟評估偏樂觀、通膨仍太高，並拒給明確前瞻指引；",
+  "category": "美國",
+  "tags": [
+   "美國"
+  ]
+ },
+ {
+  "id": 552052,
+  "date": "2026-10-29T02:09:33",
+  "link": "https://www.blocktempo.com/fed-holds-rates-oct-2026-fomc-dissent/",
+  "title": "聯準會按兵不動！維持利率 3.75%–4.00%，兩票堅持再升息 1 碼",
+  "excerpt": "聯準會週三按兵不動，聯邦基金利率維持 3.75%–4.00%；但 10 比 2 表決中，兩位委員主張再升息 1",
+  "category": "美國",
+  "tags": [
+   "美國"
+  ]
+ },
+ {
+  "id": 552046,
+  "date": "2026-10-29T01:46:13",
+  "link": "https://www.blocktempo.com/google-gemini-4-carbon-cybersecurity-long-horizon/",
+  "title": "Google 發表 Gemini 4 Carbon！資安三基準全面領先、Intelligence Index 59 分奪冠",
+  "excerpt": "Google DeepMind 推出下一代 frontier 模型 Gemini 4 Carbon，Artif",
+  "category": "Google",
+  "tags": [
+   "Google"
+  ]
+ },
+ {
+  "id": 552040,
+  "date": "2026-10-29T01:33:19",
+  "link": "https://www.blocktempo.com/apple-ternus-macbook-pro-proled-xdr-touch/",
+  "title": "蘋果發表首款觸控 MacBook Pro：PROLED 最高 2000 nits，14 吋起價 2,899 美元、11/6 出貨",
+  "excerpt": "蘋果正式發表首款搭載 PROLED XDR 螢幕與觸控的全新 MacBook Pro；同日執行長 John T",
+  "category": "即時新聞",
+  "tags": [
+   "即時新聞"
+  ]
+ },
+ {
+  "id": 552036,
+  "date": "2026-10-29T01:22:45",
+  "link": "https://www.blocktempo.com/bloomberg-hyperliquid-oil-perp-spoofing-specter/",
+  "title": "Hyperliquid 原油永續現幌騙陰影！Solidus：單戶掛撤逾 1.7 億美元",
+  "excerpt": "一名交易者在 Hyperliquid 上用兩個帳戶，於油市劇烈波動期間掛出逾 1.7 億美元異常原油永續訂單後",
+  "category": "金融市場",
+  "tags": [
+   "金融市場"
+  ]
+ },
+ {
+  "id": 552030,
+  "date": "2026-10-29T01:01:51",
+  "link": "https://www.blocktempo.com/yc-crypto-startup-directions-oct-2026-institutions-stablecoins-rwa/",
+  "title": "YC 喊話創業者：加密應用改由機構主導，穩定幣銀行、RWA、AI 代理交易成未來六個月重點",
+  "excerpt": "Y Combinator 在 2026 年 10 月的加密產業創業方向報告中指出，過去一年加密應用首次由機構而",
+  "category": "加密貨幣市場",
+  "tags": [
+   "加密貨幣市場",
+   "市場分析",
+   "投資分析"
+  ]
+ },
+ {
+  "id": 552015,
+  "date": "2026-10-29T00:09:35",
+  "link": "https://www.blocktempo.com/michael-burry-anthropic-s1-circular-finance/",
+  "title": "大賣空 Michael Burry 拆 Anthropic S-1 招股書：算力加總 5,370 億，喊 AI 生態「災難式脆弱」",
+  "excerpt": "大賣空 Michael Burry 讀 Anthropic S-1：他把對亞馬遜、Alphabet、微軟等算力",
+  "category": "市場分析",
+  "tags": [
+   "市場分析",
+   "投資分析"
+  ]
+ },
+ {
+  "id": 552011,
+  "date": "2026-10-29T00:00:31",
+  "link": "https://www.blocktempo.com/bitwise-2027-bitcoin-ltcma-1-6m/",
+  "title": "Bitwise 將比特幣十年目標從 130 萬拉到 160 萬美元！機構資金吃掉 BTC 新供給",
+  "excerpt": "Bitwise 把比特幣十年基準情境上修到 2036 年約 160 萬美元，年化複合成長假設 34.3%，並寫",
+  "category": "市場分析",
+  "tags": [
+   "市場分析",
+   "投資分析"
+  ]
+ },
+ {
+  "id": 551998,
+  "date": "2026-10-28T22:36:25",
+  "link": "https://www.blocktempo.com/google-mpc-crypto-custody-preview/",
+  "title": "Google 預覽機構加密託管資安系統！MPC 私鑰分片上線，Alphabet 已護自家 ETH／SOL",
+  "excerpt": "Google 在紐約數位資產研討會預覽機構級加密託管資安系統「Google Multi-Party Compu",
+  "category": "Google",
+  "tags": [
+   "Google",
+   "加密貨幣市場"
+  ]
+ },
+ {
+  "id": 551987,
+  "date": "2026-10-28T22:05:35",
+  "link": "https://www.blocktempo.com/anthropic-trump-tensions-ipo-s1/",
+  "title": "Anthropic 招股書警示川普政治報復風險！AI 安全立場恐為史上最大 IPO 埋雷",
+  "excerpt": "Anthropic 招股書警示：AI 安全倡議與公開政策立場，恐招致政府報復性審查，與川普政府一年摩擦成史上最",
+  "category": "Anthropic",
+  "tags": [
+   "Anthropic"
+  ]
+ },
+ {
+  "id": 551983,
+  "date": "2026-10-28T21:26:53",
+  "link": "https://www.blocktempo.com/uefi-edk2-cve-2026-97631-pxe-rce/",
+  "title": "UEFI 韌體爆 CVSS 9.5 遠端程式碼執行漏洞！全球多數伺服器韌體中招",
+  "excerpt": "開源 UEFI 參考實作 EDK II 曝出 CVSS 9.5 嚴重漏洞 CVE-2026-97631，攻擊者",
+  "category": "安全",
+  "tags": [
+   "安全"
+  ]
+ },
+ {
+  "id": 551970,
+  "date": "2026-10-28T21:08:47",
+  "link": "https://www.blocktempo.com/justin-sun-prize-neel-somani/",
+  "title": "孫宇晨獎再確認獲獎人！Neel Somani 兩題過關，GPT 與本科生團隊入局",
+  "excerpt": "孫宇晨獎官方以 Winner Spotlight 確認 Neel Somani 為最新獲獎人，成功解出 JSP",
+  "category": "即時新聞",
+  "tags": [
+   "即時新聞"
+  ]
+ },
+ {
+  "id": 551964,
+  "date": "2026-10-28T21:03:49",
+  "link": "https://www.blocktempo.com/thailand-supreme-court-bitcoin-property/",
+  "title": "泰國最高法院認定比特幣為「財產」！蘇梅島搶劫案 2.48 BTC 須返還",
+  "excerpt": "泰國最高法院全會以判決 4929/2569 認定比特幣屬「財產」。蘇梅島搶劫案被害人遭脅迫轉出約 2.4808",
+  "category": "比特幣",
+  "tags": [
+   "比特幣"
+  ]
+ },
+ {
+  "id": 551959,
+  "date": "2026-10-28T20:46:55",
+  "link": "https://www.blocktempo.com/robinhood-chain-tokenized-assets-developers/",
+  "title": "Robinhood Chain 要當代幣化資產大本營！Vlad Tenev：加碼開發者生態",
+  "excerpt": "台北時間 10 月 28 日，Robinhood CEO Vlad Tenev 在 Q3 財報電話會議定調：要",
+  "category": "加密貨幣市場",
+  "tags": [
+   "加密貨幣市場"
+  ]
+ },
+ {
+  "id": 551954,
+  "date": "2026-10-28T20:36:07",
+  "link": "https://www.blocktempo.com/ripple-coinbase-rlusd-listing/",
+  "title": "Coinbase 全線上架 Ripple 穩定幣 RLUSD！零售與機構即日起可交易",
+  "excerpt": "Ripple 與 Coinbase 宣布把 RLUSD 帶上 Coinbase，零售與機構即日起可於 Prim",
+  "category": "交易所",
+  "tags": [
+   "交易所",
+   "加密貨幣市場",
+   "穩定幣"
+  ]
+ },
+ {
+  "id": 551949,
+  "date": "2026-10-28T20:31:38",
+  "link": "https://www.blocktempo.com/dtcc-tokenization-service-live-34-securities/",
+  "title": "DTCC 代幣化服務正式上線！首批 34 檔證券可轉代幣，1:1 對應 DTC 託管",
+  "excerpt": "美國證券存管結算公司 DTCC 宣布，DTCC Tokenization Service 已正式上線，首批可代",
+  "category": "RWA",
+  "tags": [
+   "RWA"
+  ]
+ },
+ {
+  "id": 551888,
+  "date": "2026-10-28T19:50:33",
+  "link": "https://www.blocktempo.com/mochatrade-seed-5-56m-india-us-stock-perpetuals-usdc-base/",
+  "title": "用盧比炒美股！Mochatrade 募 556 萬美元、YC 注資全用 USDC",
+  "excerpt": "印度平台 Mochatrade 完成累計 556 萬美元融資，CoinFund 領投種子輪。散戶用 UPI 以",
+  "category": "創投",
+  "tags": [
+   "創投",
+   "穩定幣"
+  ]
+ },
+ {
+  "id": 551919,
+  "date": "2026-10-28T19:50:21",
+  "link": "https://www.blocktempo.com/kospi-surges-sk-hynix-record-operating-profit-ai-rebound/",
+  "title": "KOSPI 飆 6.6%！SK 海力士單季營益 83 兆韓元，AI 股全面回神",
+  "excerpt": "SK 海力士第三季營業利益衝上 83.3 兆韓元、年增 632%，營益率達 80%，帶動 KOSPI 單日大漲",
+  "category": "AI",
+  "tags": [
+   "AI"
+  ]
+ },
+ {
+  "id": 551913,
+  "date": "2026-10-28T19:50:12",
+  "link": "https://www.blocktempo.com/itau-unibanco-first-brazilian-bank-formalize-crypto-brokerage-regulation/",
+  "title": "巴西最大民營銀行 Itaú 完成加密經紀登記，全國首例",
+  "excerpt": "巴西最大民營銀行 Itaú Unibanco 週二向央行通報加密交易與託管業務，成為新制上路後全國第一家完成正",
+  "category": "市場分析",
+  "tags": [
+   "即時新聞",
+   "市場分析"
+  ]
+ },
+ {
+  "id": 551904,
+  "date": "2026-10-28T19:49:55",
+  "link": "https://www.blocktempo.com/cz-bnb-chain-ai-native-currency-bnb-standard-nasdaq-bell-validator/",
+  "title": "CZ 喊加密貨幣成 AI 原生貨幣！BNB 財庫公司敲鐘",
+  "excerpt": "幣安共同創辦人趙長鵬（CZ）出席 BNB Standard 那斯達克開市敲鐘儀式後表示，加密貨幣將成為「AI",
+  "category": "AI",
+  "tags": [
+   "AI",
+   "即時新聞",
+   "市場分析"
+  ]
+ },
+ {
   "id": 551897,
   "date": "2026-10-28T16:12:59",
   "link": "https://www.blocktempo.com/anthropic-engineering-manager-drops-coding-interview-junior-engineers-weekend-prototypes/",
@@ -6684,299 +6962,6 @@
   "tags": [
    "AI",
    "技術"
-  ]
- },
- {
-  "id": 543924,
-  "date": "2026-10-11T10:17:02",
-  "link": "https://www.blocktempo.com/bitcoin-ethereum-order-book-depth-recovery-altcoin-liquidity-drain-coindesk/",
-  "title": "距離 10/11 史上最大爆倉日滿一週年：BTC、ETH 流動性已回血，山寨幣仍持續探底",
-  "excerpt": "CoinDesk Research 對比四個時點訂單簿深度：比特幣 1% 深度較崩盤當日增約 75%，以太坊",
-  "category": "市場分析",
-  "tags": [
-   "市場分析"
-  ]
- },
- {
-  "id": 544029,
-  "date": "2026-10-11T10:05:35",
-  "link": "https://www.blocktempo.com/empire-market-co-founder-40-years-prison-1230-bitcoin-forfeiture-darkweb/",
-  "title": "暗網藥市 Empire Market 創辦人重判 40 年！沒收 1,230 枚 BTC 價值 1 億美元",
-  "excerpt": "美國維吉尼亞男子 Raheim Hamilton 因共同經營暗網毒品交易平台 Empire Market 被判",
-  "category": "法規",
-  "tags": [
-   "即時新聞",
-   "法規"
-  ]
- },
- {
-  "id": 543876,
-  "date": "2026-10-10T22:44:44",
-  "link": "https://www.blocktempo.com/china-telecom-takeout-food-safety-seal-ai-kitchen-monitoring-shanghai/",
-  "title": "中國打食安新招：料理全程 AI 監視，消費者掃碼就能看後廚",
-  "excerpt": "中國電信 10 月 9 日宣布在上海推出「外賣雲監管，食安封簽」方案。外送餐點用防拆、防篡改的封簽封裝，消費者",
-  "category": "AI",
-  "tags": [
-   "AI",
-   "中國"
-  ]
- },
- {
-  "id": 543796,
-  "date": "2026-10-10T17:17:01",
-  "link": "https://www.blocktempo.com/visa-asia-pacific-stablecoin-survey-interest-46-understanding-gap-6/",
-  "title": "Visa 亞太調查：46% 想用穩定幣，真正懂的僅 6%",
-  "excerpt": "Visa 調查亞太 1.4 萬名消費者發現，46% 未來五年可能用穩定幣，但過去一年實際用過的僅 16%，真正",
-  "category": "亞太",
-  "tags": [
-   "亞太",
-   "支付"
-  ]
- },
- {
-  "id": 543822,
-  "date": "2026-10-10T17:07:17",
-  "link": "https://www.blocktempo.com/icann-gtld-applications-openai-chatgpt-agent-meta-google-anthropic-domains/",
-  "title": "OpenAI 要申請 15 個頂級網域！13 家 AI 企業搶 .agent",
-  "excerpt": "ICANN 10 月 7 日公布新通用頂級網域（gTLD）「2026 輪」申請名單，481 家申請者共送出 1",
-  "category": "AI",
-  "tags": [
-   "AI",
-   "技術"
-  ]
- },
- {
-  "id": 543816,
-  "date": "2026-10-10T17:03:53",
-  "link": "https://www.blocktempo.com/asml-raises-korea-lithography-parts-prices-samsung-sk-hynix-accept/",
-  "title": "韓媒：ASML 曝光機零件漲 10%，三星、SK 海力士同意",
-  "excerpt": "韓國半導體媒體 TheElec 報導，ASML 將供應韓國的曝光機替換零件價格一律調漲 10%，三星電子與 S",
-  "category": "亞太",
-  "tags": [
-   "亞太",
-   "市場分析",
-   "技術"
-  ]
- },
- {
-  "id": 543818,
-  "date": "2026-10-10T17:03:14",
-  "link": "https://www.blocktempo.com/ncpg-director-heather-maurer-resigns-kalshi-donation-board-nda-backlash/",
-  "title": "美國戒賭協會執行長請辭！收下 Kalshi 捐款 200 萬鎂惹議",
-  "excerpt": "美國最大戒賭非營利組織「全美問題賭博協會」（NCPG）執行長 Heather Maurer 請辭，任期不到 1",
-  "category": "美國",
-  "tags": [
-   "美國",
-   "金融市場"
-  ]
- },
- {
-  "id": 543842,
-  "date": "2026-10-10T16:47:34",
-  "link": "https://www.blocktempo.com/bitcoin-etf-487-million-outflow-largest-since-june-80k-support/",
-  "title": "比特幣 ETF 單日流出 4.87 億鎂！90 天最猛拋壓，8 萬鎂支撐岌岌可危",
-  "excerpt": "美國現貨比特幣 ETF 週三單日淨流出 4.87 億美元，為今年 6 月 25 日以來的最大單日拋壓。根據 S",
-  "category": "市場分析",
-  "tags": [
-   "即時新聞",
-   "市場分析",
-   "比特幣"
-  ]
- },
- {
-  "id": 543837,
-  "date": "2026-10-10T16:34:53",
-  "link": "https://www.blocktempo.com/france-socialist-primary-evotez-platform-ddos-bots-first-round-extended/",
-  "title": "法國左派初選被機器人灌爆！第一輪投票延長到週日",
-  "excerpt": "法國社會黨等三黨合辦的左派總統初選，10 月 9 日開放線上投票，平台 e-votez 當天遭機器人程式大量連",
-  "category": "安全",
-  "tags": [
-   "即時新聞",
-   "安全"
-  ]
- },
- {
-  "id": 543721,
-  "date": "2026-10-10T15:45:19",
-  "link": "https://www.blocktempo.com/uranium-finance-hacker-jonathan-spalletta-convicted-pokemon-cards-black-lotus/",
-  "title": "Uranium 駭客被判有罪！竊盜超過 5000 萬鎂買寶可夢卡、黑蓮花卡",
-  "excerpt": "美國紐約南區聯邦陪審團 10 月 7 日裁定，36 歲的 Jonathan Spalletta 電腦詐欺與洗錢",
-  "category": "defi",
-  "tags": [
-   "defi",
-   "犯罪",
-   "美國"
-  ]
- },
- {
-  "id": 543716,
-  "date": "2026-10-10T15:36:02",
-  "link": "https://www.blocktempo.com/ai-generated-nurse-accounts-korea-romance-scam-users-reveal-details/",
-  "title": "「41 歲護理師」韓國 AI 帳號釣男人！網友留言自曝居住地等個資",
-  "excerpt": "韓國社群平台近日接連出現疑似 AI 生成的女性帳號。其中一個自稱「住在浦項的 41 歲護理師」十分有名，釣到不",
-  "category": "AI",
-  "tags": [
-   "AI",
-   "犯罪",
-   "社交"
-  ]
- },
- {
-  "id": 543707,
-  "date": "2026-10-10T15:29:07",
-  "link": "https://www.blocktempo.com/coupang-eats-outage-korean-riders-eat-undelivered-food-photos-backlash/",
-  "title": "韓國酷澎當機！外送員把「送不出的餐點吃掉」還被罰款",
-  "excerpt": "韓國電商 Coupang（酷澎）在韓國時間 10 月 9 日凌晨當機，購物、外送與串流服務同時停擺，外送員取餐",
-  "category": "亞太",
-  "tags": [
-   "亞太",
-   "即時新聞"
-  ]
- },
- {
-  "id": 543705,
-  "date": "2026-10-10T15:19:38",
-  "link": "https://www.blocktempo.com/anthropic-usage-policy-bans-sustained-needless-claude-abuse-effective-november/",
-  "title": "Anthropic 認爲 AI 有意識！新規定禁止「持續、不必要的虐待 Claude」",
-  "excerpt": "Anthropic 10 月 8 日公布新版使用政策，禁止使用者對模型做出「持續且不必要的虐待或殘忍行為」，1",
-  "category": "AI",
-  "tags": [
-   "AI",
-   "即時新聞"
-  ]
- },
- {
-  "id": 543667,
-  "date": "2026-10-10T11:27:36",
-  "link": "https://www.blocktempo.com/cryptobilis-ledger-reseller-sold-march-former-founders-confirm-wallet-investigation/",
-  "title": "Ledger 冷錢包疑被竊超過 9000 萬美元！「供應鏈被改機」經銷商易主不明中國人",
-  "excerpt": "在 Ledger 調查用戶資金遭竊期間，馬來西亞硬體錢包經銷商 CryptoBilis 的所有權變動隨之曝光。",
-  "category": "安全",
-  "tags": [
-   "即時新聞",
-   "安全",
-   "錢包"
-  ]
- },
- {
-  "id": 543668,
-  "date": "2026-10-10T11:16:50",
-  "link": "https://www.blocktempo.com/trump-claims-total-control-hormuz-russia-diesel-refiners-lower-prices/",
-  "title": "川普表示「完全控制」荷姆茲海峽，運輸石油量比戰前更多，煉油商馬上降價！",
-  "excerpt": "美國總統川普美東時間 9 日在 Truth Social 宣布，俄羅斯同意先向美國與全球市場供應逾 30 萬噸",
-  "category": "美國",
-  "tags": [
-   "即時新聞",
-   "美國"
-  ]
- },
- {
-  "id": 543674,
-  "date": "2026-10-10T10:53:03",
-  "link": "https://www.blocktempo.com/telegram-gram-wallet-renamed-money-rollout-walt-instant-free-topups/",
-  "title": "Telegram 錢包改名 Money，超過 10 億用戶陸續可用",
-  "excerpt": "Telegram 內建的 Gram 錢包改名為 Money。Walt 10 月 9 日表示，這個原本只開放給部",
-  "category": "社交",
-  "tags": [
-   "社交",
-   "錢包"
-  ]
- },
- {
-  "id": 543683,
-  "date": "2026-10-10T10:41:43",
-  "link": "https://www.blocktempo.com/ledger-spy-implant-karpeles-teardown-slowmist-lte-esim-seed-phrase/",
-  "title": "慢霧推測》Ledger是如何被植入間諜模組，偷走助記詞",
-  "excerpt": "前 Mt.Gox 執行長 Mark Karpelès 10 月 9 日在 X 上表示，他手上一台來自馬來西亞的",
-  "category": "安全",
-  "tags": [
-   "安全",
-   "錢包"
-  ]
- },
- {
-  "id": 543663,
-  "date": "2026-10-10T10:32:44",
-  "link": "https://www.blocktempo.com/dormant-ethereum-whale-deposits-2903-eth-coinbase-nine-years-250x/",
-  "title": "沈睡9年巨鯨浮盈250倍！把2903枚ETH轉入Coinbase",
-  "excerpt": "Lookonchain 監測到，3 個可能屬於同一巨鯨的錢包沉寂超過 9 年後，把 2,903 枚 ETH 轉",
-  "category": "以太坊",
-  "tags": [
-   "以太坊",
-   "市場分析"
-  ]
- },
- {
-  "id": 543654,
-  "date": "2026-10-10T10:27:27",
-  "link": "https://www.blocktempo.com/anthropic-claude-unintended-actions-government-websites-philadelphia-police-fake-tip/",
-  "title": "Claude 對美國政府網站做出越界行為、送假命案線報，白宮要求即時通報",
-  "excerpt": "Anthropic 美東時間 10 月 9 日發布報告，揭露 Claude 在測試與內部使用期間，對外部網站做",
-  "category": "AI",
-  "tags": [
-   "AI",
-   "安全",
-   "美國"
-  ]
- },
- {
-  "id": 543608,
-  "date": "2026-10-10T10:19:29",
-  "link": "https://www.blocktempo.com/robinhood-chain-evaluates-arbitrum-priority-gas-auctions-paid-transaction-ordering/",
-  "title": "Robinhood Chain 評估付費交易優先排序！區塊鏈版「交易分級」來了",
-  "excerpt": "Robinhood Chain 正評估 Arbitrum 的 Priority Gas Auctions（PG",
-  "category": "即時新聞",
-  "tags": [
-   "即時新聞"
-  ]
- },
- {
-  "id": 543650,
-  "date": "2026-10-10T10:17:08",
-  "link": "https://www.blocktempo.com/bitcoin-amsterdam-returns-sugar-factory-november-jack-mallers-david-bailey/",
-  "title": "比特幣阿姆斯特丹峰會 11 月登場》Jack Mallers、David Bailey 等重量人物將出席",
-  "excerpt": "比特幣阿姆斯特丹峰會 2026 將於 11 月 5 日至 6 日舉行，前一天先辦閉門的比特幣企業研討會。已確認",
-  "category": "區塊鏈活動",
-  "tags": [
-   "區塊鏈活動",
-   "歐洲",
-   "比特幣"
-  ]
- },
- {
-  "id": 543644,
-  "date": "2026-10-10T10:16:35",
-  "link": "https://www.blocktempo.com/morning-roundup-btc-82564-eth-2489-liq-177m-greed-64/",
-  "title": "分析》比特幣站穩8.25萬美元！ETH 重回 2500，全網恐慌指數回升",
-  "excerpt": "今（10）日加密市場全面小幅反彈，比特幣站穩 82,564 美元、以太坊叩關 2,500 關卡。全網 24 小",
-  "category": "市場分析",
-  "tags": [
-   "即時新聞",
-   "市場分析"
-  ]
- },
- {
-  "id": 543520,
-  "date": "2026-10-09T22:05:54",
-  "link": "https://www.blocktempo.com/uk-sanctions-three-crypto-exchanges-russian-illicit-funds-a7-network/",
-  "title": "英國制裁 3 家加密交易所！跟俄羅斯 A7 網路洗錢扯上關係，HTX 也在名單上",
-  "excerpt": "英國政府制裁三家加密交易所與兩家支付平台，指控它們協助俄羅斯實體規避金融制裁。其中兩家與克里姆林宮支援的 A7",
-  "category": "交易所",
-  "tags": [
-   "交易所",
-   "法規"
-  ]
- },
- {
-  "id": 543495,
-  "date": "2026-10-09T16:17:30",
-  "link": "https://www.blocktempo.com/anthropic-oss-scanner-open-source-security-audit-crypto-projects-apply-claude/",
-  "title": "Anthropic 開放頂級 AI 當資安掃描器！Nethermind、ZEUS 搶先申請",
-  "excerpt": "Anthropic 推出「OSS Scanner」，讓開源專案可以主動申請用 Claude 最頂尖模型掃描程式",
-  "category": "AI",
-  "tags": [
-   "AI",
-   "即時新聞"
   ]
  }
 ]
