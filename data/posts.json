@@ -1,14 +1,277 @@
 [
  {
+  "id": 553370,
+  "date": "2026-10-31T02:46:44",
+  "link": "https://www.blocktempo.com/cftc-selig-binance-hack-federal-registration-offshore-exchanges/",
+  "title": "CFTC 主席塞利格談幣安 63 億美元竊案：境外交易所缺美國級資安標準，盼開通聯邦合規註冊路徑",
+  "excerpt": "美國商品期貨交易委員會（CFTC）主席 Michael Selig（塞利格）週五在 CNBC《Squawk o",
+  "category": "幣安史上最大駭案！63 億美元是怎麼被搬走的？",
+  "tags": [
+   "幣安史上最大駭案！63 億美元是怎麼被搬走的？"
+  ]
+ },
+ {
+  "id": 553365,
+  "date": "2026-10-31T02:32:05",
+  "link": "https://www.blocktempo.com/cz-binance-hack-size-vs-mtgox-btc/",
+  "title": "幣安遭駭 63 億美元，為何比特幣跌幅不大？CZ 解释：以 BTC 計價看，Mt. Gox 當年才更嚴重",
+  "excerpt": "幣安創辦人 CZ 於台北時間 10 月 31 日凌晨發文，以美元金額、BTC 數量與占總供給比例對照這次熱錢包",
+  "category": "幣安史上最大駭案！63 億美元是怎麼被搬走的？",
+  "tags": [
+   "幣安史上最大駭案！63 億美元是怎麼被搬走的？"
+  ]
+ },
+ {
+  "id": 553359,
+  "date": "2026-10-31T01:24:20",
+  "link": "https://www.blocktempo.com/tether-q3-2026-15b-profit-reserve-buffer-nearly-8b/",
+  "title": "Tether Q3 財報：淨利 15 億美元、美債持倉逾 1,300 億，總資產衝破 1,900 億美元",
+  "excerpt": "穩定幣發行商 Tether 公布 2026 年第三季簽證報告，單季淨營業利益 15 億美元、前三季合計 45",
+  "category": "穩定幣",
+  "tags": [
+   "穩定幣"
+  ]
+ },
+ {
+  "id": 553334,
+  "date": "2026-10-31T00:29:23",
+  "link": "https://www.blocktempo.com/yi-he-video-transcript-binance-withdrawals-42-hours-token-purchases/",
+  "title": "何一發 4 分鐘影片親上火線：幣安遇「非常複雜的複合式攻擊」，會先拿自有資金賠付",
+  "excerpt": "幣安共同執行長何一在影片中說，提款預計 42 小時內重開，被盜資產大部分能用自有資產匹配，僅少量要到市場購買。",
+  "category": "交易所",
+  "tags": [
+   "交易所",
+   "即時新聞",
+   "安全",
+   "幣安史上最大駭案！63 億美元是怎麼被搬走的？"
+  ]
+ },
+ {
+  "id": 553311,
+  "date": "2026-10-30T23:05:43",
+  "link": "https://www.blocktempo.com/richard-teng-eip7702-por-monday-withdrawals-sunday/",
+  "title": "幣安共同執行長 Richard Teng：交易所提款有望 40 小時內重開、週一出 PoR 儲備證明",
+  "excerpt": "幣安共同執行長 Richard Teng 晚間公開安全事件影片更新逐字稿，點出駭客以 EIP-7702 取得熱",
+  "category": "幣安史上最大駭案！63 億美元是怎麼被搬走的？",
+  "tags": [
+   "幣安史上最大駭案！63 億美元是怎麼被搬走的？"
+  ]
+ },
+ {
+  "id": 553305,
+  "date": "2026-10-30T22:41:22",
+  "link": "https://www.blocktempo.com/btc-breaks-80000-support-eth-2200-binance-hack/",
+  "title": "比特幣再跌破 7.7 萬美元、以太坊同步下探 $2200！分析師：下一關鍵支撐看 75,000",
+  "excerpt": "比特幣在幣安駭客事件後再度失守關鍵支撐，報約 77,182 美元，隔夜低點約 76,368 美元、近六週低點；",
+  "category": "加密貨幣市場",
+  "tags": [
+   "加密貨幣市場"
+  ]
+ },
+ {
+  "id": 553300,
+  "date": "2026-10-30T22:30:25",
+  "link": "https://www.blocktempo.com/binance-spokesperson-hot-wallet-customer-funds-safe/",
+  "title": "幣安發言人澄清：被駭資金來自熱錢包，客戶資金放在冷錢包未受影響",
+  "excerpt": "幣安發言人向記者 Eleanor Terrett 表示，遭駭流出的是交易所自有熱錢包資金，客戶資金未受影響；多",
+  "category": "幣安史上最大駭案！63 億美元是怎麼被搬走的？",
+  "tags": [
+   "幣安史上最大駭案！63 億美元是怎麼被搬走的？"
+  ]
+ },
+ {
+  "id": 553296,
+  "date": "2026-10-30T22:21:29",
+  "link": "https://www.blocktempo.com/aave-v3-v4-markets-unfrozen-ltv0-binance-incident/",
+  "title": "Aave 解凍 V3／V4 市場：幣安遭駭後預防性凍結結束，USDT 等九資產暫不可當新借款抵押品",
+  "excerpt": "Aave 因幣安熱錢包遭駭事件，曾預防性凍結 V3、V4 市場；台北時間 10 月 30 日晚間官方宣布市場已",
+  "category": "defi",
+  "tags": [
+   "defi"
+  ]
+ },
+ {
+  "id": 553291,
+  "date": "2026-10-30T22:08:27",
+  "link": "https://www.blocktempo.com/cursor-claude-code-extension-2-1-313-ssh-backdoor/",
+  "title": "不是 Anthropic 遭駭！Cursor 確認市集上架惡意 Claude Code 擴充功能 2.1.313，已下架並公布修復步驟",
+  "excerpt": "Cursor 確認其 VS Code 擴充功能市集曾短暫上架遭植入 SSH 後門的 Claude Code 擴",
+  "category": "AI",
+  "tags": [
+   "AI",
+   "安全"
+  ]
+ },
+ {
+  "id": 553286,
+  "date": "2026-10-30T21:51:56",
+  "link": "https://www.blocktempo.com/us-crypto-stocks-slide-open-coin-mstr-binance-hack/",
+  "title": "幣安遭駭後風險偏好急凍！美股開盤加密概念股全線下挫，Coinbase 跌 12.46%、Strategy 跌逾一成",
+  "excerpt": "美股開盤，加密概念股全線下挫，Coinbase、Strategy 跌逾一成，挖礦與交易平台股同步走弱；幣安約",
+  "category": "加密貨幣市場",
+  "tags": [
+   "加密貨幣市場",
+   "金融市場"
+  ]
+ },
+ {
+  "id": 553281,
+  "date": "2026-10-30T21:41:39",
+  "link": "https://www.blocktempo.com/us-stocks-open-nasdaq-down-tech-ai-spend-fears-intel-amazon/",
+  "title": "美股開盤英特爾暴跌近 26%！AI 燒錢焦慮升溫，科技股承壓嚴重",
+  "excerpt": "美股開盤科技股續挫，那斯達克跌約 2.2%，英特爾重挫約 25.7%、亞馬遜跌約 5.3%、輝達跌約 2.5%",
+  "category": "AI",
+  "tags": [
+   "AI",
+   "美國"
+  ]
+ },
+ {
+  "id": 553275,
+  "date": "2026-10-30T21:21:44",
+  "link": "https://www.blocktempo.com/newton-foundation-binance-hacker-locks-3-5m-newt-contract-2026/",
+  "title": "幣安駭客疑誤轉約 350 萬美元代幣進 NEWT 合約！Newton Foundation：資產永久被鎖死",
+  "excerpt": "Newton Foundation 今晚指出，幣安駭客疑似誤操作，把約 800 萬枚 NEWT 與另 17 種",
+  "category": "加密貨幣市場",
+  "tags": [
+   "加密貨幣市場",
+   "幣安史上最大駭案！63 億美元是怎麼被搬走的？"
+  ]
+ },
+ {
+  "id": 553270,
+  "date": "2026-10-30T21:08:40",
+  "link": "https://www.blocktempo.com/killa-binance-hack-marks-bottom-like-ftx-bullish-htf/",
+  "title": "交易員 Killa：幣安遭駭會像 FTX 崩盤成為熊市底部標誌！持幣巨頭有動力把行情往上推",
+  "excerpt": "知名量化交易員 Killa 認為，幣安遭駭會像當年 FTX 崩盤一樣標誌市場底部；持有大量比特幣的幣安，為彌補",
+  "category": "市場分析",
+  "tags": [
+   "市場分析",
+   "投資分析",
+   "獨立觀點"
+  ]
+ },
+ {
+  "id": 553259,
+  "date": "2026-10-30T20:59:44",
+  "link": "https://www.blocktempo.com/zcash-community-grants-nsm-zec-mining-reserve-backlash/",
+  "title": "Zcash 社群贊助委員會擬將近 10 萬枚 ZEC 導向挖礦獎勵！未來撥款腰斬、社群炎上",
+  "excerpt": "隱私幣 Zcash 的社群贊助委員會（Zcash Community Grants，ZCG）週四在官方論壇提出",
+  "category": "加密貨幣市場",
+  "tags": [
+   "加密貨幣市場"
+  ]
+ },
+ {
+  "id": 553256,
+  "date": "2026-10-30T20:50:19",
+  "link": "https://www.blocktempo.com/gcsa-binance-eip-7702-forensic-report-6-3b/",
+  "title": "全球網路安全聯盟獨立取證幣安駭案：50 項 EIP-7702 簽名有效，不能據此認定私鑰未外洩",
+  "excerpt": "全球網路安全聯盟 GCSA 於台北時間 10 月 30 日發布《幣安約 63 億美元被盜事件獨立取證與 EIP",
+  "category": "幣安史上最大駭案！63 億美元是怎麼被搬走的？",
+  "tags": [
+   "幣安史上最大駭案！63 億美元是怎麼被搬走的？"
+  ]
+ },
+ {
+  "id": 553251,
+  "date": "2026-10-30T20:30:46",
+  "link": "https://www.blocktempo.com/binance-starts-backfilling-stolen-assets-6-34b-company-funds/",
+  "title": "幣安：已開始回填被盜資產，50 億美元對應代幣已準備到位",
+  "excerpt": "幣安開始回填此次駭客事件中被盜的資產，並已準備逾 63.4 億美元公司資金覆蓋損失；其中逾 50 億美元對應代",
+  "category": "交易所",
+  "tags": [
+   "交易所",
+   "加密貨幣市場",
+   "幣安史上最大駭案！63 億美元是怎麼被搬走的？"
+  ]
+ },
+ {
+  "id": 553233,
+  "date": "2026-10-30T20:15:42",
+  "link": "https://www.blocktempo.com/btc-traders-buy-puts-after-binance-hack-2026/",
+  "title": "幣安遭駭後比特幣大戶狂買看跌期權！接下來還會再跌一截？",
+  "excerpt": "幣安遭駭後，比特幣大戶搶買「保險」—— 近端看跌期權；機構流動性網路 Paradigm 八小時內 BTC 期權",
+  "category": "加密貨幣市場",
+  "tags": [
+   "加密貨幣市場",
+   "幣安史上最大駭案！63 億美元是怎麼被搬走的？"
+  ]
+ },
+ {
+  "id": 553177,
+  "date": "2026-10-30T19:28:00",
+  "link": "https://www.blocktempo.com/reuters-source-binance-cooperating-fbi-us-secret-service-crypto-heist/",
+  "title": "路透：幣安遭竊 63 億美元，正與 FBI、美國特勤局合作",
+  "excerpt": "路透（Reuters）快訊，一名消息人士透露，幣安正與美國聯邦調查局（FBI）及美國特勤局合作，處理約 63",
+  "category": "交易所",
+  "tags": [
+   "交易所",
+   "即時新聞",
+   "幣安史上最大駭案！63 億美元是怎麼被搬走的？",
+   "犯罪"
+  ]
+ },
+ {
+  "id": 553176,
+  "date": "2026-10-30T19:26:55",
+  "link": "https://www.blocktempo.com/yi-he-aave-usdt-collateral-hacker-eth-recover-14-million/",
+  "title": "何一：Aave 凍結解開後，可追回 1,400 萬美元",
+  "excerpt": "幣安共同創辦人何一（Yi He）10 月 30 日晚間回覆網友時表示，Aave 抵押的 6,000 萬 USD",
+  "category": "defi",
+  "tags": [
+   "defi",
+   "交易所",
+   "即時新聞",
+   "幣安史上最大駭案！63 億美元是怎麼被搬走的？"
+  ]
+ },
+ {
+  "id": 553162,
+  "date": "2026-10-30T19:26:22",
+  "link": "https://www.blocktempo.com/okx-prediction-market-earnings-beat-price-reaction-analysis/",
+  "title": "OKX預測市場：財報答對行情卻走反，市場定價邏輯比成績單更複雜",
+  "excerpt": "財報過線不代表股價必漲，預測市場揭示：市場交易的不是成績單，而是成績單如何改變對未來的判斷。 （前情提要：快訊",
+  "category": "市場分析",
+  "tags": [
+   "市場分析"
+  ]
+ },
+ {
+  "id": 553115,
+  "date": "2026-10-30T19:04:13",
+  "link": "https://www.blocktempo.com/cz-tells-musk-bad-time-troll-binance-hack-spcx-shares/",
+  "title": "CZ 回覆馬斯克：現在嗆幣安不恰當！我還是 SpaceX 大股東",
+  "excerpt": "幣安創辦人 CZ（趙長鵬）10 月 30 日傍晚回覆馬斯克，請馬斯克別在幣安遭駭期間調侃。CZ 並稱幣安的 S",
+  "category": "交易所",
+  "tags": [
+   "交易所",
+   "即時新聞",
+   "幣安史上最大駭案！63 億美元是怎麼被搬走的？"
+  ]
+ },
+ {
+  "id": 553034,
+  "date": "2026-10-30T19:01:37",
+  "link": "https://www.blocktempo.com/binance-hack-trm-labs-north-korea-tradertraitor-63-billion-eip-7702-analysis/",
+  "title": "TRM 揭露：FBI 查封 Virtualine 網域，勒索軟體流入佔 5%",
+  "excerpt": "TRM Labs 於 2026 年 10 月 30 日揭露，FBI 已查封虛擬主機商 Virtualine 的",
+  "category": "安全",
+  "tags": [
+   "安全"
+  ]
+ },
+ {
   "id": 553096,
   "date": "2026-10-30T17:56:17",
   "link": "https://www.blocktempo.com/machi-big-brother-hyperliquid-eth-liquidated-eight-times-six-hours/",
-  "title": "麻吉大哥一個月虧掉千萬美元！ 今天再入金 25 萬鎂做多",
-  "excerpt": "據鏈上分析平台 Lookonchain 監測，麻吉大哥黃立成的 Hyperliquid 帳戶 6 小時內被清算",
+  "title": "麻吉大哥 Hyperliquid 只剩1美元！一個月虧掉千萬還被幣安害到",
+  "excerpt": "據鏈上分析平台 Lookonchain 監測，麻吉大哥黃立成的 Hyperliquid 帳戶因為幣安被駭事件暴",
   "category": "以太坊",
   "tags": [
    "以太坊",
-   "市場分析"
+   "市場分析",
+   "幣安史上最大駭案！63 億美元是怎麼被搬走的？"
   ]
  },
  {
@@ -45,7 +308,8 @@
   "tags": [
    "交易所",
    "即時新聞",
-   "安全"
+   "安全",
+   "幣安史上最大駭案！63 億美元是怎麼被搬走的？"
   ]
  },
  {
@@ -117,6 +381,7 @@
   "category": "安全",
   "tags": [
    "安全",
+   "幣安史上最大駭案！63 億美元是怎麼被搬走的？",
    "犯罪"
   ]
  },
@@ -140,7 +405,8 @@
   "category": "交易所",
   "tags": [
    "交易所",
-   "即時新聞"
+   "即時新聞",
+   "幣安史上最大駭案！63 億美元是怎麼被搬走的？"
   ]
  },
  {
@@ -153,7 +419,8 @@
   "tags": [
    "defi",
    "以太坊",
-   "即時新聞"
+   "即時新聞",
+   "幣安史上最大駭案！63 億美元是怎麼被搬走的？"
   ]
  },
  {
@@ -165,7 +432,8 @@
   "category": "交易所",
   "tags": [
    "交易所",
-   "安全"
+   "安全",
+   "幣安史上最大駭案！63 億美元是怎麼被搬走的？"
   ]
  },
  {
@@ -190,7 +458,8 @@
   "category": "交易所",
   "tags": [
    "交易所",
-   "安全"
+   "安全",
+   "幣安史上最大駭案！63 億美元是怎麼被搬走的？"
   ]
  },
  {
@@ -225,7 +494,8 @@
   "excerpt": "幣安公布初步調查報告，指出這起安全事件可能與一名維運工程師的筆記型電腦被入侵有關。 （前情提要：復盤幣安熱錢包",
   "category": "交易所",
   "tags": [
-   "交易所"
+   "交易所",
+   "幣安史上最大駭案！63 億美元是怎麼被搬走的？"
   ]
  },
  {
@@ -238,7 +508,8 @@
   "tags": [
    "交易所",
    "即時新聞",
-   "安全"
+   "安全",
+   "幣安史上最大駭案！63 億美元是怎麼被搬走的？"
   ]
  },
  {
@@ -246,12 +517,13 @@
   "date": "2026-10-30T10:22:43",
   "link": "https://www.blocktempo.com/binance-hack-explainer-timeline-frozen-funds-compensation-deposits-withdrawals-resume/",
   "title": "幣安遭駭懶人包（持續更新）：發生什麼事、賠付、凍結、Binance 提款進度一次看",
-  "excerpt": "幣安熱錢包於 30 日凌晨遭駭，幣安 10:23 公布初步調查，疑因一名 DevOps 工程師的筆電遭入侵，官",
+  "excerpt": "幣安熱錢包於 30 日凌晨遭駭，官方估計總影響約 63 億美元、已凍結約 30 億美元，承諾承擔全部損失，並已",
   "category": "交易所",
   "tags": [
    "交易所",
    "即時新聞",
-   "安全"
+   "安全",
+   "幣安史上最大駭案！63 億美元是怎麼被搬走的？"
   ]
  },
  {
@@ -287,7 +559,8 @@
   "category": "交易所",
   "tags": [
    "交易所",
-   "安全"
+   "安全",
+   "幣安史上最大駭案！63 億美元是怎麼被搬走的？"
   ]
  },
  {
@@ -300,7 +573,8 @@
   "tags": [
    "交易所",
    "即時新聞",
-   "安全"
+   "安全",
+   "幣安史上最大駭案！63 億美元是怎麼被搬走的？"
   ]
  },
  {
@@ -312,7 +586,8 @@
   "category": "交易所",
   "tags": [
    "交易所",
-   "安全"
+   "安全",
+   "幣安史上最大駭案！63 億美元是怎麼被搬走的？"
   ]
  },
  {
@@ -358,7 +633,8 @@
   "excerpt": "幣安熱錢包遭駭訊息衝擊加密市場，比特幣今（30）日一度下探約 7.67 萬美元、以太坊失守 2,250 美元，",
   "category": "市場分析",
   "tags": [
-   "市場分析"
+   "市場分析",
+   "幣安史上最大駭案！63 億美元是怎麼被搬走的？"
   ]
  },
  {
@@ -371,7 +647,8 @@
   "tags": [
    "交易所",
    "即時新聞",
-   "安全"
+   "安全",
+   "幣安史上最大駭案！63 億美元是怎麼被搬走的？"
   ]
  },
  {
@@ -384,7 +661,8 @@
   "tags": [
    "defi",
    "即時新聞",
-   "安全"
+   "安全",
+   "幣安史上最大駭案！63 億美元是怎麼被搬走的？"
   ]
  },
  {
@@ -397,7 +675,8 @@
   "tags": [
    "交易所",
    "即時新聞",
-   "安全"
+   "安全",
+   "幣安史上最大駭案！63 億美元是怎麼被搬走的？"
   ]
  },
  {
@@ -410,7 +689,8 @@
   "tags": [
    "交易所",
    "即時新聞",
-   "安全"
+   "安全",
+   "幣安史上最大駭案！63 億美元是怎麼被搬走的？"
   ]
  },
  {
@@ -422,7 +702,8 @@
   "category": "以太坊",
   "tags": [
    "以太坊",
-   "即時新聞"
+   "即時新聞",
+   "幣安史上最大駭案！63 億美元是怎麼被搬走的？"
   ]
  },
  {
@@ -433,7 +714,8 @@
   "excerpt": "或許受幣安疑似遭駭消息衝擊，加密市場今晨遭遇嚴重賣壓：比特幣一度下探約 7.8 萬美元，以太坊失守約 2,25",
   "category": "加密貨幣市場",
   "tags": [
-   "加密貨幣市場"
+   "加密貨幣市場",
+   "幣安史上最大駭案！63 億美元是怎麼被搬走的？"
   ]
  },
  {
@@ -444,7 +726,8 @@
   "excerpt": "幣安標註熱錢包地址在台北時間 10 月 30 日清晨出現大額轉出，鏈上一次掃出約 16.7 萬枚 ETH 與逾",
   "category": "交易所",
   "tags": [
-   "交易所"
+   "交易所",
+   "幣安史上最大駭案！63 億美元是怎麼被搬走的？"
   ]
  },
  {
@@ -6745,257 +7028,6 @@
   "category": "加密貨幣市場",
   "tags": [
    "加密貨幣市場"
-  ]
- },
- {
-  "id": 545201,
-  "date": "2026-10-14T09:36:51",
-  "link": "https://www.blocktempo.com/philippines-largest-crypto-exchange-coins-ph-central-bank-regulatory-action-gambling/",
-  "title": "菲律賓最大加密交易所 Coins.ph 遭央行處分！涉離岸賭博，恐被撤照",
-  "excerpt": "菲律賓最大加密貨幣交易所 Coins.ph 面臨央行懲戒行動，據悉涉及服務受限制的海外賭博平台。這座位於全球第",
-  "category": "即時新聞",
-  "tags": [
-   "即時新聞"
-  ]
- },
- {
-  "id": 545127,
-  "date": "2026-10-14T02:01:49",
-  "link": "https://www.blocktempo.com/strive-acquires-3311-bitcoin-holdings-32773-saylor-digital-capital-market/",
-  "title": "Strive 單週狂掃 3,311 枚比特幣！總持倉破 3.2 萬枚躍升美股第五，Michael Saylor 盛讚",
-  "excerpt": "美國比特幣財庫公司 Strive（NASDAQ: ASST）於 10 月 9 日當週斥資約 2.8 億美元，單",
-  "category": "比特幣",
-  "tags": [
-   "比特幣"
-  ]
- },
- {
-  "id": 545120,
-  "date": "2026-10-14T00:28:31",
-  "link": "https://www.blocktempo.com/google-launches-gemini-4-argon-multimodal-robotics/",
-  "title": "Google 發表 Gemini 4 Argon！空間推理大進化、驅動 Apollo 人形機器人，API 定價出爐",
-  "excerpt": "科技巨頭 Google 於 13 日正式宣布推出新一代旗艦模型「Gemini 4 Argon」，為 Gemin",
-  "category": "Google",
-  "tags": [
-   "Google"
-  ]
- },
- {
-  "id": 545109,
-  "date": "2026-10-13T23:46:24",
-  "link": "https://www.blocktempo.com/interactive-brokers-launches-ethereum-staking-service/",
-  "title": "盈透證券 IBKR 推出以太幣質押！零門檻免 32 ETH，手續費最高 30%、資產無 SIPC 保障",
-  "excerpt": "全球知名線上經紀商盈透證券（Interactive Brokers，納斯達克代碼：IBKR）於 10 月 13",
-  "category": "加密貨幣市場",
-  "tags": [
-   "加密貨幣市場"
-  ]
- },
- {
-  "id": 545076,
-  "date": "2026-10-13T22:53:59",
-  "link": "https://www.blocktempo.com/anthropic-ai-worms-self-replicating-autonomous-iot-devices-threat/",
-  "title": "Anthropic 警告「AI 病毒」逼近！數月內就能自我複製感染家電",
-  "excerpt": "AI 威脅正從科幻電影走向現實客廳！AI 巨頭 Anthropic 旗下前沿紅隊（Frontier Red T",
-  "category": "AI",
-  "tags": [
-   "AI"
-  ]
- },
- {
-  "id": 545091,
-  "date": "2026-10-13T22:46:16",
-  "link": "https://www.blocktempo.com/bitcoin-mining-profit-calculator-hashprice-electricity-cost-breakeven-shutdown-price/",
-  "title": "比特幣挖礦收益計算器：即時測算算力收益（Hashprice）、電費與關機幣價",
-  "excerpt": "比特幣 10 月 13 日報價約 83,750 美元，礦工的單位收益卻接近歷史低點，Hashprice 只有每",
-  "category": "挖礦",
-  "tags": [
-   "挖礦",
-   "比特幣",
-   "金融市場"
-  ]
- },
- {
-  "id": 545081,
-  "date": "2026-10-13T22:40:36",
-  "link": "https://www.blocktempo.com/palantir-cto-sankar-ai-researchers-smoking-bet-cure-cancer-claim/",
-  "title": "AI 業界開始流行抽菸！Palantir 技術長解釋：他們妄想 AI 很快能治癌症",
-  "excerpt": "Palantir 技術長 Shyam Sankar 本月 11 日在 CBS 節目上說，現在很多 AI 研究員",
-  "category": "AI",
-  "tags": [
-   "AI",
-   "美國"
-  ]
- },
- {
-  "id": 545052,
-  "date": "2026-10-13T21:55:35",
-  "link": "https://www.blocktempo.com/ens-dao-ensv2-upgrade-ethereum-domain-registrations-pause-nick-johnson/",
-  "title": "ENS 要升級了！Nick Johnson 提 ENSv2 提案，新 .eth 註冊暫停",
-  "excerpt": "ENS 創辦人 Nick Johnson 提交 ENSv2 可執行草案提案，若經 DAO 批准，以太坊域名系統",
-  "category": "以太坊",
-  "tags": [
-   "以太坊"
-  ]
- },
- {
-  "id": 545050,
-  "date": "2026-10-13T21:36:54",
-  "link": "https://www.blocktempo.com/uk-crypto-holder-robbed-800k-home-invasion-ledger/",
-  "title": "英國男子遭「入室搶劫」捲走 80 萬鎂加密貨幣！痛心勸：做加密的快逃離英國",
-  "excerpt": "實體暴力逼交私鑰的惡夢再度上演！一名居住在英國的加密貨幣投資人於 13 日透露，其住處遭多名歹徒闖入，對方用膠",
-  "category": "即時新聞",
-  "tags": [
-   "即時新聞"
-  ]
- },
- {
-  "id": 545039,
-  "date": "2026-10-13T21:03:39",
-  "link": "https://www.blocktempo.com/sberbank-russia-crypto-trading-approval-december-launch-btc-eth-usdt/",
-  "title": "俄羅斯最大銀行 Sberbank 獲準提供加密交易！12 月推比特幣、以太幣、USDT",
-  "excerpt": "俄羅斯最大銀行 Sberbank 正式獲得中央銀行加密交易許可，12 月 1 日將透過自有平台提供比特幣、以太",
-  "category": "其他國家",
-  "tags": [
-   "其他國家",
-   "法規"
-  ]
- },
- {
-  "id": 545034,
-  "date": "2026-10-13T21:00:59",
-  "link": "https://www.blocktempo.com/lhs-1140b-habitable-zone-exoplanet-atmosphere-detected/",
-  "title": "48 光年外驚現大氣層！超級地球 LHS 1140 b 破天荒留存氣體，成尋找地外生命最大希望",
-  "excerpt": "哈佛大學天文團隊利用智利麥哲倫望遠鏡的高解析光譜儀，在距離地球約 48 光年的紅矮星系統中，首度確認位於恆星「",
-  "category": "即時新聞",
-  "tags": [
-   "即時新聞"
-  ]
- },
- {
-  "id": 545024,
-  "date": "2026-10-13T20:48:49",
-  "link": "https://www.blocktempo.com/character-ai-files-chapter-11-bankruptcy-disney-bid/",
-  "title": "從矽谷 AI 寵兒到拍賣資產！Character.ai 聲請破產保護，迪士尼出資 2000 萬鎂成基準買家",
-  "excerpt": "曾以 AI 角色扮演與情感陪伴風靡全球的獨角獸新創 Character.ai（Character Techno",
-  "category": "AI",
-  "tags": [
-   "AI"
-  ]
- },
- {
-  "id": 545008,
-  "date": "2026-10-13T20:28:04",
-  "link": "https://www.blocktempo.com/mediamarkt-pulls-all-ledger-wallets-europe-tampering-cells-modules-spy-implants/",
-  "title": "Ledger 改機沒完！歐洲電子連鎖店全數下架，用戶連購兩臺都藏手機訊號天線",
-  "excerpt": "歐洲最大電子連鎖零售商之一 MediaMarktSaturn 將旗下所有 Ledger 錢包產品全面下架。使用",
-  "category": "安全",
-  "tags": [
-   "安全",
-   "錢包"
-  ]
- },
- {
-  "id": 545004,
-  "date": "2026-10-13T20:23:36",
-  "link": "https://www.blocktempo.com/metaplanet-issues-329m-convertible-bonds-repay-debt-share-buybacks-without-selling-bitcoin/",
-  "title": "Metaplanet 發 3.29 億美元零息債券！還債回購兩手抓，不賣比特幣也要最佳化負債表",
-  "excerpt": "Metaplanet 宣布發行 520 億日圓（約 3.29 億美元）零息可轉換公司債，資金將用於償還比特幣擔",
-  "category": "比特幣",
-  "tags": [
-   "比特幣"
-  ]
- },
- {
-  "id": 545012,
-  "date": "2026-10-13T20:15:34",
-  "link": "https://www.blocktempo.com/south-korea-fiu-blocks-27-unregistered-crypto-exchanges/",
-  "title": "韓國鐵腕封鎖 KuCoin、MEXC 等 27 家海外交易所網站！未註冊最高判 5 年，FIU 籲用戶速撤資",
-  "excerpt": "韓國金融情報分析院（FIU）於 13 日宣布，經通訊標準審議委員會審查核准，將正式封鎖包含 KuCoin、ME",
-  "category": "其他國家",
-  "tags": [
-   "其他國家",
-   "法規"
-  ]
- },
- {
-  "id": 544978,
-  "date": "2026-10-13T18:17:33",
-  "link": "https://www.blocktempo.com/hyperliquid-prediction-market-hip4-polymarket-volume-struggle-world-cup-bitcoin/",
-  "title": "Hyperliquid 預測市場慘敗：成交僅 Polymarket 的 0.07%，世界盃撐場",
-  "excerpt": "Hyperliquid 預測市場 HIP-4 上線五個月累計成交 3.17 億美元，Kalshi 四小時就能跑",
-  "category": "加密貨幣市場",
-  "tags": [
-   "加密貨幣市場"
-  ]
- },
- {
-  "id": 544927,
-  "date": "2026-10-13T17:49:39",
-  "link": "https://www.blocktempo.com/rea-reverse-engineer-anything-github-175k-stars-ai-agents-mcp/",
-  "title": "AI 逆向工具「REA 」GitHub 十天衝上 17 萬星，真的什麼都能拆嗎？",
-  "excerpt": "開源工具 REA 讓 Claude Code、Codex 這類 AI 助手能拆解軟體，10 天內在 GitHu",
-  "category": "AI",
-  "tags": [
-   "AI",
-   "技術"
-  ]
- },
- {
-  "id": 544898,
-  "date": "2026-10-13T17:36:30",
-  "link": "https://www.blocktempo.com/china-cxmt-4f2-vsg-dram-breakthrough-ddr5-server-samsung-hynix/",
-  "title": "中國長鑫喊年底推 4F² 伺服器記憶體，真領先三星、海力士兩年？",
-  "excerpt": "中國 DRAM 廠長鑫表示 4F² 架構研發有進展，並預告年底亮相 DDR5 伺服器記憶體，不過沒有交代產品規",
-  "category": "AI",
-  "tags": [
-   "AI",
-   "中國",
-   "技術"
-  ]
- },
- {
-  "id": 544953,
-  "date": "2026-10-13T17:13:56",
-  "link": "https://www.blocktempo.com/nintendo-physical-games-agnostic-sony-2028-digital-61-percent/",
-  "title": "回應索尼砍光碟、任天堂澄清「絕不放棄實體」，Switch 2 數位占比卻已飆 61.5%",
-  "excerpt": "索尼要在 2028 年停產新作光碟、微軟推光碟轉數位授權，任天堂高層則強調立場「中立」。但從 Switch 2",
-  "category": "遊戲",
-  "tags": [
-   "遊戲"
-  ]
- },
- {
-  "id": 544949,
-  "date": "2026-10-13T16:50:45",
-  "link": "https://www.blocktempo.com/imf-waller-ai-slow-tsunami-employment-tax-gdp-gap-oct-2026/",
-  "title": "IMF 總裁警告：人工智慧是「緩慢的經濟海嘯」；聯準會理事補刀：AI將擴大人均 GDP 差距",
-  "excerpt": "國際貨幣基金總裁格奧爾基耶娃在曼谷年會警告，人工智慧正以「緩慢移動的海嘯」之勢重編全球就業與稅收體系；聯準會理",
-  "category": "市場分析",
-  "tags": [
-   "市場分析"
-  ]
- },
- {
-  "id": 544942,
-  "date": "2026-10-13T16:05:59",
-  "link": "https://www.blocktempo.com/gwdc-2026-korea-hong-kong-web3-ai-stablecoin-rwa-conference/",
-  "title": "GWDC 2026 KOREA 首爾圓滿落幕：港韓共築政策技術雙引擎，開發者聚焦 AI 智能體、稳定币與 RWA 創新",
-  "excerpt": "GWDC 2026 KOREA在首爾落幕，由Web3Labs主辦，逾2000人次參與。大會聚焦AI智慧體、穩定",
-  "category": "加密貨幣市場",
-  "tags": [
-   "加密貨幣市場"
-  ]
- },
- {
-  "id": 544869,
-  "date": "2026-10-13T15:30:36",
-  "link": "https://www.blocktempo.com/binance-shutting-down-mining-pool-services-november-2026/",
-  "title": "幣安要關礦池了！11月10日全面停服，六年的挖礦服務走到盡頭",
-  "excerpt": "幣安宣布 11 月 10 日關閉 Binance Pool 及相關挖礦服務，包括 Pool Savings、雲",
-  "category": "比特幣",
-  "tags": [
-   "比特幣"
   ]
  }
 ]
