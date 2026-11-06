@@ -1,5 +1,215 @@
 [
  {
+  "id": 556040,
+  "date": "2026-11-06T10:23:25",
+  "link": "https://www.blocktempo.com/openssh-musl-alpine-password-bypass-star-account-login-emergency-patch/",
+  "title": "Linux 伺服器十年老漏洞曝光：密碼亂打一長串就能登入，修補已推出",
+  "excerpt": "OpenSSH 10.6p2 緊急修補 musl 系統上的密碼驗證繞過漏洞，沒設密碼的帳號會被超長密碼直接登入",
+  "category": "AI",
+  "tags": [
+   "AI",
+   "安全",
+   "技術"
+  ]
+ },
+ {
+  "id": 556028,
+  "date": "2026-11-06T10:12:45",
+  "link": "https://www.blocktempo.com/ansari-superintelligence-ban-post-not-behind-chip-stock-crash-texas/",
+  "title": "你真相信市場會因民主黨議員一句話就崩盤？",
+  "excerpt": "美股這兩天重挫，多半不是 Ansari 一句「禁超級 AI」造成的。市場真正定價的是資料中心蓋得更慢、更貴、更",
+  "category": "AI",
+  "tags": [
+   "AI",
+   "市場分析",
+   "美國"
+  ]
+ },
+ {
+  "id": 555919,
+  "date": "2026-11-06T10:05:03",
+  "link": "https://www.blocktempo.com/amundi-tokenized-stoxx-600-equity-index-fund-ethereum-caceis/",
+  "title": "歐洲最大資管 Amundi 將旗艦指數基金 STOXX 600 上鏈以太坊",
+  "excerpt": "歐洲最大資產管理公司 Amundi 把旗艦歐股指數基金搬上以太坊，追蹤 STOXX Europe 600 的基",
+  "category": "市場分析",
+  "tags": [
+   "即時新聞",
+   "市場分析"
+  ]
+ },
+ {
+  "id": 555972,
+  "date": "2026-11-06T09:29:20",
+  "link": "https://www.blocktempo.com/taiwan-stocks-record-point-drop-open-tsmc-limit-down-kospi/",
+  "title": "台股開盤重挫 3,737 點「創史上最大跌點」，台積電、聯發科多檔權值股近跌停",
+  "excerpt": "台股 11 月 6 日開盤跌 2,658.96 點（-6.40%），9 時 4 分盤中低點跌 3,737.67",
+  "category": "台灣",
+  "tags": [
+   "台灣",
+   "市場分析",
+   "金融市場"
+  ]
+ },
+ {
+  "id": 555966,
+  "date": "2026-11-06T09:16:25",
+  "link": "https://www.blocktempo.com/kospi-circuit-breaker-nikkei-bear-market-ai-chip-selloff-midterms/",
+  "title": "亞股血洗！韓股熔斷 海力士重挫 11%、日經打入熊市，AI 拋售潮延燒",
+  "excerpt": "韓股 KOSPI 盤中跌逾 8% 觸發熔斷，日經 225 跌破 57,000 點、進入技術性熊市，源頭是美股週",
+  "category": "亞太",
+  "tags": [
+   "亞太",
+   "即時新聞",
+   "金融市場"
+  ]
+ },
+ {
+  "id": 555899,
+  "date": "2026-11-06T01:55:45",
+  "link": "https://www.blocktempo.com/musk-ansari-see-you-soon-hillary-congress-hearing/",
+  "title": "馬斯克被民主黨議員點名「明天見」！希拉里：即使川普特赦也要叫 Elon 進國會問詢",
+  "excerpt": "民主黨拿下國會後，亞利桑那州眾議員安薩里（Yassamin Ansari）先喊「第一天就要停先進 AI」，馬斯",
+  "category": "美國",
+  "tags": [
+   "美國"
+  ]
+ },
+ {
+  "id": 555895,
+  "date": "2026-11-06T01:35:37",
+  "link": "https://www.blocktempo.com/google-gemini-omni-1-2-flash-launch/",
+  "title": "Google 推出 Gemini Omni 1.2 Flash：原生 15 秒影片、降價三成，API 與雲端正式開放",
+  "excerpt": "Google 推出影片模型 Gemini Omni 1.2 Flash，原生片長拉到 15 秒、720p 每秒",
+  "category": "Google",
+  "tags": [
+   "Google"
+  ]
+ },
+ {
+  "id": 555889,
+  "date": "2026-11-06T01:26:20",
+  "link": "https://www.blocktempo.com/openai-launches-gpt-6-cybersecurity-agent/",
+  "title": "OpenAI 發表最強資安模型「GPT-6 Cyber」！挖出 Firefox 81 個高危漏洞，被列爲最高 Critical 風險級",
+  "excerpt": "OpenAI 正式發表專門針對網路安全研究的旗艦模型「GPT-6 Cyber」。該模型在關鍵漏洞利用基準測試中",
+  "category": "Openai",
+  "tags": [
+   "Openai"
+  ]
+ },
+ {
+  "id": 555884,
+  "date": "2026-11-06T01:03:07",
+  "link": "https://www.blocktempo.com/us-stocks-epic-selloff-mag7-nasdaq-nov5/",
+  "title": "美股史詩級拋售！那斯達克重挫逾 4%、Nvidia 跌近 7%、特斯拉崩超 10%",
+  "excerpt": "美股週四（11 月 5 日）選後第二個交易日遭遇史詩級拋售：那斯達克盤中重挫逾 4%，標普 500、道瓊同步翻",
+  "category": "即時新聞",
+  "tags": [
+   "即時新聞"
+  ]
+ },
+ {
+  "id": 555866,
+  "date": "2026-11-06T00:20:42",
+  "link": "https://www.blocktempo.com/btc-falls-below-76k-eth-2200-liquidations-1033m/",
+  "title": "比特幣深夜失守 7.6 萬、以太坊下探 2200 美元！全網近 4 小時爆倉 8.8 億美元",
+  "excerpt": "比特幣深夜最低失守 7.6 萬美元、以太坊最低下探約 2,200 美元；過去 24 小時全網約 198,931",
+  "category": "加密貨幣市場",
+  "tags": [
+   "加密貨幣市場"
+  ]
+ },
+ {
+  "id": 555847,
+  "date": "2026-11-05T23:16:42",
+  "link": "https://www.blocktempo.com/btc-falls-below-78000-eth-2300-us-stocks-red/",
+  "title": "比特幣跌破 7.8 萬美元、以太坊下探 $2300！美股盤中全黑、科技與加密概念股齊挫",
+  "excerpt": "比特幣跌破 7.8 萬美元，以太坊下探約 2,300 美元；美股開盤後盤中翻黑，科技股與加密貨幣概念股同步承壓",
+  "category": "加密貨幣市場",
+  "tags": [
+   "加密貨幣市場"
+  ]
+ },
+ {
+  "id": 555834,
+  "date": "2026-11-05T22:39:43",
+  "link": "https://www.blocktempo.com/scaramucci-trump-memecoin-clarity-act-ethics-vote-failure/",
+  "title": "天橋資本創辦人 Scaramucci 開砲：川普迷因幣害 CLARITY 法案卡關！",
+  "excerpt": "SkyBridge Capital 創辦人 Anthony Scaramucci 把 CLARITY 法案卡關",
+  "category": "法規",
+  "tags": [
+   "即時新聞",
+   "法規"
+  ]
+ },
+ {
+  "id": 555838,
+  "date": "2026-11-05T22:33:48",
+  "link": "https://www.blocktempo.com/payward-kraken-buys-aave-tokens/",
+  "title": "Kraken 母公司 Payward 二級市場購入 AAVE！加碼 DeFi 佈局",
+  "excerpt": "Kraken 母公司 Payward 與旗下資管客戶，透過關聯基金在二級市場買入未披露數量的 AAVE 代幣，",
+  "category": "加密貨幣市場",
+  "tags": [
+   "加密貨幣市場"
+  ]
+ },
+ {
+  "id": 555824,
+  "date": "2026-11-05T22:10:37",
+  "link": "https://www.blocktempo.com/goplus-seal-ios-trust-wallet-561k/",
+  "title": "GoPlus 示警：iOS 自管錢包連遭盜！SEAL 回報損失約 56.1 萬美元，Trust Wallet 受害居多",
+  "excerpt": "區塊鏈資安團隊 GoPlus Security 示警，近期多起 iOS 自管錢包資產失竊，SEAL 回報損失合",
+  "category": "安全",
+  "tags": [
+   "安全",
+   "錢包"
+  ]
+ },
+ {
+  "id": 555819,
+  "date": "2026-11-05T21:41:20",
+  "link": "https://www.blocktempo.com/heyi-binance-campus-dinner-views/",
+  "title": "何一幣安學習營晚宴 23 分鐘影片講話：CZ 情緒穩定沒人「一夜白頭」、行業變得空心化、未來由 AI 與區塊鏈驅動",
+  "excerpt": "幣安共同創辦人暨共同執行長何一（Yi He）在幣安學習營晚宴上，以約 23 分鐘現場分享，回應近期安全事件質疑",
+  "category": "加密貨幣市場",
+  "tags": [
+   "加密貨幣市場"
+  ]
+ },
+ {
+  "id": 555813,
+  "date": "2026-11-05T21:21:59",
+  "link": "https://www.blocktempo.com/bubblemaps-kol-moves-onchain/",
+  "title": "Bubblemaps 起底四大加密 KOL：先買入後喊單、粉絲進場已在倒貨",
+  "excerpt": "鏈上分析平台 Bubblemaps 起底四名加密網紅（KOL），公開喊單與錢包時間線對不上：有人喊單前約 20",
+  "category": "加密貨幣市場",
+  "tags": [
+   "加密貨幣市場"
+  ]
+ },
+ {
+  "id": 555808,
+  "date": "2026-11-05T20:59:06",
+  "link": "https://www.blocktempo.com/btc-below-80k-eth-2400-liquidations-723m/",
+  "title": "比特幣跌破 8 萬美元、以太坊失守 $2400！全網 24 小時爆倉 7.23 億美元、逾 10 萬人被清算",
+  "excerpt": "比特幣今晚跌破 8 萬美元、以太坊失守 2,400 美元；過去 24 小時全網約 102,183 人遭強制平倉",
+  "category": "加密貨幣市場",
+  "tags": [
+   "加密貨幣市場"
+  ]
+ },
+ {
+  "id": 555796,
+  "date": "2026-11-05T20:48:34",
+  "link": "https://www.blocktempo.com/riot-anthropic-28b-deal-12-percent-interest/",
+  "title": "比特幣礦企 Riot Platforms 拿下 Anthropic 280 億美元長約！但要反過來「付利息」",
+  "excerpt": "比特幣礦企 Riot Platforms 與 Claude 開發商 Anthropic 的約 280 億美元、",
+  "category": "AI",
+  "tags": [
+   "AI",
+   "Anthropic"
+  ]
+ },
+ {
   "id": 555783,
   "date": "2026-11-05T20:37:34",
   "link": "https://www.blocktempo.com/gitbook-sso-breach-tradexyz-migration/",
@@ -6909,218 +7119,6 @@
   "category": "比特幣",
   "tags": [
    "比特幣"
-  ]
- },
- {
-  "id": 548397,
-  "date": "2026-10-20T19:59:39",
-  "link": "https://www.blocktempo.com/polymarket-taipei-mayor-puma-shen-odds-surge-chiang-poll-gap/",
-  "title": "賭盤變了！沈伯洋在 Polymarket 勝率逼宮蔣萬安，黃金交叉將來？",
-  "excerpt": "Polymarket 上的臺北市長選舉盤口，截至 10 月 20 日晚間 7 點半，蔣萬安勝率 56.5%、沈",
-  "category": "區塊鏈商業應用",
-  "tags": [
-   "區塊鏈商業應用"
-  ]
- },
- {
-  "id": 548330,
-  "date": "2026-10-20T18:44:22",
-  "link": "https://www.blocktempo.com/deepmind-four-gemini-argon-agents-team-beat-minecraft-ender-dragon/",
-  "title": "創紀錄！Gemini 自己通關 Minecraft，4 角色分工花 27 小時打倒終界龍",
-  "excerpt": "據 Google DeepMind 研究團隊 10 月 15 日上傳 arXiv 的論文，4 個 Gemini",
-  "category": "AI",
-  "tags": [
-   "AI",
-   "遊戲"
-  ]
- },
- {
-  "id": 548329,
-  "date": "2026-10-20T18:23:58",
-  "link": "https://www.blocktempo.com/china-ai-xiaohai-digital-humans-sob-stories-target-elderly-women/",
-  "title": "AI 化身悲慘身世「小海」直播帶貨！中國婆婆媽媽信了猛下單",
-  "excerpt": "據 新京報 調查，中國短影音平台上大量出現同一張臉的 AI 數位人「小海」，以單親少年人設喊中老年婦女「姨姨媽",
-  "category": "AI",
-  "tags": [
-   "AI",
-   "中國",
-   "社交"
-  ]
- },
- {
-  "id": 548345,
-  "date": "2026-10-20T18:05:28",
-  "link": "https://www.blocktempo.com/sdev-sky-treasury-stock-plunges-fugazi-short-report-warrant-dilution/",
-  "title": "SKY 加密財庫股 SDEV 兩週殺人跌 9 成！看空機構點名稀釋風險",
-  "excerpt": "Tether 參與投資的 SKY 財庫公司 SDEV 大拉大跌，股價兩週內從 9.82 美元跌到 0.8384",
-  "category": "市場分析",
-  "tags": [
-   "市場分析",
-   "穩定幣",
-   "金融市場"
-  ]
- },
- {
-  "id": 548351,
-  "date": "2026-10-20T17:55:15",
-  "link": "https://www.blocktempo.com/claude-granny-benchmark-justin-bieber-baby-lyrics-copyright-train-unverified/",
-  "title": "Claude 的道德考驗！寧讓「老奶奶被火車撞」不背小賈 Baby 歌詞",
-  "excerpt": "X 網友 Spectro 設計「老奶奶道德測試」，要 Claude 在 60 秒內背出 Justin Bieb",
-  "category": "AI",
-  "tags": [
-   "AI"
-  ]
- },
- {
-  "id": 548349,
-  "date": "2026-10-20T17:47:24",
-  "link": "https://www.blocktempo.com/hubei-badong-youth-song-xingyu-homemade-flying-skateboard-crosses-yangtze/",
-  "title": "中國素人自製「綠惡魔飛行板」飛越長江，由多架無人機組成",
-  "excerpt": "中國湖北一名年輕人宋興宇，最近公布自己用無人機組合的「飛行滑板」影片。影片中他飛越長江、穿過縣城街道與峽谷。這",
-  "category": "中國",
-  "tags": [
-   "中國",
-   "技術"
-  ]
- },
- {
-  "id": 548357,
-  "date": "2026-10-20T17:36:04",
-  "link": "https://www.blocktempo.com/cyberpunk-edgerunners-2-netflix-premiere-trigger-cd-projekt-red-standalone/",
-  "title": "《電馭叛客：邊緣行者2》上架 Netflix 完整 10 集！大衛交棒新主角",
-  "excerpt": "CD Projekt Red 與日本動畫公司 TRIGGER 合作的《電馭叛客：邊緣行者2》（Cyberpun",
-  "category": "遊戲",
-  "tags": [
-   "遊戲"
-  ]
- },
- {
-  "id": 548311,
-  "date": "2026-10-20T16:14:46",
-  "link": "https://www.blocktempo.com/jpmorgan-coreweave-bank-exposure-limited-mufg-delayed-draw-term-loans/",
-  "title": "摩根大通：CoreWeave 股債重挫對市場影響有限，多數銀行曝險不大",
-  "excerpt": "摩根大通週二發布報告估計，全球多數銀行對 AI 雲端商 CoreWeave 的曝險有限。美國大型投行與日本三菱",
-  "category": "AI",
-  "tags": [
-   "AI",
-   "金融市場",
-   "銀行"
-  ]
- },
- {
-  "id": 548250,
-  "date": "2026-10-20T15:28:11",
-  "link": "https://www.blocktempo.com/ukraine-hexacopter-drone-evacuates-wounded-soldier-frontline-world-first-claim/",
-  "title": "全球首例：烏克蘭以重型無人機吊走傷兵",
-  "excerpt": "烏軍稱，一架重型六旋翼無人機載著受傷步兵飛離前線，是全球首次空中後送。日期與地點未公開，連當事連隊自己的說法也",
-  "category": "即時新聞",
-  "tags": [
-   "即時新聞"
-  ]
- },
- {
-  "id": 548259,
-  "date": "2026-10-20T15:24:29",
-  "link": "https://www.blocktempo.com/indonesia-stock-exchange-cuts-daily-limit-seven-percent-msci-downgrade/",
-  "title": "印尼股市跌太兇證交所改規：單日最大跌幅限 7%",
-  "excerpt": "印尼證交所把個股單日跌幅上限從 15% 收窄到 7%，實施到年底，起因是 MSCI 提議把印尼從新興市場直接降",
-  "category": "亞太",
-  "tags": [
-   "亞太",
-   "市場分析",
-   "金融市場"
-  ]
- },
- {
-  "id": 548255,
-  "date": "2026-10-20T15:24:16",
-  "link": "https://www.blocktempo.com/brazil-guarulhos-airport-oderco-zotac-rtx-5090-pallets-vanish-compensation/",
-  "title": "兩棧板 RTX 5090 巴西機場憑空消失！貨主喊沒人負責，機場稱將賠償",
-  "excerpt": "巴西經銷商 Oderço 表示，兩個棧板、進貨成本約 250 萬雷亞爾的 Zotac RTX 5090 在聖保",
-  "category": "即時新聞",
-  "tags": [
-   "即時新聞"
-  ]
- },
- {
-  "id": 548186,
-  "date": "2026-10-20T13:03:44",
-  "link": "https://www.blocktempo.com/us-dhs-bans-deepseek-from-federal-agency-it-systems/",
-  "title": "美國國安部下令移除 DeepSeek！聯邦機構停用，AI 冷戰升級",
-  "excerpt": "美國國安部（DHS）下令所有聯邦民用機構移除 DeepSeek 產品與服務，禁令涵蓋關聯企業與第三方產品，週二",
-  "category": "AI",
-  "tags": [
-   "AI"
-  ]
- },
- {
-  "id": 548009,
-  "date": "2026-10-20T13:00:48",
-  "link": "https://www.blocktempo.com/mit-claude-agents-virtual-desert-island-play-eko-memory-learning/",
-  "title": "AI 會自己找樂子？把 Claude 丟上虛擬荒島 30 小時，不給任務自己玩得很開心",
-  "excerpt": "MIT 團隊把 Claude Opus 4.7 代理放上虛擬島，30 小時不給任務，結果它們自己會排圖案、投籃",
-  "category": "AI",
-  "tags": [
-   "AI",
-   "技術"
-  ]
- },
- {
-  "id": 548161,
-  "date": "2026-10-20T12:50:22",
-  "link": "https://www.blocktempo.com/anthropic-taiwan-udc-book-orders-court-records-563-tons-shipped/",
-  "title": "Anthropic 也買台灣書！法院曝 563 噸運往美國，台作者與版權方未必知情",
-  "excerpt": "Anthropic 在著作權官司裡交給法院的內部會議紀錄，記下向台灣圖書經銷商聯合發行下單的進度，韓國《中央日",
-  "category": "AI",
-  "tags": [
-   "AI",
-   "台灣"
-  ]
- },
- {
-  "id": 548146,
-  "date": "2026-10-20T12:40:13",
-  "link": "https://www.blocktempo.com/papertrade-iosg-mario-chow-hyperliquid-perpetual-loss-pool-analysis/",
-  "title": "Papertrade 日入僅次 Tether：把九成抽水退給輸家的賭場",
-  "excerpt": "Papertrade 上線不到十天，把交易者淨虧的 86% 直接分給 PAPER 質押者。這家 HyperEV",
-  "category": "defi",
-  "tags": [
-   "defi"
-  ]
- },
- {
-  "id": 548040,
-  "date": "2026-10-20T12:08:17",
-  "link": "https://www.blocktempo.com/meta-muse-agent-sexting-onlyfans-creators-instagram-restrictions-double-standard/",
-  "title": "Muse 能聊色、真人貼文卻被刪：OnlyFans 創作者不滿 Meta 雙標圖利",
-  "excerpt": "Meta 的 AI 代理 Muse 能和成年用戶聊露骨色情內容，真人創作者把同類文字貼到 Instagram",
-  "category": "AI",
-  "tags": [
-   "AI",
-   "社交"
-  ]
- },
- {
-  "id": 547996,
-  "date": "2026-10-20T12:01:10",
-  "link": "https://www.blocktempo.com/claude-code-dumbtv-cleanyourtv-smart-tv-ads-tracking-acr-business/",
-  "title": "用 AI 幫電視去廣告＆追蹤專案爆紅：哪些智慧電視做得到、風險在哪？",
-  "excerpt": "網友把電視型號交給 Claude Code，讓 AI 透過 Wi-Fi 停用智慧電視的廣告、追蹤與預裝軟體，相",
-  "category": "AI",
-  "tags": [
-   "AI",
-   "技術"
-  ]
- },
- {
-  "id": 548063,
-  "date": "2026-10-20T11:52:12",
-  "link": "https://www.blocktempo.com/nvidia-quantum-error-correction-90-magic-state-jupiter-2026-3/",
-  "title": "NVIDIA 完成量子糾錯技術驗證，容錯計算所需物理量子位元大砍九成",
-  "excerpt": "NVIDIA 利用德國 JUPITER 超級電腦的 8,192 塊 GPU，成功模擬出 104 量子位元容錯系",
-  "category": "AI",
-  "tags": [
-   "AI"
   ]
  }
 ]
