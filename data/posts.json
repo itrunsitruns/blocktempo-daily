@@ -1,5 +1,103 @@
 [
  {
+  "id": 556641,
+  "date": "2026-11-07T17:20:32",
+  "link": "https://www.blocktempo.com/samsung-wallet-usdc-stablecoin-account-solana-us-galaxy-live/",
+  "title": "三星錢包上線 USDC 帳戶！8200 萬支手機可以直接收付",
+  "excerpt": "三星 Samsung Wallet 的穩定幣帳戶功能在美國正式上線，8,200 萬台 Galaxy 手機可直接",
+  "category": "區塊鏈商業應用",
+  "tags": [
+   "區塊鏈商業應用",
+   "即時新聞"
+  ]
+ },
+ {
+  "id": 556649,
+  "date": "2026-11-07T17:15:37",
+  "link": "https://www.blocktempo.com/cz-microsoft-paint-cve-2026-83844-vulnerability-update-operating-system/",
+  "title": "CZ 轉發 Windows 小畫家漏洞警告：系統級漏洞要立即更新",
+  "excerpt": "幣安創辦人趙長鵬（CZ）今天轉發 Windows 小畫家漏洞 CVE-2026-83844 警告，呼籲立即更新",
+  "category": "安全",
+  "tags": [
+   "安全",
+   "技術"
+  ]
+ },
+ {
+  "id": 556650,
+  "date": "2026-11-07T17:12:17",
+  "link": "https://www.blocktempo.com/trump-confirms-iran-air-defense-strike-centcom-offers-nuclear-reward/",
+  "title": "川普證實再打伊朗防空，美軍懸賞 2000 萬美元找核情報",
+  "excerpt": "川普證實美軍美東時間 11 月 6 日再對伊朗發動有限打擊，目標是伊朗建造的一個小型防空裝置，他說大約 15",
+  "category": "美國",
+  "tags": [
+   "即時新聞",
+   "美國"
+  ]
+ },
+ {
+  "id": 556651,
+  "date": "2026-11-07T17:12:02",
+  "link": "https://www.blocktempo.com/maxine-waters-launches-house-financial-services-chair-bid-crypto-casten/",
+  "title": "民主黨議員 Maxine Waters 要爭眾院金融委會員主席：加密法律必須「嚴格」！",
+  "excerpt": "美國眾議員 Maxine Waters 11 月 6 日寫信給民主黨同僚，宣布角逐下一屆眾議院金融服務委員會主",
+  "category": "法規",
+  "tags": [
+   "法規",
+   "管制",
+   "美國"
+  ]
+ },
+ {
+  "id": 556646,
+  "date": "2026-11-07T16:43:09",
+  "link": "https://www.blocktempo.com/keplr-wallet-google-apple-login-accounts-unauthorized-transactions-web3auth-investigation/",
+  "title": "Keplr錢包：已Google或Apple登入帳戶傳出未授權交易，展開調查中",
+  "excerpt": "部分以 Google 或 Apple 登入建立的 Keplr 錢包帳戶出現未經授權的交易。Keplr 已暫停這",
+  "category": "安全",
+  "tags": [
+   "即時新聞",
+   "安全",
+   "錢包"
+  ]
+ },
+ {
+  "id": 556548,
+  "date": "2026-11-07T10:43:29",
+  "link": "https://www.blocktempo.com/singaporean-declared-two-cards-changi-ica-finds-105-one-piece/",
+  "title": "新加坡要稅！海關攔行李查出 105 張《航海王卡》價值破千萬",
+  "excerpt": "一名 31 歲新加坡男子 11 月 2 日從樟宜機場入境，申報身上只有 2 張集換式卡牌。官員在他的行李查出",
+  "category": "亞太",
+  "tags": [
+   "亞太",
+   "管制"
+  ]
+ },
+ {
+  "id": 556550,
+  "date": "2026-11-07T10:40:17",
+  "link": "https://www.blocktempo.com/trump-media-djt-shareholders-paper-losses-reuters-trump-460-million/",
+  "title": "川普媒體 Truth Social 股東帳面虧逾 22 億美元，川普持股仍值 4.6 億",
+  "excerpt": "川普媒體（DJT）外部投資人按市價計算的帳面虧損合計超過 22 億美元。川普在 2024 年合併案沒付現金取得",
+  "category": "美國",
+  "tags": [
+   "美國",
+   "金融市場"
+  ]
+ },
+ {
+  "id": 556553,
+  "date": "2026-11-07T10:39:35",
+  "link": "https://www.blocktempo.com/japan-tobacco-russia-putin-decree-seizes-factories-shares-medvedev-mocks/",
+  "title": "日本菸草（JT）俄國廠被普丁接管，股價暴跌",
+  "excerpt": "普丁 11 月 5 日簽署總統令，把日本菸草（JT）4 家俄國製造公司交給俄國企業「臨時管理」。JT 股價 1",
+  "category": "亞太",
+  "tags": [
+   "亞太",
+   "金融市場"
+  ]
+ },
+ {
   "id": 556557,
   "date": "2026-11-07T10:18:55",
   "link": "https://www.blocktempo.com/apple-iphone-keyboard-grey-list-blocks-dictator-trump-taiwan-independence/",
@@ -7054,98 +7152,6 @@
   "category": "預測市場",
   "tags": [
    "預測市場"
-  ]
- },
- {
-  "id": 548957,
-  "date": "2026-10-21T22:56:15",
-  "link": "https://www.blocktempo.com/openai-gpt-5-6-sol-uncovers-major-php-vulnerability/",
-  "title": "OpenAI GPT‑5.6 Sol 揪出 PHP 重大漏洞！影響約七成網站、砸 10 億美元補貼防守端",
-  "excerpt": "OpenAI「Patch the Planet」計畫下，Calif 以 GPT‑5.6 Sol 發現影響約七成",
-  "category": "AI",
-  "tags": [
-   "AI",
-   "安全"
-  ]
- },
- {
-  "id": 548952,
-  "date": "2026-10-21T22:49:41",
-  "link": "https://www.blocktempo.com/bitcoin-breaks-84000-ethereum-nears-2500/",
-  "title": "比特幣突破 8.4 萬美元、以太坊逼近 2,500 美元！現貨 ETF 近兩日淨流入約 5.5 億",
-  "excerpt": "比特幣今晚站上約 8.4 萬美元，以太坊逼近 2,500 美元；截至台北時間 10 月 21 日晚間約 22",
-  "category": "加密貨幣市場",
-  "tags": [
-   "加密貨幣市場"
-  ]
- },
- {
-  "id": 548939,
-  "date": "2026-10-21T22:18:59",
-  "link": "https://www.blocktempo.com/anza-alpenglow-live-mainnet-beta-150ms-finalityanza-alpenglow-live-mainnet-beta-150ms-finality/",
-  "title": "Anza 宣布 Alpenglow 已上線 Solana mainnet-beta！最終性目標 150 毫秒，TowerBFT 退役",
-  "excerpt": "Anza 宣布 Alpenglow 已於 Solana mainnet-beta 正式上線並完成共識切換，最終",
-  "category": "其他幣別",
-  "tags": [
-   "其他幣別",
-   "加密貨幣市場"
-  ]
- },
- {
-  "id": 548935,
-  "date": "2026-10-21T22:07:45",
-  "link": "https://www.blocktempo.com/ark-defi-quarterly-q3-2026-tokenized-equities/",
-  "title": "ARK DeFi 季報：代幣化股票 DEX 量約增 9 倍至 500 億鎂！Robinhood Chain 首季近追 BNB",
-  "excerpt": "ARK Invest 第三季 DeFi 季報指出，代幣化股票現貨 DEX 量約增 9 倍至約 500 億美元、",
-  "category": "市場分析",
-  "tags": [
-   "市場分析",
-   "投資分析"
-  ]
- },
- {
-  "id": 548929,
-  "date": "2026-10-21T21:41:14",
-  "link": "https://www.blocktempo.com/grayscale-in-kind-investing-10-products/",
-  "title": "不用先賣幣！Grayscale 讓合資格投資人直接以幣換股，涵蓋 BTC、ETH、SOL、XRP 等 10 檔",
-  "excerpt": "Grayscale 宣布讓合資格投資人可用實物申購（in-kind／以幣換股）方式，直接貢獻合格數位資產以換取",
-  "category": "加密貨幣市場",
-  "tags": [
-   "加密貨幣市場"
-  ]
- },
- {
-  "id": 548919,
-  "date": "2026-10-21T21:32:33",
-  "link": "https://www.blocktempo.com/standard-chartered-signs-definitive-deal-zodia-custody-uk/",
-  "title": "渣打正式收購 Zodia Custody！五大合規託管子公司全入懷，數位資產基礎設施獨立運作",
-  "excerpt": "渣打銀行（Standard Chartered）週三簽署最終協議，正式收購 Zodia Custody 在英國",
-  "category": "銀行",
-  "tags": [
-   "即時新聞",
-   "銀行"
-  ]
- },
- {
-  "id": 548917,
-  "date": "2026-10-21T21:24:08",
-  "link": "https://www.blocktempo.com/ai-bubble-debate-griffin-fink-sewing-chiavarone/",
-  "title": "金融高管為 AI「泡沫」吵翻！Citadel 創辦人示警、德銀淡化、貝萊德執行長催建數據中心",
-  "excerpt": "Citadel 創辦人肯・葛里芬（Ken Griffin）示警人工智慧投資「幾乎肯定」處於泡沫；同日柏林全球對",
-  "category": "AI",
-  "tags": [
-   "AI"
-  ]
- },
- {
-  "id": 548912,
-  "date": "2026-10-21T21:06:25",
-  "link": "https://www.blocktempo.com/midterms-2027-debt-ceiling-crypto-liquidity/",
-  "title": "盯 2027 債務上限日曆！中期選後美債短端與穩定幣流動性怎麼排程？",
-  "excerpt": "美國將於 2026 年 11 月 3 日（當地投票日）舉行中期選舉。眾議院現為共和黨 218–214、參議院",
-  "category": "美國",
-  "tags": [
-   "美國"
   ]
  }
 ]
