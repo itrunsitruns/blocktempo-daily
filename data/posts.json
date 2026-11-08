@@ -1,5 +1,246 @@
 [
  {
+  "id": 556916,
+  "date": "2026-11-08T19:14:29",
+  "link": "https://www.blocktempo.com/georgia-memory-card-house-district-democrats-majority-narrows-recount-threshold/",
+  "title": "真的反轉！美喬治亞漏傳一張記憶卡，州議員選情翻盤",
+  "excerpt": "喬治亞州務卿辦公室選後對帳，找到 Seminole 郡一張沒上傳的記憶卡，州眾議會第 154 選區改由共和黨領",
+  "category": "美國",
+  "tags": [
+   "美國"
+  ]
+ },
+ {
+  "id": 556923,
+  "date": "2026-11-08T19:06:38",
+  "link": "https://www.blocktempo.com/cathie-wood-blames-anthropic-dario-amodei-doom-predicts-labor-shortage/",
+  "title": "木頭姐怪 Anthropic 散播 AI 恐慌：不會有失業潮，反而是缺工",
+  "excerpt": "木頭姐在 ARK 節目中點名 Anthropic 執行長 Dario Amodei，說 AI 失業與滅絕的負面",
+  "category": "AI",
+  "tags": [
+   "AI",
+   "獨立觀點"
+  ]
+ },
+ {
+  "id": 556898,
+  "date": "2026-11-08T17:17:19",
+  "link": "https://www.blocktempo.com/taiwan-stocks-monday-rebound-futures-short-curbs-margin-calls-cpi/",
+  "title": "台股週一能反彈？夜盤漲 646 點、國安基金＋限空令上路，融資斷頭與 CPI 是變數",
+  "excerpt": "台指期夜盤收 40,298 點，比日盤結算價高 646 點，台積電 ADR 週五漲 6.33%，台股週一的起點",
+  "category": "台灣",
+  "tags": [
+   "台灣",
+   "市場分析",
+   "金融市場"
+  ]
+ },
+ {
+  "id": 556903,
+  "date": "2026-11-08T17:10:29",
+  "link": "https://www.blocktempo.com/white-house-network-residential-proxy-exit-rave-app-infatica-sdk/",
+  "title": "花一美元就能「用白宮 IP 上網」？員工電腦疑安裝追劇 App 惹禍",
+  "excerpt": "資安公司 Layer3 Intel 測試發現，白宮網路 30 天內有 26 天成為住宅代理出口，28 家代理服",
+  "category": "安全",
+  "tags": [
+   "安全",
+   "美國"
+  ]
+ },
+ {
+  "id": 556211,
+  "date": "2026-11-08T16:59:10",
+  "link": "https://www.blocktempo.com/taiwan-stocks-crash-default-settlement-margin-call-forced-liquidation-explained/",
+  "title": "股票違約交割是什麼、有多可怕？融資斷頭規則一次看懂",
+  "excerpt": "違約交割是指買股票到期付不出款，會被收違約金、股票被賣掉，欠款沒還清就五年內不能開戶；斷頭是融資整戶維持率跌破",
+  "category": "台灣",
+  "tags": [
+   "台灣",
+   "市場分析",
+   "金融市場"
+  ]
+ },
+ {
+  "id": 556875,
+  "date": "2026-11-08T15:54:52",
+  "link": "https://www.blocktempo.com/activists-storm-microsoft-amsterdam-datacenter-site-europe-protests-demand-moratorium/",
+  "title": "反 AI 怒火燒到歐洲：數百人闖微軟資料中心工地，點信號彈抗議",
+  "excerpt": "數百名抗議者闖進微軟在阿姆斯特丹興建中的資料中心工地，警方清場後逮捕 150 到 200 人。這座 78 MW",
+  "category": "AI",
+  "tags": [
+   "AI"
+  ]
+ },
+ {
+  "id": 556880,
+  "date": "2026-11-08T15:45:53",
+  "link": "https://www.blocktempo.com/italy-comproeuro-bitcoin-store-closes-mica-license-rovereto-bitcoin-valley/",
+  "title": "號稱歐洲第一家比特幣實體店月底關門：9 年沒保管客人一毛錢，仍拿不到 MiCA 執照",
+  "excerpt": "義大利北部一家號稱歐洲首家的比特幣實體店，11 月 27 日將是最後一天營業。店家說 9 年來從沒替客人保管過",
+  "category": "比特幣",
+  "tags": [
+   "比特幣",
+   "法規"
+  ]
+ },
+ {
+  "id": 556872,
+  "date": "2026-11-08T15:40:48",
+  "link": "https://www.blocktempo.com/tsmc-memory-rumor-3d-dram-logic-base-die-micron-margin/",
+  "title": "台積電要搶記憶體生意？業界：張忠謀早把答案寫在自傳裡",
+  "excerpt": "傳聞說台積電應輝達要求規劃 3D DRAM，但業界認為它做的是記憶體底下的邏輯層，不是儲存本身。 （前情提要：",
+  "category": "台灣",
+  "tags": [
+   "台灣",
+   "市場分析",
+   "技術"
+  ]
+ },
+ {
+  "id": 556696,
+  "date": "2026-11-08T14:30:54",
+  "link": "https://www.blocktempo.com/us-treasury-sanctions-canadian-money-services-businesses-iran-crypto/",
+  "title": "美財政部制裁加拿大 8 家匯兌商：涉替伊朗換幣洗錢、毒梟金流也入列",
+  "excerpt": "美國財政部依第 13902 號行政命令，把 8 家註冊於加拿大的貨幣服務業者列入制裁名單，指其替伊朗把里亞爾換",
+  "category": "金融市場",
+  "tags": [
+   "即時新聞",
+   "金融市場"
+  ]
+ },
+ {
+  "id": 556851,
+  "date": "2026-11-08T14:17:52",
+  "link": "https://www.blocktempo.com/fincen-fed-withdraw-crypto-travel-rule-3000-dollar-threshold/",
+  "title": "終於喊卡！美財政部撤回 250 美元申報草案，跨境轉帳門檻維持 3,000 美元",
+  "excerpt": "美國財政部 FinCEN 與聯準會聯手撤回 2020 年的跨境轉帳申報草案，原擬把門檻從 3,000 美元砍到",
+  "category": "法規",
+  "tags": [
+   "即時新聞",
+   "法規",
+   "美國"
+  ]
+ },
+ {
+  "id": 556843,
+  "date": "2026-11-08T14:02:17",
+  "link": "https://www.blocktempo.com/trump-media-djt-stock-crash-94-percent-peak-midterm-selloff/",
+  "title": "川普媒體股價已從高點慘崩 94%，市值只剩比特幣價值？",
+  "excerpt": "民主黨拿下國會後，川普媒體單日重挫 24.5%、創掛牌以來最大跌幅，市值只剩約 11.1 億美元。週一盤後的第",
+  "category": "美國",
+  "tags": [
+   "美國",
+   "金融市場"
+  ]
+ },
+ {
+  "id": 556839,
+  "date": "2026-11-08T13:44:57",
+  "link": "https://www.blocktempo.com/scottish-mortgage-baillie-gifford-sells-tesla-trims-spacex-13x-return/",
+  "title": "馬斯克大金主賣光特斯拉，13 年獲利 62 億美元後 SpaceX 也減倉",
+  "excerpt": "英國基金蘇格蘭抵押投資信託 4 月賣光特斯拉，13 年獲利約 62 億美元、約本金 13 倍，SpaceX 占",
+  "category": "投資分析",
+  "tags": [
+   "投資分析",
+   "金融市場"
+  ]
+ },
+ {
+  "id": 556831,
+  "date": "2026-11-08T12:34:03",
+  "link": "https://www.blocktempo.com/nvidia-oakland-fictitious-pickup-truck-stolen-pallets-texas-cargo-theft/",
+  "title": "輝達六棧板 AI 設備在公路上消失！物流公司成破口，警方束手無策",
+  "excerpt": "輝達價值 1,140 萬美元的貨物在運往德州途中被卡車載走後失聯，至今無人被捕。AI 硬體的高價與海外價差，讓",
+  "category": "AI",
+  "tags": [
+   "AI",
+   "美國"
+  ]
+ },
+ {
+  "id": 556800,
+  "date": "2026-11-08T11:45:32",
+  "link": "https://www.blocktempo.com/iran-missile-range-limit-lifted-us-task-force-iron-gate/",
+  "title": "伊朗解除飛彈射程限制，嗆要攻敵不備！美軍封鎖擴及陸路與裡海",
+  "excerpt": "伊朗革命衛隊宣布解除彈道飛彈射程限制，警告美國再誤判將遭更沉重打擊；美軍中央司令部同日下令組建鐵門特遣隊，把封",
+  "category": "金融市場",
+  "tags": [
+   "即時新聞",
+   "金融市場"
+  ]
+ },
+ {
+  "id": 556815,
+  "date": "2026-11-08T11:17:53",
+  "link": "https://www.blocktempo.com/ft-memo-jensen-huang-romantic-relationship-alice-huang-nvidia-declines/",
+  "title": "黃仁勳也難過美人關？FT：美情資認定他與中國女間諜有戀愛關係，輝達不予置評",
+  "excerpt": "《金融時報》引述知情人士指出，美方一份內部備忘錄寫明黃仁勳與疑似受中國國安部招募的 Alice Huang 有",
+  "category": "AI",
+  "tags": [
+   "AI",
+   "美國"
+  ]
+ },
+ {
+  "id": 556808,
+  "date": "2026-11-08T11:05:44",
+  "link": "https://www.blocktempo.com/okx-warns-mexc-deposits-held-risk-review-fincen-order-pending/",
+  "title": "徐明星：請暫時避免從 MEXC 入金 OKX，資金可能被凍結審查",
+  "excerpt": "OKX 在 FinCEN 命令生效前就先收緊：用戶從 MEXC 轉入的 USDT 恐被標為潛在風險地址、審查三",
+  "category": "交易所",
+  "tags": [
+   "交易所",
+   "法規",
+   "美國"
+  ]
+ },
+ {
+  "id": 556722,
+  "date": "2026-11-08T10:51:11",
+  "link": "https://www.blocktempo.com/fbi-agent-yaroch-guilty-plea-247m-crypto-35-investigations/",
+  "title": "FBI 探員良心發現自首：偷走 247 萬鎂加密貨幣、曾問 ChatGPT 買酒莊出逃",
+  "excerpt": "前 FBI 探員 Yaroch 認罪！他從 35 樁聯邦調查的錢包憑證搬走約 247 萬美元，還問 ChatG",
+  "category": "犯罪",
+  "tags": [
+   "犯罪",
+   "美國"
+  ]
+ },
+ {
+  "id": 556781,
+  "date": "2026-11-08T10:31:39",
+  "link": "https://www.blocktempo.com/terawulf-q3-bitcoin-mining-revenue-falls-69-hpc-leasing-surges-anthropic/",
+  "title": "TeraWulf 挖礦收入崩 69%，但 AI 租賃暴增 774%",
+  "excerpt": "週五公布的美國比特幣礦企 TeraWulf 第三季財報，挖礦收入較一年前掉了約 69%，AI 與高階運算租賃收",
+  "category": "AI",
+  "tags": [
+   "AI",
+   "市場分析"
+  ]
+ },
+ {
+  "id": 556754,
+  "date": "2026-11-08T10:20:44",
+  "link": "https://www.blocktempo.com/binance-cfo-kaiser-ng-steps-down-justin-yek/",
+  "title": "幣安財務長 Kaiser Ng 請辭，何一：接班已談了半年、由他接任",
+  "excerpt": "幣安財務長 Kaiser Ng 五年多任期結束，由 Airwallex 前財務副總裁 Justin Yek 接",
+  "category": "即時新聞",
+  "tags": [
+   "即時新聞"
+  ]
+ },
+ {
+  "id": 556736,
+  "date": "2026-11-08T09:55:05",
+  "link": "https://www.blocktempo.com/bitcoin-etf-1-28-billion-weekly-outflow-2026-flips-negative/",
+  "title": "比特幣 ETF 單週失血 12.8 億美元：今年由淨流入翻負",
+  "excerpt": "美國 12 檔現貨比特幣 ETF 上週淨流出 12.8 億美元，是 6 月底以來最差單週，也讓今年資金流由正翻",
+  "category": "市場分析",
+  "tags": [
+   "市場分析"
+  ]
+ },
+ {
   "id": 556675,
   "date": "2026-11-07T21:56:37",
   "link": "https://www.blocktempo.com/polymarket-kalshi-insider-trading-nyt-siena-poll-bets-nebraska-michigan/",
@@ -6925,234 +7166,6 @@
   "tags": [
    "AI",
    "亞太"
-  ]
- },
- {
-  "id": 549197,
-  "date": "2026-10-22T14:52:19",
-  "link": "https://www.blocktempo.com/railway-environment-variables-decrypted-api-keys-rotate-deployments-paused-zeabur/",
-  "title": "知名部署平台 Railway 也遭駭！開發者環境變數與 API 金鑰恐外洩",
-  "excerpt": "知名雲端部署平台 Railway 今晨也傳遭駭，存放客戶環境變數的服務可能遭存取、部分內容已被解密，官方要所有",
-  "category": "AI",
-  "tags": [
-   "AI",
-   "安全"
-  ]
- },
- {
-  "id": 549159,
-  "date": "2026-10-22T12:38:59",
-  "link": "https://www.blocktempo.com/spookitchen-ai-clone-threats-indie-developers-pull-steam-demos-fear/",
-  "title": "付錢！否則上架 AI 抄襲版：新型恐嚇信盯上獨立遊戲開發者",
-  "excerpt": "韓國獨立遊戲《Spookitchen》因擔心被 AI 複製、撤下試玩版。且這並非孤例：日本等地的開發者也陸續收",
-  "category": "AI",
-  "tags": [
-   "AI",
-   "遊戲"
-  ]
- },
- {
-  "id": 548306,
-  "date": "2026-10-22T12:31:54",
-  "link": "https://www.blocktempo.com/ntu-singapore-blockchain-master-taipei-info-session-maicoin-tether-talent/",
-  "title": "新加坡南洋理工大學區塊鏈碩士項目在台招生！Maicoin 劉世偉、Tether、BSOS 同台談區塊鏈創新與數位資產應用人才",
-  "excerpt": "新加坡南洋理工大學（NTU）區塊鏈理學碩士學程（MSBT）11 月 6 日晚間將在北科大舉辦台北招生說明會，M",
-  "category": "區塊鏈活動",
-  "tags": [
-   "區塊鏈活動",
-   "台灣"
-  ]
- },
- {
-  "id": 549153,
-  "date": "2026-10-22T12:31:38",
-  "link": "https://www.blocktempo.com/meta-new-mexico-judge-orders-25-billion-cambridge-analytica-penalty/",
-  "title": "劍橋分析醜聞八年後，Meta 在新墨西哥州判罰 250 億美元",
-  "excerpt": "陪審團認定 Facebook 在 2010 到 2021 年間對州民做出 26 項不實陳述，從使用者能掌控個資",
-  "category": "法規",
-  "tags": [
-   "法規",
-   "美國"
-  ]
- },
- {
-  "id": 549145,
-  "date": "2026-10-22T12:02:32",
-  "link": "https://www.blocktempo.com/openai-php-vulnerabilities-secret-coordination-leaked-hacker-news-release-moved/",
-  "title": "OpenAI 秘密協調兩個月，PHP 漏洞仍在發布修補前兩天走漏",
-  "excerpt": "OpenAI 牽頭秘密協調兩個月的 PHP 重大漏洞，原訂 10 月 22 日公開，編號卻在 20 日晚間先於",
-  "category": "AI",
-  "tags": [
-   "AI",
-   "安全"
-  ]
- },
- {
-  "id": 549134,
-  "date": "2026-10-22T11:48:44",
-  "link": "https://www.blocktempo.com/injective-bdacs-krw1-korean-won-stablecoin-rwa-settlement/",
-  "title": "Injective 抱上韓國 BDACS！KRW1 韓元穩定幣，RWA 鏈上直接用本幣結算",
-  "excerpt": "Injective 與韓國託管商 BDACS 簽署備忘錄，把韓元穩定幣 KRW1 定為鏈上 RWA 的唯一本幣",
-  "category": "市場分析",
-  "tags": [
-   "市場分析"
-  ]
- },
- {
-  "id": 549121,
-  "date": "2026-10-22T11:05:48",
-  "link": "https://www.blocktempo.com/php-oom-flaw-spotted-2024-patch-stalled-foundation-admits-failure/",
-  "title": "PHP 基金會認錯：高危漏洞 2024 年就有徵兆，為何修補卡關兩年？",
-  "excerpt": "PHP 昨晚修補的關鍵漏洞令全球大亂，結果基金會幾個小時前的事後說明文章中，承認該漏洞 2024 年就被基金會",
-  "category": "AI",
-  "tags": [
-   "AI",
-   "安全"
-  ]
- },
- {
-  "id": 549083,
-  "date": "2026-10-22T10:43:42",
-  "link": "https://www.blocktempo.com/bessant-ai-bubble-no-systemic-problem-smartest-people-back-ai/",
-  "title": "貝森特淡化 AI 泡沫風險：不存在系統性問題，全球最聰明的人仍看好人工智慧",
-  "excerpt": "美國財政部長貝森特在紐約私人會議上為 AI 投資熱潮辯護，直言看不見系統性風險，並強調這波技術浪潮與世紀之互動",
-  "category": "AI",
-  "tags": [
-   "AI"
-  ]
- },
- {
-  "id": 549117,
-  "date": "2026-10-22T10:37:07",
-  "link": "https://www.blocktempo.com/php2shell-php-nodejs-vulnerabilities-websites-offline-readers-browsing-safety-tips/",
-  "title": "PHP、Node.js 連爆嚴重漏洞：最近上網要注意這 5 件事自保",
-  "excerpt": "PHP2Shell 漏洞昨晚讓多國政府機關與大型服務緊急預防性下線，同時間還爆發 Node.js 與 eMud",
-  "category": "安全",
-  "tags": [
-   "即時新聞",
-   "安全"
-  ]
- },
- {
-  "id": 549100,
-  "date": "2026-10-22T10:25:56",
-  "link": "https://www.blocktempo.com/micron-taoyuan-union-strike-24-hours-officials-profit-sharing-talks/",
-  "title": "美光桃園今日罷工 24 小時：分潤數字仍談不攏、基層不滿突襲簽約引發反彈",
-  "excerpt": "桃園美光工會今（22）日上午 9 點起正式罷工 24 小時，上陣的是 11 名工會幹部，台中工會則已在前一天簽",
-  "category": "台灣",
-  "tags": [
-   "台灣"
-  ]
- },
- {
-  "id": 549091,
-  "date": "2026-10-22T10:11:06",
-  "link": "https://www.blocktempo.com/anthropic-claude-duet-proactive-ai-agent-preview-pro-max-waitlist/",
-  "title": "來了！Anthropic 推出 Claude Duet 進軍全天候 AI 代理：能做什麼、誰能用？",
-  "excerpt": "Anthropic 推出新 App「Claude Duet」，把 Claude 從等你發問的聊天工具，變成會主",
-  "category": "AI",
-  "tags": [
-   "AI"
-  ]
- },
- {
-  "id": 549080,
-  "date": "2026-10-22T09:53:00",
-  "link": "https://www.blocktempo.com/crypto-ai-token-revenue-reality-check-venice-dominance-analysis/",
-  "title": "加密 AI token 賣水神話破滅：月收僅870萬，Venice獨吞83%",
-  "excerpt": "加密賣 AI token神話破滅，30天僅870萬美元收入，Venice一家獨佔83%。 （前情提要：Cryp",
-  "category": "AI",
-  "tags": [
-   "AI"
-  ]
- },
- {
-  "id": 549002,
-  "date": "2026-10-22T09:36:02",
-  "link": "https://www.blocktempo.com/uk-fca-defi-guidance-consultation-crypto-regulation-exclusions/",
-  "title": "英國 FCA 兩份諮詢一次開！DeFi 反洗錢規則釐清，加密豁免 2027 生效",
-  "excerpt": "英國 FCA 同一天開啟兩扇門：一份 DeFi 反洗錢指引諮詢，一份加密資產監管豁免諮詢。前者只釐清舊規則、不",
-  "category": "法規",
-  "tags": [
-   "法規"
-  ]
- },
- {
-  "id": 549037,
-  "date": "2026-10-22T09:35:05",
-  "link": "https://www.blocktempo.com/aba-pushes-back-occ-genius-yield-rules/",
-  "title": "美國銀行公會開火 OCC！砍掉 GENIUS 收益預設，穩定幣要搶銀行存款了",
-  "excerpt": "GENIUS Act 最終規則落地後，美國銀行公會 ABA 週三公開批評 OCC 刪除了第三方可疑收益安排的推",
-  "category": "法規",
-  "tags": [
-   "法規"
-  ]
- },
- {
-  "id": 549051,
-  "date": "2026-10-22T09:34:06",
-  "link": "https://www.blocktempo.com/france-parliament-approves-stablecoin-capital-gains-tax-31-percent/",
-  "title": "法國國會 38 比 37 過關：加密換穩定幣也要繳 31% 稅，明年 1 月開跑",
-  "excerpt": "法國國民議會以 38 比 37 的微弱差距透過修正案 I-3898，將加密貨幣兌換穩定幣的獲利納入 31.4%",
-  "category": "法規",
-  "tags": [
-   "法規"
-  ]
- },
- {
-  "id": 549046,
-  "date": "2026-10-22T09:33:19",
-  "link": "https://www.blocktempo.com/morning-roundup-btc-84k-eth-2470-fear-greed-68/",
-  "title": "比特幣守穩8.4萬美元、以太坊收復2,470！貪婪指數回升至68續走高",
-  "excerpt": "比特幣今（22）日早盤報 84,186 美元、24 小時漲 1.39%，以太坊收復 2,470 美元；美股道瓊",
-  "category": "市場分析",
-  "tags": [
-   "市場分析"
-  ]
- },
- {
-  "id": 549009,
-  "date": "2026-10-22T02:36:11",
-  "link": "https://www.blocktempo.com/trump-white-house-overseas-crypto-scam-crackdown/",
-  "title": "川普點名海外加密詐騙！攔阻約 8.33 億美元、查扣 503 假投資站",
-  "excerpt": "美國總統川普於台北時間 10 月 21 日就網路犯罪召開白宮活動，重點凸顯打擊海外加密投資騙局與跨國犯罪組織。",
-  "category": "美國",
-  "tags": [
-   "美國"
-  ]
- },
- {
-  "id": 548987,
-  "date": "2026-10-22T01:17:38",
-  "link": "https://www.blocktempo.com/nodejs-october-2026-security-releases/",
-  "title": "Node.js 緊急修 Brotli 高危漏洞！三現行分支齊發安全版，EOL 版本也恐受影響",
-  "excerpt": "Node.js 於台北時間 10 月 21 日發布安全更新，現行分支 26.x、24.x、22.x 分別升級至",
-  "category": "安全",
-  "tags": [
-   "安全"
-  ]
- },
- {
-  "id": 548981,
-  "date": "2026-10-22T00:10:47",
-  "link": "https://www.blocktempo.com/bybit-us-broker-partnership-robinhood/",
-  "title": "Bybit 進軍美國不自己拿牌！Ben Zhou 點名找盈透級券商合作，正面挑戰 Robinhood",
-  "excerpt": "Bybit 執行長 Ben Zhou 表示，進軍美國將不走逐州申請牌照的路線，改找已有美國客群、尚未切入加密業",
-  "category": "交易所",
-  "tags": [
-   "交易所",
-   "美國"
-  ]
- },
- {
-  "id": 548977,
-  "date": "2026-10-22T00:02:44",
-  "link": "https://www.blocktempo.com/putin-witkoff-resume-trilateral-talks/",
-  "title": "普丁原則同意 11 月重啟俄烏美三方和談！地點擬在阿布達比，還喊話調解美伊",
-  "excerpt": "普丁 10/21 在聖彼得堡會見美國特使威特科夫後，克里姆林宮稱俄方原則上同意在 11 月 10 日前後恢復俄",
-  "category": "即時新聞",
-  "tags": [
-   "即時新聞"
   ]
  }
 ]
