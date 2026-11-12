@@ -1,5 +1,162 @@
 [
  {
+  "id": 558874,
+  "date": "2026-11-12T20:32:23",
+  "link": "https://www.blocktempo.com/polymarket-layoffs-contractors-investor-pressure-kalshi-volume-lead/",
+  "title": "Polymarket 證實大裁員！投資人施壓整頓、交易量遭 Kalshi 超車",
+  "excerpt": "Polymarket 證實展開全公司人力精簡並終止部分外包合約，受影響者逾半為外包人員；投資人要求創辦人 Sh",
+  "category": "金融市場",
+  "tags": [
+   "即時新聞",
+   "金融市場",
+   "預測市場"
+  ]
+ },
+ {
+  "id": 558853,
+  "date": "2026-11-12T20:26:23",
+  "link": "https://www.blocktempo.com/canaan-q3-2026-revenue-drop-96-buyback-sell-bitcoin-treasury/",
+  "title": "礦機賣不動了！嘉楠科技營收崩 96%，2,000 萬美元回購全靠賣比特幣",
+  "excerpt": "礦機大廠嘉楠科技第三季礦機營收只剩 480 萬美元、年減 96%，公司週二啟動 2,000 萬美元的庫藏股回購",
+  "category": "市場分析",
+  "tags": [
+   "即時新聞",
+   "市場分析",
+   "挖礦"
+  ]
+ },
+ {
+  "id": 558870,
+  "date": "2026-11-12T20:23:32",
+  "link": "https://www.blocktempo.com/gemini-sells-uk-eu-operations-to-kast-for-under-10-million/",
+  "title": "加密交易所 Gemini 出清英歐業務！不到 1,000 萬美元賣給穩定幣支付商 KAST",
+  "excerpt": "紐約掛牌的 Gemini 把英國與歐盟業務賣給新加坡穩定幣支付商 KAST，成交金額不到 1,000 萬美元。",
+  "category": "交易所",
+  "tags": [
+   "交易所",
+   "即時新聞",
+   "市場分析"
+  ]
+ },
+ {
+  "id": 558886,
+  "date": "2026-11-12T20:13:54",
+  "link": "https://www.blocktempo.com/stablecoin-supply-14-2-billion-30-day-contraction-glassnode/",
+  "title": "主要穩定幣 30 天縮水 142 億美元！創 2022 年 6 月以來最大跌幅",
+  "excerpt": "Glassnode 追蹤的主要穩定幣美元供應規模，在截至 11 月 9 日的 30 天內淨減 142 億美元，",
+  "category": "穩定幣",
+  "tags": [
+   "穩定幣"
+  ]
+ },
+ {
+  "id": 558882,
+  "date": "2026-11-12T20:09:58",
+  "link": "https://www.blocktempo.com/anthropic-ipo-valuation-1-4-trillion-nasdaq-ant/",
+  "title": "Anthropic 正式遞交 IPO 申請！估值上看 1.4 兆鎂，台積電、Nvidia 參與 260 億私募",
+  "excerpt": "人工智慧巨頭 Anthropic 於 11 月 12 日發布首次公開發行（IPO）公告，將以代碼「ANT」在那",
+  "category": "Anthropic",
+  "tags": [
+   "Anthropic"
+  ]
+ },
+ {
+  "id": 558829,
+  "date": "2026-11-12T16:04:38",
+  "link": "https://www.blocktempo.com/exodus-q3-2026-revenue-growth-net-loss-wallet-payments-pivot/",
+  "title": "Exodus Q3 營收增 7% 卻轉虧 830 萬美元，股價今年跌 7 成",
+  "excerpt": "錢包與支付平台 Exodus 公布 2026 年第三季財報，營收年增 7% 至 3,250 萬美元，淨利卻由去",
+  "category": "金融市場",
+  "tags": [
+   "金融市場"
+  ]
+ },
+ {
+  "id": 558820,
+  "date": "2026-11-12T15:52:42",
+  "link": "https://www.blocktempo.com/jensen-huang-nvidia-proxy-access-bylaw-nominate-directors-fired-board/",
+  "title": "黃仁勳若被董事會開除，他能靠手上持股殺回來嗎？",
+  "excerpt": "輝達章程的代理權提名條款確實存在，黃仁勳的持股 3.58% 也超過 3% 門檻，但最多提名 2 席，最快明年股",
+  "category": "AI",
+  "tags": [
+   "AI",
+   "美國"
+  ]
+ },
+ {
+  "id": 558814,
+  "date": "2026-11-12T15:26:41",
+  "link": "https://www.blocktempo.com/tsmc-employee-personal-data-leak-dark-web-bitcoin-cloud-vendor/",
+  "title": "台積電 4.6 萬員工個資 3 枚比特幣暗網兜售，官方認外洩，但強調系統沒被入侵",
+  "excerpt": "駭客在地下論壇宣稱握有 4.6 萬筆台積電員工個資，開價 3 枚比特幣。台積電證實部分員工資料外流，但沒有證據",
+  "category": "台灣",
+  "tags": [
+   "即時新聞",
+   "台灣",
+   "安全"
+  ]
+ },
+ {
+  "id": 558810,
+  "date": "2026-11-12T15:21:57",
+  "link": "https://www.blocktempo.com/commerce-rule-block-chinese-ai-firms-remote-nvidia-chips-countries/",
+  "title": "美國傳要封堵中國租海外算力用輝達晶片，新馬泰等七國都被點名",
+  "excerpt": "美國商務部據報正敲定新規，禁止中國 AI 公司透過第三國資料中心遠端使用先進晶片，最快本月公布，管制擴及新加坡",
+  "category": "AI",
+  "tags": [
+   "AI",
+   "管制",
+   "美國"
+  ]
+ },
+ {
+  "id": 558796,
+  "date": "2026-11-12T14:54:45",
+  "link": "https://www.blocktempo.com/anthropic-pre-ipo-arbitrage-binance-hyperliquid-spread-convergence-billy0xff-trading-strategy/",
+  "title": "Anthropic 盤前套利全復盤：價差 30% 收斂至 2%，他如何重倉吃下？",
+  "excerpt": "Anthropic 還沒上市，幣安、Hyperliquid 等平台先開出盤前合約，卻因換股規則與股本口徑不同，",
+  "category": "加密貨幣市場",
+  "tags": [
+   "加密貨幣市場"
+  ]
+ },
+ {
+  "id": 558759,
+  "date": "2026-11-12T11:45:51",
+  "link": "https://www.blocktempo.com/musk-hire-jensen-huang-honor-nvidia-ceo-board-spacex-polymarket/",
+  "title": "黃仁勳若真從輝達下台，馬斯克：招聘他是我的榮幸",
+  "excerpt": "X 上 Zerohedge 請馬斯克雇用黃仁勳，結果馬斯克真的回應稱「那會是我的榮幸」。 （前情提要：黃仁勳爆",
+  "category": "AI",
+  "tags": [
+   "AI",
+   "美國"
+  ]
+ },
+ {
+  "id": 558767,
+  "date": "2026-11-12T11:40:54",
+  "link": "https://www.blocktempo.com/mitrade-live-trading-challenge-50000-usd-prize-pool-top-200/",
+  "title": "Mitrade 交易挑戰賽：前 200 名都有獎、規則＆獎金一次看",
+  "excerpt": "Mitrade 實盤挑戰賽即將截止，成績只算報名之後新開的倉位，交易滿 2 筆且獲利，前 200 名就依淨收益",
+  "category": "交易所",
+  "tags": [
+   "交易所",
+   "金融市場"
+  ]
+ },
+ {
+  "id": 558749,
+  "date": "2026-11-12T11:26:46",
+  "link": "https://www.blocktempo.com/anthropic-amodei-cancer-alzheimers-decade-claim-drug-trial-timeline-reality/",
+  "title": "Anthropic 執行長說 AI 十年內治好癌症，是誇大還是真有機會？",
+  "excerpt": "新藥從人體試驗到上市平均要 10.5 年，AI 新藥走最遠的才剛進三期，Anthropic 執行長說「不到十年",
+  "category": "AI",
+  "tags": [
+   "AI",
+   "獨立觀點"
+  ]
+ },
+ {
   "id": 558737,
   "date": "2026-11-12T11:19:26",
   "link": "https://www.blocktempo.com/jensen-huang-nvidia-resignation-odds-surge-polymarket-kalshi-suspension-rules/",
@@ -6984,159 +7141,6 @@
   "category": "AI",
   "tags": [
    "AI"
-  ]
- },
- {
-  "id": 551450,
-  "date": "2026-10-27T20:58:33",
-  "link": "https://www.blocktempo.com/hurun-2026-zhang-yiming-richest/",
-  "title": "張一鳴 6700 億再登中國首富！DeepSeek 梁文鋒首進前十，馬化騰跌出前三",
-  "excerpt": "胡潤研究院今（27）日公布《2026 胡潤百富榜》，43 歲字節跳動創辦人張一鳴以 6,700 億元人民幣第二",
-  "category": "中國",
-  "tags": [
-   "中國"
-  ]
- },
- {
-  "id": 551445,
-  "date": "2026-10-27T20:43:52",
-  "link": "https://www.blocktempo.com/anthropic-ipo-s1-five-surprising-risks/",
-  "title": "Anthropic IPO 風險清單不只有虧錢！招股說明書直言模型可能危及人類",
-  "excerpt": "Anthropic 招股說明書逾 90 頁談風險，從「對人類的災難性或存在性風險」寫到資料中心、電力與兒少安全",
-  "category": "Anthropic",
-  "tags": [
-   "Anthropic"
-  ]
- },
- {
-  "id": 551441,
-  "date": "2026-10-27T20:38:49",
-  "link": "https://www.blocktempo.com/shii-kazuo-ai-marx-gotha-hallucination/",
-  "title": "日共議長問 AI《哥達綱領批判》，模型竄改馬克思德文原文圓謊、還說無法保證不再犯",
-  "excerpt": "某個人工智慧被問馬克思《哥達綱領批判》，答錯後竟竄改德文原文圓謊，最後認錯道歉，卻說無法絕對保證不再犯。 （前",
-  "category": "AI",
-  "tags": [
-   "AI"
-  ]
- },
- {
-  "id": 551433,
-  "date": "2026-10-27T20:15:37",
-  "link": "https://www.blocktempo.com/predict-fun-bsc-suspected-exploit-300k/",
-  "title": "BNB Chain 預測市場 Predict Fun 疑似遭駭！約 30 萬鎂經 Relay 流入混幣器",
-  "excerpt": "BNB Chain 預測市場 Predict Fun 遭鏈上監測示警疑似遭駭，約 30 萬美元可疑資金經中繼錢",
-  "category": "預測市場",
-  "tags": [
-   "預測市場"
-  ]
- },
- {
-  "id": 551421,
-  "date": "2026-10-27T20:00:46",
-  "link": "https://www.blocktempo.com/bitget-wallet-virtual-account-us-stock-ach-investing-taiwan-remittance/",
-  "title": "美股入金每次繳千元電匯費？Bitget Wallet 虛擬帳戶切入的真正缺口",
-  "excerpt": "（本文為廣編稿，由BitgetWallet撰文、提供，不代表動區立場，亦非投資建議、購買或出售建議。詳見文末",
-  "category": "加密貨幣市場",
-  "tags": [
-   "加密貨幣市場"
-  ]
- },
- {
-  "id": 551285,
-  "date": "2026-10-27T16:24:04",
-  "link": "https://www.blocktempo.com/japanese-student-claims-mother-sank-gaming-pc-switch2-bathtub-viral/",
-  "title": "日本無理媽「打電動沒朋友」把兒子電競級電腦、Switch 2 泡進浴缸",
-  "excerpt": "一名日本網友發文，自己媽媽發現他在大學沒有朋友，怒罵「都是因為一直打電動」，把他 36 萬日圓的電競電腦和 N",
-  "category": "社交",
-  "tags": [
-   "社交",
-   "遊戲"
-  ]
- },
- {
-  "id": 551290,
-  "date": "2026-10-27T16:19:11",
-  "link": "https://www.blocktempo.com/india-murder-accused-fakes-death-ai-image-goat-cremation-arrested/",
-  "title": "印度槍擊犯靠 AI 假死！拿山羊去火葬場，偽裝照片辦死亡證明",
-  "excerpt": "印度北方邦縣警方 10 月 25 日逮捕 2016 年槍殺案被告 Rajkumar Rajbhar，警方指控他",
-  "category": "AI",
-  "tags": [
-   "AI",
-   "亞太",
-   "犯罪"
-  ]
- },
- {
-  "id": 551293,
-  "date": "2026-10-27T16:13:13",
-  "link": "https://www.blocktempo.com/polymarket-brazil-election-lula-twenty-percent-odds-flavio-bolsonaro-upset/",
-  "title": "Polymarket 巴西大選爆翻盤！關盤前魯拉只有兩成勝率",
-  "excerpt": "巴西總統大選投票前，預測市場 Polymarket 顯示現任總統魯拉僅有約 20% 勝率。魯拉卻在 10 月",
-  "category": "市場分析",
-  "tags": [
-   "市場分析",
-   "金融市場"
-  ]
- },
- {
-  "id": 551298,
-  "date": "2026-10-27T16:10:46",
-  "link": "https://www.blocktempo.com/eth-zurich-student-rebuilds-switzerland-minecraft-full-scale-swisstopo-geodata/",
-  "title": "大學生把「整個瑞士」做進 Minecraft，只賣給瑞士人",
-  "excerpt": "蘇黎世聯邦理工學院 22 歲學生 Beda Good 用瑞士聯邦地形局 swisstopo 等機構的開放地理資",
-  "category": "技術",
-  "tags": [
-   "技術",
-   "遊戲"
-  ]
- },
- {
-  "id": 551325,
-  "date": "2026-10-27T15:56:22",
-  "link": "https://www.blocktempo.com/zcash-grants-funding-spigot-off-nstm-mining-reserve-community-treasury/",
-  "title": "Zcash 共同創辦人喊停！125 萬美元贊助基金關閥，ZEC 改支援挖礦",
-  "excerpt": "Zcash 共同創辦人 Sean Bowe 週一深夜發布草案提案，建議關閉社群贊助（ZCG）的自動撥款開關，將",
-  "category": "即時新聞",
-  "tags": [
-   "即時新聞"
-  ]
- },
- {
-  "id": 551306,
-  "date": "2026-10-27T14:36:12",
-  "link": "https://www.blocktempo.com/nvidia-invests-3-billion-meta-equity-offering-expands-muse-partnership/",
-  "title": "輝達砸 30 億鎂參與 Meta 增資，擴大 Muse 合作",
-  "excerpt": "輝達將投資 30 億美元參與 Meta 的股票發行，雙方也將擴大 Meta 旗下 AI 代理與模型 Muse",
-  "category": "AI",
-  "tags": [
-   "AI",
-   "美國",
-   "金融市場"
-  ]
- },
- {
-  "id": 551284,
-  "date": "2026-10-27T14:35:27",
-  "link": "https://www.blocktempo.com/samsung-washer-owner-claude-reverse-engineer-smart-control-remote-revived/",
-  "title": "三星舊款洗衣機不更新了！網友靠 Claude 兩小時逆向破解",
-  "excerpt": "一名網友稱他用 Anthropic 的 AI 模型 Claude 花了約 2 小時，讓一台 2014 年款、三",
-  "category": "AI",
-  "tags": [
-   "AI",
-   "技術"
-  ]
- },
- {
-  "id": 551279,
-  "date": "2026-10-27T14:31:31",
-  "link": "https://www.blocktempo.com/korea-police-refer-80-tesla-owners-illegal-fsd-unlock-devices/",
-  "title": "南韓 80 名特斯拉車主改裝破解 FSD！直接被警察抓走",
-  "excerpt": "南韓首爾警察廳 10 月 27 日公布，以違反《汽車管理法》移送 80 名特斯拉車主。他們用從歐洲、中國買來或",
-  "category": "亞太",
-  "tags": [
-   "亞太",
-   "技術",
-   "犯罪"
   ]
  }
 ]
