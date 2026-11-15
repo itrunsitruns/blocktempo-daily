@@ -1,5 +1,200 @@
 [
  {
+  "id": 560223,
+  "date": "2026-11-15T18:30:36",
+  "link": "https://www.blocktempo.com/coinone-outsourced-support-vendor-hack-customer-data-leak/",
+  "title": "韓國第三大交易所 Coinone 委外客服遭駭！姓名、身分證號、銀行帳號恐外洩",
+  "excerpt": "Coinone 的委外客服商 MetaM 伺服器遭駭，客戶姓名、銀行帳號與住民登入號碼等 11 類資料恐已外洩",
+  "category": "交易所",
+  "tags": [
+   "交易所",
+   "即時新聞",
+   "安全"
+  ]
+ },
+ {
+  "id": 560197,
+  "date": "2026-11-15T17:47:33",
+  "link": "https://www.blocktempo.com/bessent-blames-commerce-department-megaspeed-entity-list-nvidia-chip-leakage/",
+  "title": "美財長要追究輝達：有沒有把晶片賣給空殼公司流入中國？",
+  "excerpt": "美國財長貝森特近日上 CNBC，第一次公開把 Megaspeed 遲遲未被列入實體清單的責任指向商務部，並說真",
+  "category": "AI",
+  "tags": [
+   "AI",
+   "管制",
+   "美國"
+  ]
+ },
+ {
+  "id": 560213,
+  "date": "2026-11-15T16:34:12",
+  "link": "https://www.blocktempo.com/hghub-huangguo-drama-programmer-opensource-story-maintainer-denies-fake-domain/",
+  "title": "黃果短劇離職碼農「為錢翻桌」直接開源核心 Code？真正作者否認",
+  "excerpt": "X 上最近瘋傳一個「黃果碼農被搶功，怒把客戶端開源」的故事，但與 GitHub 專案真正維護者的公告不符。 （",
+  "category": "AI",
+  "tags": [
+   "AI",
+   "中國"
+  ]
+ },
+ {
+  "id": 560202,
+  "date": "2026-11-15T15:40:19",
+  "link": "https://www.blocktempo.com/stusdt-rwa-protocol-winds-down-redemption-window-tron/",
+  "title": "波場生態｜stUSDT 宣布收攤：TVL 從 23 億縮到 861 萬，半年贖回期開跑",
+  "excerpt": "波場生態 RWA 協議 stUSDT 宣布有序退場，2023 年 11 月高峰鎖倉 23 億美元，如今只剩 8",
+  "category": "即時新聞",
+  "tags": [
+   "即時新聞"
+  ]
+ },
+ {
+  "id": 560192,
+  "date": "2026-11-15T15:34:49",
+  "link": "https://www.blocktempo.com/cia-unsure-alice-huang-spy-rubio-memo-harsher-wording-nvidia/",
+  "title": "CIA 不確定黃樂是間諜，盧比歐卻用更強硬措辭改寫情資給高層",
+  "excerpt": "CNN 說 CIA 官員仍不確定黃樂是否蓄意替北京傳遞情報，華郵則說引爆黃仁勳醜聞的盧比歐備忘錄，用了比 CI",
+  "category": "AI",
+  "tags": [
+   "AI",
+   "管制",
+   "美國"
+  ]
+ },
+ {
+  "id": 560180,
+  "date": "2026-11-15T15:01:23",
+  "link": "https://www.blocktempo.com/chunghwa-telecom-bill-sms-doubled-amount-hold-payment-check-app/",
+  "title": "中華電信出事了？用戶反應「帳單金額翻倍」，門市推測簡訊系統出錯",
+  "excerpt": "中華電信 11 月電信帳單簡訊出現「共 2 筆」、金額約為平常 2 倍的異常，但 App 與門市查到的仍是單月",
+  "category": "台灣",
+  "tags": [
+   "即時新聞",
+   "台灣"
+  ]
+ },
+ {
+  "id": 560137,
+  "date": "2026-11-15T15:00:13",
+  "link": "https://www.blocktempo.com/tom-lee-crypto-selloff-six-reasons-nvidia-anthropic-ipo/",
+  "title": "Tom Lee 談加密市場拋壓六因：輝達崩跌、Anthropic IPO 抽走資金",
+  "excerpt": "Tom Lee 拆解加密貨幣六大拋壓原因，直指保證金追繳與 Anthropic IPO 抽走資金，並重申加密仍",
+  "category": "市場分析",
+  "tags": [
+   "即時新聞",
+   "市場分析"
+  ]
+ },
+ {
+  "id": 560153,
+  "date": "2026-11-15T14:00:51",
+  "link": "https://www.blocktempo.com/fed-financial-stability-report-ai-top-risk-87-percent/",
+  "title": "聯準會金融穩定報告：AI 風險躍居首位，87% 受訪者視為最大隱憂",
+  "excerpt": "聯準會半年一度的《金融穩定報告》出爐，人工智慧以 87% 的提及率躍居受訪者眼中的金融穩定風險首位，遠高於今年",
+  "category": "AI",
+  "tags": [
+   "AI",
+   "美國",
+   "金融市場"
+  ]
+ },
+ {
+  "id": 560141,
+  "date": "2026-11-15T13:28:26",
+  "link": "https://www.blocktempo.com/machi-big-brother-sells-bored-ape-2894-loss-leverage-trading/",
+  "title": "麻吉大哥五年前以 125 ETH 買的無聊猿，如今以 7.3 ETH 割肉賣出",
+  "excerpt": "「麻吉大哥」黃立成 5 年前以 125 枚 ETH 買的無聊猿 #2894，近日只賣 7.3 枚 ETH，帳面",
+  "category": "nft",
+  "tags": [
+   "nft",
+   "即時新聞"
+  ]
+ },
+ {
+  "id": 560134,
+  "date": "2026-11-15T13:20:18",
+  "link": "https://www.blocktempo.com/nvidia-board-venture-veterans-jones-coxe-stevens-seawell-hold-billions/",
+  "title": "輝達 11 人董事會曝光，馬斯克酸：賣可樂、捲餅的人開除黃仁勳",
+  "excerpt": "輝達董事會名單曝光後，被網友酸成賣可樂、賣捲餅的外行人。不過核心其實是四位 1990 年代就押注輝達的創投老將",
+  "category": "AI",
+  "tags": [
+   "AI",
+   "美國"
+  ]
+ },
+ {
+  "id": 560117,
+  "date": "2026-11-15T12:15:25",
+  "link": "https://www.blocktempo.com/tesla-cybercab-personal-sales-monthly-subscription-fee-musk-calls-expensive/",
+  "title": "特斯拉開賣 3 萬美元 Cybercab＋月租費 $299，馬斯克喊太貴會降價？",
+  "excerpt": "特斯拉開放受邀客戶訂購 Cybercab 自用，車價 29,990 美元，但每月還得付 299 美元自駕訂閱才",
+  "category": "技術",
+  "tags": [
+   "技術",
+   "美國"
+  ]
+ },
+ {
+  "id": 560112,
+  "date": "2026-11-15T12:00:50",
+  "link": "https://www.blocktempo.com/microsoft-m365-outage-anonymous-engineer-claims-senior-staff-exodus-rollback/",
+  "title": "匿名微軟員工爆料：資深工程師全走光，這次 Microsoft 365 當機才修這麼久",
+  "excerpt": "一位掛微軟認證的匿名員工說，Microsoft 365 當機拖這麼久是因為資深工程師走光。 （前情提要：微軟",
+  "category": "AI",
+  "tags": [
+   "AI",
+   "技術"
+  ]
+ },
+ {
+  "id": 560094,
+  "date": "2026-11-15T11:47:27",
+  "link": "https://www.blocktempo.com/cardano-hoskinson-roadmap-complete-pump-bags-drep-foundation-governance-fight/",
+  "title": "Cardano 創辦人槓上幣民：路線圖已完成未來交棒社群，不負責拉盤 ADA",
+  "excerpt": "Cardano 創辦人 Hoskinson 在直播中稱路線圖已全部完成，投資人要的只是替他們拉盤。他同時透露厭",
+  "category": "其他幣別",
+  "tags": [
+   "其他幣別",
+   "獨立觀點"
+  ]
+ },
+ {
+  "id": 560089,
+  "date": "2026-11-15T11:04:25",
+  "link": "https://www.blocktempo.com/claude-code-desktop-custom-themes-mods-colors-animated-backgrounds-anthropic/",
+  "title": "Claude Code 開放自訂主題 custom-theme：一句話換配色＋會動的背景（使用教學）",
+  "excerpt": "Claude Code 桌面版新增自訂主題，可改配色並加上會動的背景。若安裝官方範例外掛，也能直接叫 Clau",
+  "category": "AI",
+  "tags": [
+   "AI",
+   "技術"
+  ]
+ },
+ {
+  "id": 560027,
+  "date": "2026-11-15T10:57:01",
+  "link": "https://www.blocktempo.com/gemini-q3-revenue-drops-trading-volume-crashes-73-percent-loss-narrows/",
+  "title": "Gemini 交易所 Q3 營收摔 19%、交易量崩 73%，但透過砍成本虧損連兩季收窄",
+  "excerpt": "Gemini 第三季總營收 4,090 萬美元、年減 19%，現貨交易量從去年同期的 164 億美元萎縮到 4",
+  "category": "市場分析",
+  "tags": [
+   "即時新聞",
+   "市場分析"
+  ]
+ },
+ {
+  "id": 560063,
+  "date": "2026-11-15T10:19:04",
+  "link": "https://www.blocktempo.com/thailand-sec-stablecoin-daily-cap-5-million-baht-aml/",
+  "title": "泰國 SEC 監管草案：穩定幣轉帳日限 500 萬泰銖、禁止轉他人錢包",
+  "excerpt": "泰國 SEC 就穩定幣交易監理草案公開徵詢，同一客戶在每家受監理業者每日存入、提出各限 500 萬泰銖，且只能",
+  "category": "法規",
+  "tags": [
+   "即時新聞",
+   "法規"
+  ]
+ },
+ {
   "id": 560058,
   "date": "2026-11-15T09:59:20",
   "link": "https://www.blocktempo.com/bitcoin-ethereum-crypto-market-crash-fear-index-extreme-fear/",
@@ -6946,212 +7141,6 @@
    "交易所",
    "即時新聞",
    "安全",
-   "幣安史上最大駭案！63 億美元是怎麼被搬走的？"
-  ]
- },
- {
-  "id": 552721,
-  "date": "2026-10-30T10:22:43",
-  "link": "https://www.blocktempo.com/binance-hack-explainer-timeline-frozen-funds-compensation-deposits-withdrawals-resume/",
-  "title": "幣安遭駭懶人包（持續更新）：發生什麼事、賠付、凍結、Binance 提款進度一次看",
-  "excerpt": "幣安熱錢包 30 日遭駭，官方估計總影響約 63 億美元，已凍結約 30 億。FBI 11 月 1 日點名北韓",
-  "category": "交易所",
-  "tags": [
-   "交易所",
-   "即時新聞",
-   "安全",
-   "幣安史上最大駭案！63 億美元是怎麼被搬走的？"
-  ]
- },
- {
-  "id": 552768,
-  "date": "2026-10-30T10:00:05",
-  "link": "https://www.blocktempo.com/moodys-ratings-rlusd-first-investment-grade-stablecoin-rating-ripple/",
-  "title": "穆迪開第一槍！RLUSD 成首個拿下投資級評等的穩定幣",
-  "excerpt": "穆迪評級給予 Ripple 美元穩定幣 RLUSD A2 長期、P-1 短期存款評級，雙雙落在投資級區間，是首",
-  "category": "市場分析",
-  "tags": [
-   "即時新聞",
-   "市場分析"
-  ]
- },
- {
-  "id": 552761,
-  "date": "2026-10-30T09:56:51",
-  "link": "https://www.blocktempo.com/securitize-stellar-tokenized-real-world-assets-fourth-blockchain-integration/",
-  "title": "Securitize 接入 Stellar！代幣化資產再添第四條公鏈",
-  "excerpt": "紐交所上市的代幣化資產平台 Securitize 宣布計畫整合 Stellar 網路，成為其支援的第四條公鏈，",
-  "category": "RWA",
-  "tags": [
-   "RWA",
-   "市場分析"
-  ]
- },
- {
-  "id": 552726,
-  "date": "2026-10-30T09:46:45",
-  "link": "https://www.blocktempo.com/binance-hack-fake-compensation-phishing-scams-expected-official-channels-verify/",
-  "title": "小心！主動上門的幣安賠付，一律先當詐騙、注意 Binance 釣魚網站",
-  "excerpt": "幣安已承諾承擔駭客造成的損失，但不代表有任何需要用戶申請的補償流程。從 Bybit 與 Trust Walle",
-  "category": "交易所",
-  "tags": [
-   "交易所",
-   "安全",
-   "幣安史上最大駭案！63 億美元是怎麼被搬走的？"
-  ]
- },
- {
-  "id": 552676,
-  "date": "2026-10-30T09:42:43",
-  "link": "https://www.blocktempo.com/binance-hacker-dumps-seven-altcoins-swaps-ether-prices-slide-sharply/",
-  "title": "幣安駭客倒貨七種山寨幣：UNI 賣最多、ENA 慘崩 16%，共換 70,480 枚 ETH",
-  "excerpt": "幣安駭客已把 UNI、ENA、PEPE 等七種山寨幣全數倒完，換得 70,480 枚 ETH，七種幣近幾個小時",
-  "category": "交易所",
-  "tags": [
-   "交易所",
-   "即時新聞",
-   "安全",
-   "幣安史上最大駭案！63 億美元是怎麼被搬走的？"
-  ]
- },
- {
-  "id": 552735,
-  "date": "2026-10-30T09:37:59",
-  "link": "https://www.blocktempo.com/binance-hot-wallet-hack-6-28-billion-eight-chains-eip-7702-sweep/",
-  "title": "復盤幣安熱錢包遭駭 62.8 億美元！55 分鐘 8 鏈被搬空，凍結戰開打",
-  "excerpt": "幣安熱錢包遭駭，8 條鏈合計損失約 62.8 億美元，其中 60.7 億美元在 55 分鐘內被搬走。鏈上追蹤顯",
-  "category": "交易所",
-  "tags": [
-   "交易所",
-   "安全",
-   "幣安史上最大駭案！63 億美元是怎麼被搬走的？"
-  ]
- },
- {
-  "id": 552571,
-  "date": "2026-10-30T09:32:27",
-  "link": "https://www.blocktempo.com/bessent-digital-assets-dollar-tech-umbrella-china-race/",
-  "title": "美元霸權改靠科技傘！貝森特：數位資產是美中競爭決勝點",
-  "excerpt": "美國財政部長貝森特在 Ripple 的 Swell 大會上表示，支撐美元霸權的基礎正從軍事實力轉向科技領導力，",
-  "category": "法規",
-  "tags": [
-   "即時新聞",
-   "法規",
-   "穩定幣"
-  ]
- },
- {
-  "id": 552602,
-  "date": "2026-10-30T09:32:18",
-  "link": "https://www.blocktempo.com/robinhood-tenev-tokenized-stocks-sec-uncertainty-q3-crypto-revenue/",
-  "title": "Tenev 喊 SEC 創新豁免不夠，五年不確定性卡住代幣化股票",
-  "excerpt": "Robinhood 執行長 Vlad Tenev 直言，證交會的創新豁免雖是正面一步，但五年期限不足以讓大型發",
-  "category": "市場分析",
-  "tags": [
-   "市場分析"
-  ]
- },
- {
-  "id": 552630,
-  "date": "2026-10-30T09:31:16",
-  "link": "https://www.blocktempo.com/a16z-ciso-security-budget-ai-2027-growth-research-survey/",
-  "title": "a16長文：87% CISO 搶加碼，AI 時代網路安全預算為何報復性增長？",
-  "excerpt": "a16z 普通合夥人 Martin Casado 發表長文，揭示 AI 時代企業安全預算與優先順序的劇烈重組。",
-  "category": "獨立觀點",
-  "tags": [
-   "獨立觀點"
-  ]
- },
- {
-  "id": 552671,
-  "date": "2026-10-30T09:24:17",
-  "link": "https://www.blocktempo.com/binance-hack-crash-btc-77k-eth-fear-greed-30/",
-  "title": "比特幣閃崩7.67萬美元、以太坊失守2250鎂！幣安遭駭，恐慌指數重挫",
-  "excerpt": "幣安熱錢包遭駭訊息衝擊加密市場，比特幣今（30）日一度下探約 7.67 萬美元、以太坊失守 2,250 美元，",
-  "category": "市場分析",
-  "tags": [
-   "市場分析",
-   "幣安史上最大駭案！63 億美元是怎麼被搬走的？"
-  ]
- },
- {
-  "id": 552682,
-  "date": "2026-10-30T09:20:54",
-  "link": "https://www.blocktempo.com/binance-frozen-three-billion-arbitrum-security-council-seizes-hacker-funds/",
-  "title": "更新》幣安凍結金額上升至約 30 億美元，出入金恢復尚待通知",
-  "excerpt": "幣安把核實凍結總額上修到約 30 億美元。Arbitrum 安全委員會也動用緊急權限，移走駭客約 3,050",
-  "category": "交易所",
-  "tags": [
-   "交易所",
-   "即時新聞",
-   "安全",
-   "幣安史上最大駭案！63 億美元是怎麼被搬走的？"
-  ]
- },
- {
-  "id": 552654,
-  "date": "2026-10-30T09:04:14",
-  "link": "https://www.blocktempo.com/aave-freezes-v3-v4-markets-binance-hacker-borrows-19762-eth/",
-  "title": "Aave 暫時凍結 V3、V4 市場（提/還款正常）：幣安駭客搶先借走近 2 萬枚 ETH",
-  "excerpt": "Aave 稱幣安駭客用 6,000 萬 USDT 借走 19,762 枚 ETH，目前暫時凍結 V3、V4 全",
-  "category": "defi",
-  "tags": [
-   "defi",
-   "即時新聞",
-   "安全",
-   "幣安史上最大駭案！63 億美元是怎麼被搬走的？"
-  ]
- },
- {
-  "id": 552648,
-  "date": "2026-10-30T09:01:07",
-  "link": "https://www.blocktempo.com/binance-hack-cover-losses-freeze-billion-unfrozen-eth-delegation-signature/",
-  "title": "幣安遭「史上最大駭客攻擊」暫停出入金，何一、CZ 承諾 Binance 全額賠付",
-  "excerpt": "幣安 30 日早上宣布暫停所有充值與提款，並承諾賠付全部損失，已核實凍結 25.4 億美元。 （前情提要：快訊",
-  "category": "交易所",
-  "tags": [
-   "交易所",
-   "即時新聞",
-   "安全",
-   "幣安史上最大駭案！63 億美元是怎麼被搬走的？"
-  ]
- },
- {
-  "id": 552644,
-  "date": "2026-10-30T08:57:28",
-  "link": "https://www.blocktempo.com/binance-attacker-metamask-gas-station-usdt-fee-ip-logs-tether/",
-  "title": "幣安駭客誤用 MetaMask 代付 Gas，或留下 IP 破案線索",
-  "excerpt": "幣安攻擊者的錢包改用 Gas Station 付手續費，交易經過 MetaMask 伺服器，IP 可能因此留下",
-  "category": "交易所",
-  "tags": [
-   "交易所",
-   "即時新聞",
-   "安全",
-   "幣安史上最大駭案！63 億美元是怎麼被搬走的？"
-  ]
- },
- {
-  "id": 552635,
-  "date": "2026-10-30T08:48:44",
-  "link": "https://www.blocktempo.com/binance-hot-wallet-hack-eth-reserve-backing-drops-below-100/",
-  "title": "幣安遭駭 20 萬枚 ETH 暫停出入金，Tether、Circle 聯手凍結超 23 億美元穩定幣",
-  "excerpt": "幣安（Binance）週四熱錢包遭駭，約 20 萬 4,500 枚以太幣被搬走。由於這批錢包正是幣安儲備證明中",
-  "category": "以太坊",
-  "tags": [
-   "以太坊",
-   "即時新聞",
-   "幣安史上最大駭案！63 億美元是怎麼被搬走的？"
-  ]
- },
- {
-  "id": 552593,
-  "date": "2026-10-30T05:21:13",
-  "link": "https://www.blocktempo.com/crypto-flash-crash-binance-hack-rumor-btc-78k-2026/",
-  "title": "比特幣閃崩下探約 7.8 萬美元、以太坊跌破 $2250！幣安疑似遭駭消息衝擊市場",
-  "excerpt": "或許受幣安疑似遭駭消息衝擊，加密市場今晨遭遇嚴重賣壓：比特幣一度下探約 7.8 萬美元，以太坊失守約 2,25",
-  "category": "加密貨幣市場",
-  "tags": [
-   "加密貨幣市場",
    "幣安史上最大駭案！63 億美元是怎麼被搬走的？"
   ]
  }
