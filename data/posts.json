@@ -1,5 +1,28 @@
 [
  {
+  "id": 560058,
+  "date": "2026-11-15T09:59:20",
+  "link": "https://www.blocktempo.com/bitcoin-ethereum-crypto-market-crash-fear-index-extreme-fear/",
+  "title": "比特幣下殺 6.2 萬創四個月新低、以太坊跌破 $1,750！市場極度恐懼",
+  "excerpt": "今（15）日加密市場延續上週末賣壓，上午 9 點後再跌一段，比特幣最低跌至 62,006 美元、創 7 月中以",
+  "category": "市場分析",
+  "tags": [
+   "即時新聞",
+   "市場分析"
+  ]
+ },
+ {
+  "id": 560047,
+  "date": "2026-11-15T09:53:08",
+  "link": "https://www.blocktempo.com/kava-lend-busd-collateral-exploit-55-million-kava-drained-layerzero/",
+  "title": "KAVA 慘崩 59%！Kava Lend 遇駭掏空 376 萬美元，抵押品膨脹 24 萬倍",
+  "excerpt": "Kava 公鏈原生借貸協議 Kava Lend 在週六夜被掏空，攻擊者用一筆小額 BUSD 借款把沉睡市場的抵",
+  "category": "即時新聞",
+  "tags": [
+   "即時新聞"
+  ]
+ },
+ {
   "id": 559926,
   "date": "2026-11-14T19:01:17",
   "link": "https://www.blocktempo.com/shopee-taiwan-seller-fee-hike-sea-limited-monetization-pricing-strategy/",
@@ -7130,29 +7153,6 @@
   "tags": [
    "加密貨幣市場",
    "幣安史上最大駭案！63 億美元是怎麼被搬走的？"
-  ]
- },
- {
-  "id": 552587,
-  "date": "2026-10-30T05:11:33",
-  "link": "https://www.blocktempo.com/binance-hot-wallet-2-5b-outflow-unconfirmed-2026/",
-  "title": "重磅》幣安疑似遭駭 25 億美元！約 16.7 萬枚以太坊＋16 億枚 USDT 流向新地址",
-  "excerpt": "幣安標註熱錢包地址在台北時間 10 月 30 日清晨出現大額轉出，鏈上一次掃出約 16.7 萬枚 ETH 與逾",
-  "category": "交易所",
-  "tags": [
-   "交易所",
-   "幣安史上最大駭案！63 億美元是怎麼被搬走的？"
-  ]
- },
- {
-  "id": 552569,
-  "date": "2026-10-30T02:53:09",
-  "link": "https://www.blocktempo.com/polymarket-third-party-compromised-made-whole/",
-  "title": "Polymarket 確認第三方遭入侵：已修復、移交執法、承諾補償，交易暫停恢復中",
-  "excerpt": "預測市場平台 Polymarket 官方狀態頁更新：影響國際站 Polymarket.com 的問題已識別並修",
-  "category": "預測市場",
-  "tags": [
-   "預測市場"
   ]
  }
 ]
