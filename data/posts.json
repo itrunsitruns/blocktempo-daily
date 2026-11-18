@@ -1,5 +1,172 @@
 [
  {
+  "id": 561478,
+  "date": "2026-11-18T11:44:04",
+  "link": "https://www.blocktempo.com/nvidia-board-national-security-export-control-committee-huang-exit-oversight/",
+  "title": "輝達董事會宣布親自監督出口合規，成立國安委員會",
+  "excerpt": "輝達董事會 11 月 17 日成立「國家安全與出口管制監督委員會」，由 3 位董事組成，國安與貿易合規團隊今後",
+  "category": "AI",
+  "tags": [
+   "AI",
+   "管制",
+   "美國"
+  ]
+ },
+ {
+  "id": 561526,
+  "date": "2026-11-18T11:33:55",
+  "link": "https://www.blocktempo.com/alibaba-qwen4-max-artificial-analysis-score-anthropic-claude-distillation-defenses/",
+  "title": "Qwen4-Max 評分大幅落後 Claude，Anthropic 擋蒸餾似乎生效？",
+  "excerpt": "阿里新旗艦 Qwen4-Max 在第三方榜單只拿 43 分，比 Claude 最高分少 22 分，社群認為是",
+  "category": "AI",
+  "tags": [
+   "AI",
+   "中國"
+  ]
+ },
+ {
+  "id": 561533,
+  "date": "2026-11-18T11:20:31",
+  "link": "https://www.blocktempo.com/astra-fable-same-prompt-3d-scene-cost-speed-quality-comparison/",
+  "title": "GPT-6.2 對 Fable-5.2 影片實測：一個快又省，一個光影更強",
+  "excerpt": "X 上四則實測，讓 GPT-6.2 Astra 與 Claude Fable 5.2 用同提示詞做 3D 影片",
+  "category": "AI",
+  "tags": [
+   "AI",
+   "技術"
+  ]
+ },
+ {
+  "id": 561482,
+  "date": "2026-11-18T11:02:17",
+  "link": "https://www.blocktempo.com/nvidia-employee-letter-warns-board-talent-exodus-jensen-huang-reinstatement/",
+  "title": "輝達技術總監逼宮董事會：不讓黃仁勳回來，NVIDIA 會流失重要人才",
+  "excerpt": "輝達員工具名寫信給全體董事與黃仁勳的直屬部屬，警告不讓他回任會流失人才。董事會才在財報電話會議上公開回絕，已聘",
+  "category": "AI",
+  "tags": [
+   "AI",
+   "美國"
+  ]
+ },
+ {
+  "id": 561496,
+  "date": "2026-11-18T10:57:06",
+  "link": "https://www.blocktempo.com/us-national-debt-equals-gdp-tax-cuts-added-10-trillion/",
+  "title": "美債規模 32 兆美元追平全年 GDP，新國會的減稅算盤更難打",
+  "excerpt": "美債規模已追上整體經濟，學者指出過去 25 年一再減稅是推手之一，而在債務高、利率也高的現在，每一次減稅都比以",
+  "category": "美國",
+  "tags": [
+   "美國",
+   "金融市場"
+  ]
+ },
+ {
+  "id": 561491,
+  "date": "2026-11-18T10:30:00",
+  "link": "https://www.blocktempo.com/gensler-warns-ai-bubble-recession-before-2028-election-neocloud-bankruptcies/",
+  "title": "前SEC主席Gary Gensler警告：AI泡沫恐在2028大選前引發經濟衰退",
+  "excerpt": "前 SEC 主席 Gary Gensler 接受 CNN 專訪時表示，AI 熱潮已經是泡沫，預期 2028 年",
+  "category": "AI",
+  "tags": [
+   "AI",
+   "美國",
+   "金融市場"
+  ]
+ },
+ {
+  "id": 561395,
+  "date": "2026-11-18T10:24:41",
+  "link": "https://www.blocktempo.com/solana-drops-mainnet-beta-label-protocol-version-1-0/",
+  "title": "Solana 撕掉主網測試版標籤！協議版本統一改掛 1.0 里程碑",
+  "excerpt": "Solana 基金會宣布不再使用沿用六年多的「mainnet beta」（主網測試版）名稱，並以 Solana",
+  "category": "區塊鏈平台",
+  "tags": [
+   "區塊鏈平台",
+   "即時新聞",
+   "技術"
+  ]
+ },
+ {
+  "id": 561474,
+  "date": "2026-11-18T10:12:12",
+  "link": "https://www.blocktempo.com/anthropic-ipo-pricing-nasdaq-trading-taiwan-time-amazon-google-stakes/",
+  "title": "Anthropic 上市時間表：台灣 19 日清晨定價、晚上開盤，發行價或超 80 美元",
+  "excerpt": "新版招股書首次揭露，亞馬遜與 Google 上市後分別持有全部股本 14.7% 與 13.7%。另據《華爾街日",
+  "category": "AI",
+  "tags": [
+   "AI",
+   "美國",
+   "金融市場"
+  ]
+ },
+ {
+  "id": 561465,
+  "date": "2026-11-18T10:01:54",
+  "link": "https://www.blocktempo.com/nvidia-board-rejects-jensen-huang-return-hires-heidrick-struggles-search/",
+  "title": "黃仁勳表態願重返 NVIDIA 後，輝達董事會潑冷水：已聘獵頭找接班人",
+  "excerpt": "輝達董事長 Harvey Jones 在財報電話會議開場表示，董事會一致接受黃仁勳辭呈，無意讓他復任執行長。這",
+  "category": "美國",
+  "tags": [
+   "即時新聞",
+   "美國"
+  ]
+ },
+ {
+  "id": 561411,
+  "date": "2026-11-18T09:25:12",
+  "link": "https://www.blocktempo.com/nvidia-q3-earnings-beat-estimates-strong-q4-guidance-shares-rise/",
+  "title": "輝達 Q3 營收 1,158 億美元超預期！Q4 指引強勁",
+  "excerpt": "輝達 FY2027 第三季營收 1,158 億美元、年增 103%，非 GAAP 每股盈餘 2.68 美元、資",
+  "category": "市場分析",
+  "tags": [
+   "市場分析"
+  ]
+ },
+ {
+  "id": 561444,
+  "date": "2026-11-18T09:23:30",
+  "link": "https://www.blocktempo.com/okx-star-xu-blasts-binance-cz-yi-he-97m-loss/",
+  "title": "徐明星開砲趙長鵬！幣安何一自曝虧 9,730 萬美元",
+  "excerpt": "比特幣上週從約 7.4 萬美元跌到一度觸及 62,006 美元，重掀 OKX 徐明星與幣安趙長鵬的舊怨。趙長鵬",
+  "category": "市場分析",
+  "tags": [
+   "市場分析"
+  ]
+ },
+ {
+  "id": 561425,
+  "date": "2026-11-18T09:22:34",
+  "link": "https://www.blocktempo.com/cftc-nominees-senate-hearing-prediction-market-jurisdiction-sports-betting/",
+  "title": "CFTC 委員提名人聽證！預測市場管轄權成參院主戰場",
+  "excerpt": "川普提名的 CFTC 兩位委員人選 17 日出席參議院農業委員會聽證，運動博弈與預測市場的管轄權成為攻防核心。",
+  "category": "法規",
+  "tags": [
+   "法規"
+  ]
+ },
+ {
+  "id": 561415,
+  "date": "2026-11-18T09:21:40",
+  "link": "https://www.blocktempo.com/cftc-halts-kalshi-trump-speech-mention-markets-manipulation-review-orders/",
+  "title": "CFTC 喊停川普名言盤！Kalshi 限 12/11 前回應",
+  "excerpt": "CFTC 11 月 13 日發出命令，暫時叫停 Kalshi 兩檔與川普發言掛鉤的預測市場，理由是平台在 9",
+  "category": "預測市場",
+  "tags": [
+   "預測市場"
+  ]
+ },
+ {
+  "id": 561433,
+  "date": "2026-11-18T09:12:57",
+  "link": "https://www.blocktempo.com/morning-crypto-roundup-bitcoin-647k-sol-surge-fear-11/",
+  "title": "晨間幣價行情：比特幣回彈 6.52萬鎂，SOL 漲 4.6%、恐慌指數 11 續回落",
+  "excerpt": "比特幣續徘徊 6.47 萬美元，SOL 跳漲 4.6% 領跑主流幣，美股三大指數同步回落（Dow -1.6%、",
+  "category": "市場分析",
+  "tags": [
+   "市場分析"
+  ]
+ },
+ {
   "id": 561381,
   "date": "2026-11-18T02:06:16",
   "link": "https://www.blocktempo.com/openai-launches-gpt-6-2-astra-and-sol/",
@@ -6905,175 +7072,6 @@
    "RWA",
    "加密貨幣市場",
    "銀行"
-  ]
- },
- {
-  "id": 554226,
-  "date": "2026-11-02T21:02:50",
-  "link": "https://www.blocktempo.com/zachxbt-eu-entity-suspected-106m-cex-theft/",
-  "title": "ZachXBT：某歐盟實體疑似被駭 1.06 億美元加密貨幣！資金從多家 CEX 提領後狂轉 XMR 洗錢",
-  "excerpt": "歐盟境內某未具名實體，疑於 11 月 1 日從多家中心化交易所帳戶失竊逾 1.06 億美元；疑似資金已以 US",
-  "category": "安全",
-  "tags": [
-   "安全",
-   "歐洲"
-  ]
- },
- {
-  "id": 554219,
-  "date": "2026-11-02T20:43:31",
-  "link": "https://www.blocktempo.com/trump-preemptive-pardons-if-dems-flip-congress/",
-  "title": "川普：若民主黨拿下國會，願對馬斯克等幕僚盟友發「預先赦免」",
-  "excerpt": "川普預告：若民主黨翻轉國會並兌現起訴其政府人員的威脅，他願對幕僚與盟友發出「預先赦免」；期中選舉結果本週二晚間",
-  "category": "美國",
-  "tags": [
-   "美國"
-  ]
- },
- {
-  "id": 554215,
-  "date": "2026-11-02T20:32:12",
-  "link": "https://www.blocktempo.com/marvell-lumentum-ai-connectivity-merger-115b/",
-  "title": "半導體大廠 Marvell 全股票併購 Lumentum：企業價值 1,150 億美元，搶 AI 光學互連",
-  "excerpt": "Marvell 以全股票交易收購 Lumentum，隱含企業價值 1,150 億美元，合併後可觸及市場上看約",
-  "category": "AI",
-  "tags": [
-   "AI",
-   "金融市場"
-  ]
- },
- {
-  "id": 554179,
-  "date": "2026-11-02T18:07:03",
-  "link": "https://www.blocktempo.com/lauren-tan-grok-bot-guide-dr-eggbot-skills-vault-voice/",
-  "title": "Grok Bot 最強教學》官方人員公開 7 個調教 Agent 的方式",
-  "excerpt": "SpaceXSI Grok Bot 團隊成員 Lauren Tan 公開她建 Bot、管 Bot 團隊的 6",
-  "category": "AI",
-  "tags": [
-   "AI",
-   "技術"
-  ]
- },
- {
-  "id": 554186,
-  "date": "2026-11-02T18:04:50",
-  "link": "https://www.blocktempo.com/anthropic-claude-usage-policy-bans-resale-proxy-consumer-subscriptions-china/",
-  "title": "Claude 新規定「禁止用訂閱額度開中轉站」要殺光 token 中轉商？",
-  "excerpt": "據 Anthropic 官網，Claude 新版使用政策 11 月 12 日生效。「不得濫用平台」段新增一條，",
-  "category": "AI",
-  "tags": [
-   "AI",
-   "中國",
-   "法規"
-  ]
- },
- {
-  "id": 554180,
-  "date": "2026-11-02T18:01:13",
-  "link": "https://www.blocktempo.com/microsoft-employees-food-videos-viral-netizens-mock-60000-voluntary-exit/",
-  "title": "微軟員工過太爽？拍影片「上班一整天吃什麼菜色」，難怪有 6 萬人自願離職方案",
-  "excerpt": "X 平台上有好幾篇貼文爆紅，內容都是微軟員工自己拍上班一整天在公司吃了什麼。不少網友酸說微軟看到這類影片才「裁",
-  "category": "亞太",
-  "tags": [
-   "亞太",
-   "美國"
-  ]
- },
- {
-  "id": 554165,
-  "date": "2026-11-02T17:37:34",
-  "link": "https://www.blocktempo.com/china-communist-party-anti-corruption-crypto-blockchain-crackdown/",
-  "title": "中共嚴打「加密貨幣收賄」！五中全會點名虛擬貨幣、區塊鏈",
-  "excerpt": "中共二十屆五中全會 10 月 29 日透過的決定，11 月 1 日由新華社公布全文，其中一句要求堅決打擊利用虛",
-  "category": "法規",
-  "tags": [
-   "即時新聞",
-   "法規"
-  ]
- },
- {
-  "id": 554169,
-  "date": "2026-11-02T17:36:07",
-  "link": "https://www.blocktempo.com/binance-withdrawals-resume-6-1-billion-outflows-3-6-percent/",
-  "title": "幣安恢復提款後總流出 61 億鎂，僅佔總資產 3.6%",
-  "excerpt": "幣安 11 月 1 日恢復提款後，鏈上 24 小時內流出超過 61 億美元，約佔遭駭前總資產的 3.6%；幣安",
-  "category": "幣安史上最大駭案！63 億美元是怎麼被搬走的？",
-  "tags": [
-   "即時新聞",
-   "幣安史上最大駭案！63 億美元是怎麼被搬走的？"
-  ]
- },
- {
-  "id": 554128,
-  "date": "2026-11-02T15:17:04",
-  "link": "https://www.blocktempo.com/south-korea-bok-survey-banks-brokerages-crypto-exposure-risk/",
-  "title": "韓國央行首度盤查「加密曝險」！31 家銀行與券商被問：交易所倒閉怎麼辦？",
-  "excerpt": "韓國央行 10 月 23 日起首度盤查金融機構的加密曝險，向 18 家銀行與 13 家券商發出問卷，情境題直指",
-  "category": "法規",
-  "tags": [
-   "即時新聞",
-   "法規"
-  ]
- },
- {
-  "id": 554144,
-  "date": "2026-11-02T15:16:00",
-  "link": "https://www.blocktempo.com/btcpay-server-hot-wallet-thefts-outdated-versions-urgent-shutdown/",
-  "title": "BTCPay Server 熱錢包遭盜！官方急籲關機、舊版 2.4.1 中招",
-  "excerpt": "比特幣自託管支付軟體 BTCPay Server 週一揭露最新攻擊手法，證實已有營運者的熱錢包遭不明人士掏空，",
-  "category": "安全",
-  "tags": [
-   "即時新聞",
-   "安全"
-  ]
- },
- {
-  "id": 554038,
-  "date": "2026-11-02T12:25:58",
-  "link": "https://www.blocktempo.com/sam-altman-gifts-samsung-presidents-codex-micro-keypad-keyboard-unnecessary/",
-  "title": "Sam Altman 的伴手禮是「13 鍵小鍵盤 Codex Micro 」：未來用嘴巴說就好",
-  "excerpt": "OpenAI 執行長 Sam Altman 在上個月 31 日在韓國龍仁和三星大約約 50 名社長座談，開場送",
-  "category": "AI",
-  "tags": [
-   "AI",
-   "亞太"
-  ]
- },
- {
-  "id": 554034,
-  "date": "2026-11-02T12:21:58",
-  "link": "https://www.blocktempo.com/musk-grok-bot-serving-cost-unsustainable-revenue-users-hit-limits/",
-  "title": "Grok Bot 額度突然用完？馬斯克：成本太高了…服務快撐不住了",
-  "excerpt": "SpaceXSI 旗下 AI 代理服務 Grok Bot 本週有付費用戶反映額度提早用完，馬斯克在 2 日凌晨",
-  "category": "AI",
-  "tags": [
-   "AI",
-   "美國"
-  ]
- },
- {
-  "id": 554033,
-  "date": "2026-11-02T12:14:54",
-  "link": "https://www.blocktempo.com/google-ai-mode-japan-fish-fillets-mistaken-snake-meat-viral/",
-  "title": "Gemini 把魚肉認成「蛇肉」，日本人滿頭問號",
-  "excerpt": "日本一名網友在超市拿了一盒特價魚片問 Google 是什麼魚，AI 回答「很可能是蛇肉」，要他別開封、別入口，",
-  "category": "AI",
-  "tags": [
-   "AI",
-   "亞太"
-  ]
- },
- {
-  "id": 554039,
-  "date": "2026-11-02T12:11:11",
-  "link": "https://www.blocktempo.com/ctbc-active-etf-00406a-below-ipo-price-holders-monthly-dividend/",
-  "title": "00406A 跌破發行價還是爆量！11 月 3 日除息",
-  "excerpt": "據 台灣證券交易所 資料與 工商時報 報導，中國信託投信旗下主動式 ETF「主動中信台灣收益」（00406A）",
-  "category": "台灣",
-  "tags": [
-   "台灣",
-   "投資分析",
-   "金融市場"
   ]
  }
 ]
