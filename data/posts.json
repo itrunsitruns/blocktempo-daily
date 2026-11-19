@@ -1,5 +1,261 @@
 [
  {
+  "id": 562364,
+  "date": "2026-11-19T21:34:37",
+  "link": "https://www.blocktempo.com/hyperliquid-hong-kong-sfc-alert-list-suspicious-unlicensed-trading-platform/",
+  "title": "Hyperliquid 被香港證監會列入「可疑交易平台名單」",
+  "excerpt": "據 香港證監會警示名單，香港證券及期貨事務監察委員會（證監會）11 月 18 日把去中心化永續合約交易平台 H",
+  "category": "亞太",
+  "tags": [
+   "亞太",
+   "法規",
+   "管制"
+  ]
+ },
+ {
+  "id": 562334,
+  "date": "2026-11-19T21:01:04",
+  "link": "https://www.blocktempo.com/sky-stusds-pool-utilization-withdrawals-unavailable-single-wallet-borrowed-half/",
+  "title": "Sky（MakerDAO）要暴雷了？資金池1.6億美元沒錢還，外傳近半被創辦人借走",
+  "excerpt": "據鏈上資料，Sky（前身 MakerDAO）旗下借貸池 stUSDS 使用率已達 100%，約 1.6 億美元",
+  "category": "defi",
+  "tags": [
+   "defi",
+   "穩定幣"
+  ]
+ },
+ {
+  "id": 562328,
+  "date": "2026-11-19T20:58:07",
+  "link": "https://www.blocktempo.com/sky-psm-inca-digital-north-korea-usdc-reserve-freeze-risk/",
+  "title": "北韓相關錢包經 Sky 兌換逾 1 億美元，準備金恐遭凍結",
+  "excerpt": "風險分析公司 Inca Digital 調查發現，422 個與駭客、釣魚集團或受制裁實體有關聯的錢包，曾透過",
+  "category": "defi",
+  "tags": [
+   "defi",
+   "安全",
+   "穩定幣"
+  ]
+ },
+ {
+  "id": 562312,
+  "date": "2026-11-19T20:57:00",
+  "link": "https://www.blocktempo.com/yamaguchi-gumi-bans-members-special-fraud-police-crackdown-victims-lawsuits/",
+  "title": "山口組下禁令：成員不准做詐騙，怕整組被政府端掉",
+  "excerpt": "日本最大暴力團六代目山口組 11 月中旬在機關報《山口組新報》刊出通達（公告命令），以若頭補佐安東美樹的名義，",
+  "category": "亞太",
+  "tags": [
+   "亞太",
+   "犯罪"
+  ]
+ },
+ {
+  "id": 562329,
+  "date": "2026-11-19T20:54:47",
+  "link": "https://www.blocktempo.com/netflix-altruists-ftx-sbf-drama-premieres-eight-episodes-garner-boyle/",
+  "title": "FTX 改編劇《The Altruists》上線 Netflix，全八集一次放出",
+  "excerpt": "以加密貨幣交易所 FTX 崩盤為題材的八集限定劇《The Altruists》11 月 19 日在 Netfl",
+  "category": "交易所",
+  "tags": [
+   "交易所",
+   "即時新聞"
+  ]
+ },
+ {
+  "id": 562322,
+  "date": "2026-11-19T20:53:34",
+  "link": "https://www.blocktempo.com/jimoto-saiko-manga-netflix-mappa-japan-youth-fraud-recruitment-statistics/",
+  "title": "解讀Netflix動畫化《地元最高》，日本年輕底層聽前輩的犯罪日常",
+  "excerpt": "日本漫畫《地元最高》主題是沒離開過家鄉的女孩子們，日常接觸毒品、暴力與貧困的生活，今年 6 月宣布改編 Net",
+  "category": "亞太",
+  "tags": [
+   "亞太",
+   "獨立觀點"
+  ]
+ },
+ {
+  "id": 562279,
+  "date": "2026-11-19T18:43:24",
+  "link": "https://www.blocktempo.com/japan-first-aid-council-statement-denies-men-rescuing-women-crime/",
+  "title": "日本網友吵翻：男性對女性 AED 急救會被告性騷？",
+  "excerpt": "日本民間急救推廣團體對社群上流傳「男性救助女性會犯罪」的說法發出駁斥，表示這種說法沒有法律依據，並引用民法與刑",
+  "category": "亞太",
+  "tags": [
+   "亞太",
+   "即時新聞",
+   "社交"
+  ]
+ },
+ {
+  "id": 562284,
+  "date": "2026-11-19T18:28:10",
+  "link": "https://www.blocktempo.com/starbucks-korea-hello-kitty-merchandise-sellout-resale-prices-double-seoul/",
+  "title": "韓國星巴克 Hello Kitty 周邊搶光！黃牛價最高翻倍（很良心）",
+  "excerpt": "星巴克韓國 11 月 19 日開賣 Hello Kitty 聯名周邊，門市開門前就有人排隊，部分門市與官方網路",
+  "category": "亞太",
+  "tags": [
+   "亞太",
+   "即時新聞"
+  ]
+ },
+ {
+  "id": 562273,
+  "date": "2026-11-19T18:26:57",
+  "link": "https://www.blocktempo.com/korea-csat-emergency-alert-text-catches-35-hidden-phones-nationwide/",
+  "title": "韓國學測用「國家災難簡訊」抓偷帶手機，全國響三次揪出 35 人",
+  "excerpt": "韓國修能（類似台灣學測）11 月 19 日登場，政府首度用全國性的危急災難簡訊抓考場裡沒交出的手機。簡訊當天發",
+  "category": "亞太",
+  "tags": [
+   "亞太",
+   "即時新聞"
+  ]
+ },
+ {
+  "id": 562285,
+  "date": "2026-11-19T18:20:24",
+  "link": "https://www.blocktempo.com/ultrarunner-onlyfans-one-month-income-tops-first-nike-sponsorship-year/",
+  "title": "美國超馬冠軍開了 OnlyFans，一個月收入贏過 Nike 代言一整年",
+  "excerpt": "44 歲的美國超級馬拉松世界冠軍 Camille Herron 說，她在 OnlyFans 一個月的收入，超過",
+  "category": "社交",
+  "tags": [
+   "即時新聞",
+   "社交",
+   "美國"
+  ]
+ },
+ {
+  "id": 562258,
+  "date": "2026-11-19T17:41:12",
+  "link": "https://www.blocktempo.com/nvidia-kress-all-hands-december-raises-stock-awards-huang-candor/",
+  "title": "NVIDIA 臨時執行長要員工向「錢」看：加薪配股票提前到年底",
+  "excerpt": "輝達臨時執行長 Colette Kress 在黃仁勳辭職後的首次全員大會上要員工「向前看」，並把加薪與額外股票",
+  "category": "AI",
+  "tags": [
+   "AI",
+   "美國"
+  ]
+ },
+ {
+  "id": 562243,
+  "date": "2026-11-19T17:40:08",
+  "link": "https://www.blocktempo.com/musk-nvidia-jensen-huang-ouster-mistake-michael-jordan-dealbook-summit/",
+  "title": "馬斯克：我願意雇用黃仁勳！NVIDIA像把麥可喬丹踢出球隊",
+  "excerpt": "馬斯克美國時間 18 日出席《紐約時報》DealBook 峰會時表示，輝達撤換黃仁勳是錯誤決定，並把黃仁勳比作",
+  "category": "AI",
+  "tags": [
+   "AI",
+   "美國"
+  ]
+ },
+ {
+  "id": 562250,
+  "date": "2026-11-19T17:36:40",
+  "link": "https://www.blocktempo.com/anthropic-tokenized-ant-bnb-chain-perpetuals-trade-above-ipo-price/",
+  "title": "Anthropic 代幣 $ANT 今晚上鏈，合約平均價格已比發行價高 24%",
+  "excerpt": "Anthropic 公告 IPO 定價每股 83 美元，台灣時間今晚在那斯達克掛牌。開盤前，八家加密平台的 A",
+  "category": "AI",
+  "tags": [
+   "AI",
+   "交易所",
+   "市場分析"
+  ]
+ },
+ {
+  "id": 562212,
+  "date": "2026-11-19T16:16:00",
+  "link": "https://www.blocktempo.com/php-critical-security-update-november-19-supported-versions-uncommon-setups/",
+  "title": "站長注意：PHP 今晚 10 點發最高嚴重級安全更新，但不用慌",
+  "excerpt": "又是最高嚴重等級 CRITICAL，但官方說要非預設設定才會中，跟上個月的 PHP2Shell 不同。 （前情",
+  "category": "安全",
+  "tags": [
+   "安全",
+   "技術"
+  ]
+ },
+ {
+  "id": 562198,
+  "date": "2026-11-19T15:27:46",
+  "link": "https://www.blocktempo.com/taiwan-fsc-second-round-short-selling-curbs-securities-lending-cut/",
+  "title": "金管會救市！加碼限空令：跌 3.5% 隔天禁平盤下放空",
+  "excerpt": "加權指數今（19）日收 38,426.89 點，比第一波限空措施宣布當天還低；午後金管會宣布加強限空令力道。",
+  "category": "台灣",
+  "tags": [
+   "台灣",
+   "市場分析",
+   "金融市場"
+  ]
+ },
+ {
+  "id": 562176,
+  "date": "2026-11-19T15:10:24",
+  "link": "https://www.blocktempo.com/ledger-berlin-dubai-nano-gen5-tampered-devices-xray-compensation-unanswered/",
+  "title": "Ledger 改機案擴到柏林，開放 X 光驗機，賠償仍無下文",
+  "excerpt": "Ledger 11 月 18 日更新改機事件調查，範圍從東南亞擴大到柏林與杜拜，首度點名一款受影響型號 Nan",
+  "category": "Ledger 改機風暴：從東南亞燒到杜拜的供應鏈竊案",
+  "tags": [
+   "Ledger 改機風暴：從東南亞燒到杜拜的供應鏈竊案",
+   "安全"
+  ]
+ },
+ {
+  "id": 562166,
+  "date": "2026-11-19T14:27:17",
+  "link": "https://www.blocktempo.com/momo-mo-store-plus-shipping-unauthorized-access-350000-customers-notified/",
+  "title": "momo 旗下 mo店+ 爆資安事件，將通知約 35 萬名顧客防詐",
+  "excerpt": "富邦媒 11 月 19 日發布重大訊息，指旗下 mo店+ 部分訂單出貨資料有疑似未經授權存取的痕跡，未涉及會員",
+  "category": "台灣",
+  "tags": [
+   "台灣",
+   "安全"
+  ]
+ },
+ {
+  "id": 562140,
+  "date": "2026-11-19T13:42:13",
+  "link": "https://www.blocktempo.com/gta6-china-streamers-banned-douyin-bilibili-red-light-censorship-rules/",
+  "title": "GTA6 中國首日連環ban台：273 萬在線房間消失、血須調灰、開車要等紅綠燈",
+  "excerpt": "GTA6 於 11 月 19 日全球發售，中國大陸從未核准該系列上市，直播平台卻在開賣首日連環封禁：女流 66",
+  "category": "中國",
+  "tags": [
+   "中國",
+   "遊戲"
+  ]
+ },
+ {
+  "id": 562137,
+  "date": "2026-11-19T12:50:18",
+  "link": "https://www.blocktempo.com/spv-token-safe-web3-accountability-safte-saft-warrant-crypto-native/",
+  "title": "加密一級投資最大風險：架構切割太狠！出事投資人找不到人",
+  "excerpt": "IOSG指出加密一級投資最大風險不在市場，而在架構本身的可問責性不足，檔案漂亮但最壞情境下投資人找不到責任主體",
+  "category": "加密貨幣市場",
+  "tags": [
+   "加密貨幣市場",
+   "法規"
+  ]
+ },
+ {
+  "id": 562101,
+  "date": "2026-11-19T12:21:28",
+  "link": "https://www.blocktempo.com/standard-chartered-ocbc-straitsx-tokenized-deposit-interoperability-poc-singapore-bloom/",
+  "title": "渣打、OCBC 存款代幣能互通了！StraitsX 共享結算層實測過關",
+  "excerpt": "渣打銀行、OCBC 與 StraitsX 在新加坡金管局 BLOOM 計畫下完成首個跨行存款代幣互通實測，兩家",
+  "category": "加密貨幣市場",
+  "tags": [
+   "加密貨幣市場"
+  ]
+ },
+ {
+  "id": 562103,
+  "date": "2026-11-19T12:21:11",
+  "link": "https://www.blocktempo.com/asml-nvidia-chip-export-controls-match-act-bis-offshore-datacenter-semiconductor-equipment/",
+  "title": "黃仁勳辭職後美國再出重拳：ASML 為何比輝達更先捱打？",
+  "excerpt": "美國商務部11月16日突襲發布臨時最終規則，將離岸AI資料中心的算力租賃視同實體晶片出口。宏觀投研機構Crac",
+  "category": "加密貨幣市場",
+  "tags": [
+   "加密貨幣市場"
+  ]
+ },
+ {
   "id": 562074,
   "date": "2026-11-19T11:36:23",
   "link": "https://www.blocktempo.com/google-gemini-neon-midtier-model-tops-carbon-index-pro-subscribers/",
@@ -91,8 +347,9 @@
   "link": "https://www.blocktempo.com/ledger-hardware-implant-saga-reaches-dubai-virgin-megastore-authorized-retailer/",
   "title": "Ledger 改機案燒到中東！杜拜授權通路買到植入晶片裝置",
   "excerpt": "杜拜授權通路賣出的 Ledger 硬體錢包也驗出植入電路板。兩名買家分別被清空 1,300 枚 SOL 與 5",
-  "category": "即時新聞",
+  "category": "Ledger 改機風暴：從東南亞燒到杜拜的供應鏈竊案",
   "tags": [
+   "Ledger 改機風暴：從東南亞燒到杜拜的供應鏈竊案",
    "即時新聞"
   ]
  },
@@ -6809,260 +7066,6 @@
   "category": "技術",
   "tags": [
    "技術"
-  ]
- },
- {
-  "id": 554958,
-  "date": "2026-11-04T15:00:19",
-  "link": "https://www.blocktempo.com/revolut-self-hosted-glm-cuts-ai-coding-costs-ninety-percent/",
-  "title": "英科技公司 Revolut 改用自架 GLM 寫程式，「比Claude便宜九成」",
-  "excerpt": "英國金融科技公司 Revolut 的 AI 營運負責人 David Abitbol 在紐約 AI Engine",
-  "category": "AI",
-  "tags": [
-   "AI",
-   "技術"
-  ]
- },
- {
-  "id": 554960,
-  "date": "2026-11-04T14:56:46",
-  "link": "https://www.blocktempo.com/rtx-5080-germany-price-surge-china-colorful-galax-november-hike/",
-  "title": "RTX 50 系列 11 月還要漲一次？中國板卡廠本週漲價",
-  "excerpt": "中國通路消息，中國板卡廠本週調漲 RTX 50 系列價格，中國特供版 RTX 5090D v2 最多漲 3,3",
-  "category": "AI",
-  "tags": [
-   "AI",
-   "技術"
-  ]
- },
- {
-  "id": 555068,
-  "date": "2026-11-04T14:54:19",
-  "link": "https://www.blocktempo.com/bitunix-pc-ultra-replay-feature-historical-chart-trading-practice-demo/",
-  "title": "Bitunix 推出 PC Ultra 重播功能，讓交易者透過歷史行情練習交易",
-  "excerpt": "Bitunix 在 PC 端 Ultra 合約交易推出「重播」功能，交易者可在歷史圖表上自行選定起始時間點，逐",
-  "category": "加密貨幣市場",
-  "tags": [
-   "加密貨幣市場"
-  ]
- },
- {
-  "id": 554962,
-  "date": "2026-11-04T14:15:35",
-  "link": "https://www.blocktempo.com/youtuber-claims-plane-doppler-sound-adsb-data-pinpoints-recording-location/",
-  "title": "「影片有飛機飛過」就能用 AI 推算地點？YouTuber：精準到100公尺內",
-  "excerpt": "據 YouTube 頻道 colsto 的影片，錄音裡若有飛機飛過，再對照公開的 ADS-B 航班定位資料，就",
-  "category": "安全",
-  "tags": [
-   "安全",
-   "技術"
-  ]
- },
- {
-  "id": 554734,
-  "date": "2026-11-04T14:13:50",
-  "link": "https://www.blocktempo.com/binance-dprk-hack-fake-interview-ai-tool-eip-7702-63-billion/",
-  "title": "幣安工程師被北韓駭客「假面試」騙過！盜走63億美元內幕",
-  "excerpt": "幣安於11月3日公布10月29日安全事件初步調查報告，揭露北韓駭客透過假招募員工、惡意軟體與被入侵的內部AI工",
-  "category": "交易所",
-  "tags": [
-   "交易所",
-   "安全"
-  ]
- },
- {
-  "id": 555058,
-  "date": "2026-11-04T14:11:44",
-  "link": "https://www.blocktempo.com/binance-63-4-billion-hack-internal-ai-agent-exploited-mace-thestreet-analysis/",
-  "title": "Mace AI 創辦人揭露：駭客策反幣安內部 AI 代理竊走 63.4 億美元",
-  "excerpt": "Mace AI 創辦人 Walton Comer 在 TheStreet 專欄指出，幣安 63.4 億美元遭竊",
-  "category": "安全",
-  "tags": [
-   "安全"
-  ]
- },
- {
-  "id": 554967,
-  "date": "2026-11-04T13:47:53",
-  "link": "https://www.blocktempo.com/meiji-kinokonoyama-wireless-earbuds-pro-makuake-crowdfunding-130-million-yen/",
-  "title": "明治巧克力「香菇山耳機 Pro 」募資平台 3 天破 1.3 億日圓",
-  "excerpt": "日本國民零食明治巧克力餅乾「香菇山」造型的無線耳機推出第二代 Pro，這個月開放募資。三天就破了 1.3 億日",
-  "category": "AI",
-  "tags": [
-   "AI",
-   "亞太"
-  ]
- },
- {
-  "id": 554946,
-  "date": "2026-11-04T12:34:03",
-  "link": "https://www.blocktempo.com/toyz-prison-release-threads-post-millions-views-fans-still-support/",
-  "title": "Toyz 出獄發兩個字就破 330 萬，網友為何不討厭流量製造機？",
-  "excerpt": "因為販賣大麻菸彈服刑約兩年半的 Toyz（劉偉健），11 月 3 日假釋出獄、遣返香港，當晚只發「報數」兩字就",
-  "category": "台灣",
-  "tags": [
-   "台灣",
-   "社交"
-  ]
- },
- {
-  "id": 554951,
-  "date": "2026-11-04T11:44:47",
-  "link": "https://www.blocktempo.com/canva-restructure-impacts-1271-staff-perkins-memo-omits-ai-costs/",
-  "title": "AI 害的？Canva 成長十年來首度放緩，22% 員工面臨裁員或調職",
-  "excerpt": "Canva 宣布組織重整，1,271 人、約 22% 員工受影響，裁員人數未公布。員工信只說成長放緩與新科技，",
-  "category": "AI",
-  "tags": [
-   "AI",
-   "亞太"
-  ]
- },
- {
-  "id": 554945,
-  "date": "2026-11-04T11:30:53",
-  "link": "https://www.blocktempo.com/hyperliquid-whale-shorts-anthropic-preipo-perpetuals-anth-ant-6x-leverage/",
-  "title": "巨鯨做空Anthropic上市前合約，空單加到2,546萬鎂",
-  "excerpt": "一個 Hyperliquid 地址正以 6 倍槓桿做空 Anthropic 上市前合約。11 月 4 日上午",
-  "category": "AI",
-  "tags": [
-   "AI",
-   "defi",
-   "金融市場"
-  ]
- },
- {
-  "id": 554904,
-  "date": "2026-11-04T10:54:27",
-  "link": "https://www.blocktempo.com/apple-watch-live-rewind-siri-recap-beta-conversation-summaries-privacy/",
-  "title": "Apple Watch 開始幫你記對話：「即時倒轉」與「Siri 重點回顧」進入測試，隱私呢？",
-  "excerpt": "蘋果在美國時間 11 月 3 日把 Apple Watch 的「即時倒轉」與「Siri 重點回顧」放進開發者",
-  "category": "AI",
-  "tags": [
-   "AI",
-   "技術"
-  ]
- },
- {
-  "id": 554878,
-  "date": "2026-11-04T10:46:57",
-  "link": "https://www.blocktempo.com/shotwell-spacex-president-donates-two-million-shares-trump-accounts-december/",
-  "title": "SpaceX 總裁捐出 200 萬股！12 月進川普帳戶送小孩",
-  "excerpt": "SpaceX 總裁暨營運長 Gwynne Shotwell 與丈夫 Robert Shotwell 捐出的逾",
-  "category": "美國",
-  "tags": [
-   "美國",
-   "金融市場"
-  ]
- },
- {
-  "id": 554877,
-  "date": "2026-11-04T10:45:15",
-  "link": "https://www.blocktempo.com/kim-yo-jong-binance-hack-second-statement-dialogue-national-interest/",
-  "title": "金與正：美國指控幣安是北韓駭的，就沒必要坐下來談",
-  "excerpt": "據 韓聯社，北韓領導人金正恩的妹妹金與正 4 日再透過朝中社就幣安遭駭案發表聲明，這是她第二度回應此案。她表示",
-  "category": "交易所",
-  "tags": [
-   "交易所",
-   "安全"
-  ]
- },
- {
-  "id": 554899,
-  "date": "2026-11-04T10:44:51",
-  "link": "https://www.blocktempo.com/nvidia-requires-cloud-clients-sell-majority-services-non-chinese-customers/",
-  "title": "輝達傳要求雲端客戶：新合約至少 51% 服務不要賣給中國公司",
-  "excerpt": "《金融時報》引述五名知情人士報導，輝達要求雲端客戶，新合約至少 51% 的服務要賣給非中國公司，中國客戶最多占",
-  "category": "AI",
-  "tags": [
-   "AI",
-   "中國",
-   "管制"
-  ]
- },
- {
-  "id": 554887,
-  "date": "2026-11-04T10:43:02",
-  "link": "https://www.blocktempo.com/asian-chip-stocks-fall-democrats-lead-midterms-nasdaq-futures-drop/",
-  "title": "民主期中開票領先！台日韓股市走低，恐懼美國縮減亞洲投資",
-  "excerpt": "據路透社報導，美國期中選舉 11 月 3 日開票，民主黨初步領先，美股期貨週三亞洲時段走低。台灣時間上午 10",
-  "category": "亞太",
-  "tags": [
-   "亞太",
-   "美國",
-   "金融市場"
-  ]
- },
- {
-  "id": 554874,
-  "date": "2026-11-04T10:41:01",
-  "link": "https://www.blocktempo.com/goldman-sachs-limits-claude-code-github-engineers-traders-bankers-frustrated/",
-  "title": "高盛限縮員工用 Claude Code！只剩工程師能用、交易員不爽",
-  "excerpt": "彭博報導，高盛 10 月更新內部指引，Anthropic 的 Claude Code 與微軟旗下的 GitHu",
-  "category": "AI",
-  "tags": [
-   "AI",
-   "銀行"
-  ]
- },
- {
-  "id": 554873,
-  "date": "2026-11-04T10:39:22",
-  "link": "https://www.blocktempo.com/prediction-markets-democrats-sweep-congress-99-cooper-flips-north-carolina/",
-  "title": "預測市場：99% 機率民主黨會橫掃參眾兩院 ，北卡翻下第一席參院",
-  "excerpt": "據 Predict.fun 盤面，美國期中選舉開票後，民主黨同時拿下參眾兩院的機率升到 99%。投票日下午，P",
-  "category": "美國",
-  "tags": [
-   "即時新聞",
-   "美國"
-  ]
- },
- {
-  "id": 554762,
-  "date": "2026-11-04T10:07:17",
-  "link": "https://www.blocktempo.com/open-standard-ousd-payment-fee-cap-partner-equity-earn-in-pool/",
-  "title": "Stripe 新穩定幣 OUSD 收費曝光：每筆手續費最高 $0.01、儲備收益全回饋夥伴",
-  "excerpt": "OUSD 收費表曝光：單筆支付 1,000 美元以上一律收 0.01 美元，儲備收益幾乎全數回饋夥伴，Open",
-  "category": "市場分析",
-  "tags": [
-   "即時新聞",
-   "市場分析"
-  ]
- },
- {
-  "id": 554826,
-  "date": "2026-11-04T09:45:40",
-  "link": "https://www.blocktempo.com/poll-us-voters-crypto-impression-democrats-midterms-2026/",
-  "title": "民調：近2/3美國選民對加密貨幣印象差，民主黨最反感",
-  "excerpt": "一份今年 4 月執行的全美民調顯示，849 名作答的登記選民中有 533 人對加密產業印象偏差、僅 316 人",
-  "category": "法規",
-  "tags": [
-   "即時新聞",
-   "法規"
-  ]
- },
- {
-  "id": 554837,
-  "date": "2026-11-04T09:42:44",
-  "link": "https://www.blocktempo.com/btc-holds-77k-eth-2276-election-chips-fear-index-rebounds/",
-  "title": "比特幣持穩7.7萬鎂、以太坊站回$2,276，美股晶片股反彈、恐慌指數回升",
-  "excerpt": "比特幣持穩 7.7 萬鎂、以太坊站回 2,276 鎂，美股晶片股反彈帶動資金小幅修復，恐慌指數回升至 34、仍",
-  "category": "市場分析",
-  "tags": [
-   "即時新聞",
-   "市場分析"
-  ]
- },
- {
-  "id": 554772,
-  "date": "2026-11-04T03:27:14",
-  "link": "https://www.blocktempo.com/justin-sun-seeks-sanctions-wlfi-uae-citizenship-disclosure/",
-  "title": "孫宇晨聲請制裁 WLFI 及其律師！控隱瞞阿聯籍、想把官司踢出聯邦法院",
-  "excerpt": "孫宇晨要求加州聯邦法院制裁 World Liberty Financial 及其律師，指控這家川普家族加密公司",
-  "category": "法規",
-  "tags": [
-   "即時新聞",
-   "法規",
-   "美國"
   ]
  }
 ]
