@@ -1,5 +1,303 @@
 [
  {
+  "id": 562074,
+  "date": "2026-11-19T11:36:23",
+  "link": "https://www.blocktempo.com/google-gemini-neon-midtier-model-tops-carbon-index-pro-subscribers/",
+  "title": "Google 推出 Gemini 4 Neon 跑分贏旗艦模型，Pro 訂閱就能用",
+  "excerpt": "Google 推出中階模型 Gemini 4 Neon，Pro 訂閱者就能用，第三方指數 61 分略高於旗艦",
+  "category": "AI",
+  "tags": [
+   "AI"
+  ]
+ },
+ {
+  "id": 562071,
+  "date": "2026-11-19T11:02:47",
+  "link": "https://www.blocktempo.com/fed-minutes-waller-december-hikes-warsh-guidance-ai-bubble-risk/",
+  "title": "Fed 十月會議紀錄：幾乎全員主張續升息，沃勒喊 12 月一次升 2 碼",
+  "excerpt": "Fed 10 月會議紀錄顯示，幾乎所有官員都認為還要再升息，爭議在 12 月到底該升 1 碼還是 2 碼；紀錄",
+  "category": "央行",
+  "tags": [
+   "央行",
+   "市場分析",
+   "美國"
+  ]
+ },
+ {
+  "id": 562029,
+  "date": "2026-11-19T10:33:32",
+  "link": "https://www.blocktempo.com/bofa-nand-spot-prices-plunge-consumer-enterprise-ssd-dram-diverge/",
+  "title": "消費級 NAND 價格一個月跌 20%，手機、筆電會變便宜嗎？",
+  "excerpt": "美銀報告指出，手機、筆電用的消費級 NAND 快閃記憶體現貨價，從 10 月中下旬起約一個月跌了 20%；不過",
+  "category": "市場分析",
+  "tags": [
+   "市場分析",
+   "技術"
+  ]
+ },
+ {
+  "id": 562031,
+  "date": "2026-11-19T10:25:28",
+  "link": "https://www.blocktempo.com/nvidia-gentlemen-ransomware-claims-countdown-samples-missing-third-party-partner/",
+  "title": "勒索組織喊已入侵輝達，Nvidia 說自家系統沒事",
+  "excerpt": "勒索組織 The Gentlemen 把輝達列上外洩站、倒數 10 天，但目前拿不出任何樣本；輝達則說是在處理",
+  "category": "AI",
+  "tags": [
+   "AI",
+   "安全"
+  ]
+ },
+ {
+  "id": 562022,
+  "date": "2026-11-19T10:14:49",
+  "link": "https://www.blocktempo.com/anthropic-ipo-priced-83-dollars-raises-81-billion-tops-spacex/",
+  "title": "Anthropic 上市(IPO)定價 83 美元高於預期，募資額 813 億美元超越 SpaceX",
+  "excerpt": "Anthropic 18 日以每股 83 美元為 IPO 定價，高於 70 至 78 美元區間，IPO 募資",
+  "category": "AI",
+  "tags": [
+   "AI",
+   "美國",
+   "金融市場"
+  ]
+ },
+ {
+  "id": 562012,
+  "date": "2026-11-19T10:07:56",
+  "link": "https://www.blocktempo.com/musk-admits-feeling-foolish-republican-midterm-spending-474-million-democrats/",
+  "title": "馬斯克砸 4.7 億美元挺共和黨慘敗：覺得自己很蠢，重來會少花",
+  "excerpt": "馬斯克在《紐約時報》DealBook 峰會上承認，砸大錢挺共和黨沒換到成果，覺得自己蠢，重來會少花。紐時統計他",
+  "category": "美國",
+  "tags": [
+   "即時新聞",
+   "美國"
+  ]
+ },
+ {
+  "id": 562014,
+  "date": "2026-11-19T10:04:03",
+  "link": "https://www.blocktempo.com/taiwan-stocks-lose-40k-nvidia-supply-chain-limit-down-kospi/",
+  "title": "台股下殺千點失守 4 萬點，輝達 AI 供應鏈多檔跌停",
+  "excerpt": "台股今（19）日盤中失守 4 萬點，櫃買指數跌逾 5%，跌停股集中在輝達伺服器供應鏈；輝達財報優於預期，股價卻",
+  "category": "台灣",
+  "tags": [
+   "台灣",
+   "市場分析",
+   "金融市場"
+  ]
+ },
+ {
+  "id": 561558,
+  "date": "2026-11-19T09:47:35",
+  "link": "https://www.blocktempo.com/ledger-hardware-implant-saga-reaches-dubai-virgin-megastore-authorized-retailer/",
+  "title": "Ledger 改機案燒到中東！杜拜授權通路買到植入晶片裝置",
+  "excerpt": "杜拜授權通路賣出的 Ledger 硬體錢包也驗出植入電路板。兩名買家分別被清空 1,300 枚 SOL 與 5",
+  "category": "即時新聞",
+  "tags": [
+   "即時新聞"
+  ]
+ },
+ {
+  "id": 561934,
+  "date": "2026-11-19T09:25:47",
+  "link": "https://www.blocktempo.com/binance-6-5b-freezing-order-abu-dhabi-court-blockchain-notice/",
+  "title": "幣安取得 65 億美元全球凍結令！阿布達比法院準用鏈上送達",
+  "excerpt": "幣安取得阿布達比全球市場法院核發的全球凍結令，涵蓋 65 億美元，並可對約 2.6 萬個錢包地址鏈上送達法律通",
+  "category": "法規",
+  "tags": [
+   "法規"
+  ]
+ },
+ {
+  "id": 561923,
+  "date": "2026-11-19T09:25:36",
+  "link": "https://www.blocktempo.com/bitcoin-bearish-phase-cryptoquant-value-zone-demand-contraction-bottom-signal/",
+  "title": "比特幣重返熊市！CryptoQuant：已進價值區，但底部仍未到",
+  "excerpt": "鏈上分析機構 CryptoQuant 指出，比特幣已跌破 200 日與 365 日均線，技術面重返熊市區間；總",
+  "category": "比特幣",
+  "tags": [
+   "比特幣"
+  ]
+ },
+ {
+  "id": 561940,
+  "date": "2026-11-19T09:24:59",
+  "link": "https://www.blocktempo.com/sp-holds-usdt-weakest-rating-tether-big-short-swipe/",
+  "title": "標普維持 USDT 最低評級！Tether 回嗆《大賣空》",
+  "excerpt": "標普全球評級 11 月 18 日發布最新穩定幣穩定性評估，USDT 維持在量表最低的 5 分（弱），與 202",
+  "category": "穩定幣",
+  "tags": [
+   "穩定幣"
+  ]
+ },
+ {
+  "id": 561946,
+  "date": "2026-11-19T09:23:44",
+  "link": "https://www.blocktempo.com/kraken-payward-buys-ceo-tribe-capital-ai-private-markets/",
+  "title": "Kraken 母公司收購執行長創投 Tribe！搶進 AI 私募市場",
+  "excerpt": "Kraken 母公司 Payward 收購共同執行長 Arjun Sethi 擔任董事長的創投 Tribe C",
+  "category": "市場分析",
+  "tags": [
+   "市場分析"
+  ]
+ },
+ {
+  "id": 561950,
+  "date": "2026-11-19T09:23:37",
+  "link": "https://www.blocktempo.com/senators-treasury-genius-act-state-stablecoin-issuer-safe-harbor/",
+  "title": "參議員致函財政部！要 GENIUS Act 給州級穩定幣商同等安全港",
+  "excerpt": "美國 6 位跨黨派參議員聯名致函財政部長 Bessent，要求《GENIUS Act》落實細則在 2028 年",
+  "category": "穩定幣",
+  "tags": [
+   "穩定幣"
+  ]
+ },
+ {
+  "id": 561963,
+  "date": "2026-11-19T09:23:20",
+  "link": "https://www.blocktempo.com/coinbase-ventures-ai-agentic-trading-stack-investment-thesis-four-layers/",
+  "title": "AI 智慧體開始替你炒股炒幣，但真正賺錢的不是交易機器人？",
+  "excerpt": "AI 代理不再只是聊天機器人，而是開始直接替你下單、管倉位、盯風險。Coinbase Ventures 拆解這",
+  "category": "AI",
+  "tags": [
+   "AI"
+  ]
+ },
+ {
+  "id": 561970,
+  "date": "2026-11-19T09:16:46",
+  "link": "https://www.blocktempo.com/morning-roundup-btc-62k-fear-index-10-extreme-panic/",
+  "title": "比特幣爆跌近 6.2 萬鎂！恐懼指數 10 極度恐慌，美股道瓊連五日落",
+  "excerpt": "比特幣 24 小時下跌 2.35% 逼近 6.2 萬美元防線，以太坊同步下滑 1.8%，恐懼與貪婪指數降至 1",
+  "category": "市場分析",
+  "tags": [
+   "市場分析"
+  ]
+ },
+ {
+  "id": 561915,
+  "date": "2026-11-19T02:04:34",
+  "link": "https://www.blocktempo.com/citi-cuts-bitcoin-ether-targets-etf-demand-weakens/",
+  "title": "花旗看淡加密後市！比特幣目標價砍至 99,532 美元、以太幣降至 2,838 美元",
+  "excerpt": "花旗下修比特幣與以太幣的基本情境目標價，分別降至 99,532 美元及 2,838 美元。策略師 Alex S",
+  "category": "加密貨幣市場",
+  "tags": [
+   "加密貨幣市場"
+  ]
+ },
+ {
+  "id": 561895,
+  "date": "2026-11-19T01:41:43",
+  "link": "https://www.blocktempo.com/polymarket-us-short-duration-oil-natural-gas-markets/",
+  "title": "Polymarket 短天期合約衝破 10 億鎂！下一步瞄準原油、天然氣",
+  "excerpt": "Polymarket US 宣布把加密市場的短天期漲跌合約擴充套件到原油與天然氣，加密版本上線六週已累積逾 1",
+  "category": "市場分析",
+  "tags": [
+   "即時新聞",
+   "市場分析"
+  ]
+ },
+ {
+  "id": 561906,
+  "date": "2026-11-19T01:39:49",
+  "link": "https://www.blocktempo.com/openai-amd-chip-design-ppa-improvement/",
+  "title": "OpenAI 用 AI 改良 AMD 晶片設計：不到 5 個月讓 PPA 最高改善 14%",
+  "excerpt": "OpenAI 公布 AI 輔助晶片設計進展，稱與 AMD 合作，在不到 5 個月內讓旗艦 GPU IP 的功耗",
+  "category": "Openai",
+  "tags": [
+   "Openai"
+  ]
+ },
+ {
+  "id": 561896,
+  "date": "2026-11-19T01:33:06",
+  "link": "https://www.blocktempo.com/bpc-us-debt-limit-february-march-2027/",
+  "title": "BPC 估美國明年 2 至 3 月觸及 41.1 兆美元債務上限！現金與非常措施可再撐 6 至 9 個月",
+  "excerpt": "美國智庫 BPC 預估，若國會未採取行動，聯邦政府很可能在 2027 年 2 至 3 月觸及 41.1 兆美元",
+  "category": "美國",
+  "tags": [
+   "美國"
+  ]
+ },
+ {
+  "id": 561883,
+  "date": "2026-11-19T00:10:35",
+  "link": "https://www.blocktempo.com/us-stocks-intraday-nov18-2026-nvidia-opening-rally-fades/",
+  "title": "美股盤中》道瓊跌逾 600 點，輝達開高翻黑、那指漲勢蒸發",
+  "excerpt": "美股開盤後的科技股反彈未能延續，道瓊跌逾 600 點，標普 500 與那指也轉跌。輝達由早盤上漲約 2.7%",
+  "category": "即時新聞",
+  "tags": [
+   "即時新聞"
+  ]
+ },
+ {
+  "id": 561876,
+  "date": "2026-11-18T23:48:16",
+  "link": "https://www.blocktempo.com/anthropic-ipo-demand-500-billion-offering-upsize/",
+  "title": "Anthropic IPO 意向認購達 5,000 億美元！傳擬上調 IPO 價格至 80 美元以上，台北 19 日清晨定價",
+  "excerpt": "Anthropic IPO 據報吸引近 5,000 億美元意向認購，公司正考慮擴大發行，並將價格訂在每股 80",
+  "category": "Anthropic",
+  "tags": [
+   "Anthropic"
+  ]
+ },
+ {
+  "id": 561871,
+  "date": "2026-11-18T23:32:01",
+  "link": "https://www.blocktempo.com/variational-series-b-110-million-valuation-1-5-billion/",
+  "title": "Perp DEX 新成員》Variational 完成 1.1 億美元 B 輪融資！估值達 15 億美元",
+  "excerpt": "Variational 完成 1.1 億美元 B 輪融資，估值達 15 億美元，由 Bain Capital",
+  "category": "即時新聞",
+  "tags": [
+   "即時新聞"
+  ]
+ },
+ {
+  "id": 561853,
+  "date": "2026-11-18T22:11:34",
+  "link": "https://www.blocktempo.com/bitcoin-k33-bottom-signals-glassnode-62k-support/",
+  "title": "比特幣連 6 週收黑！K33 看比特幣局部築底訊號浮現，Glassnode 緊盯 6.2 萬美元防線",
+  "excerpt": "比特幣連 6 週收黑後，K33 認為局部築底訊號浮現，並看好 7 萬美元以下的進場價位。Glassnode 同",
+  "category": "市場分析",
+  "tags": [
+   "市場分析",
+   "投資分析"
+  ]
+ },
+ {
+  "id": 561828,
+  "date": "2026-11-18T22:05:30",
+  "link": "https://www.blocktempo.com/dbs-circle-usdc-institutional-mint-redeem-bank-rails-asia/",
+  "title": "星展銀行 DBS 聯手 Circle！機構客戶可直接鑄造贖回 USDC",
+  "excerpt": "新加坡星展銀行與 Circle 擴大合作，合資格機構客戶可直接在銀行通路鑄造與贖回 USDC，即時結算、全天候",
+  "category": "市場分析",
+  "tags": [
+   "即時新聞",
+   "市場分析"
+  ]
+ },
+ {
+  "id": 561845,
+  "date": "2026-11-18T21:53:08",
+  "link": "https://www.blocktempo.com/nvidia-directors-huang-return-ceo-succession-semafor/",
+  "title": "Nvidia 董事會傳分歧：3 名董事仍推動黃仁勳回鍋，接班人遴選同步進行",
+  "excerpt": "輝達董事會傳出分歧，3 名董事仍推動黃仁勳回任，但公司公開立場仍是無意讓他復職。接班遴選同步進行，Arm 與",
+  "category": "即時新聞",
+  "tags": [
+   "即時新聞"
+  ]
+ },
+ {
+  "id": 561837,
+  "date": "2026-11-18T21:33:08",
+  "link": "https://www.blocktempo.com/k3-sbold-vault-exploit-blockaid-contracts-paused/",
+  "title": "K3 Capital 旗下 sBOLD 金庫遭駭 343 萬美元被盜！官方緊急暫停合約",
+  "excerpt": "Blockaid 通報，K3 Capital 的 sBOLD 金庫遭攻擊，約 343 萬美元資金流出，涉及約",
+  "category": "安全",
+  "tags": [
+   "安全"
+  ]
+ },
+ {
   "id": 561831,
   "date": "2026-11-18T21:21:05",
   "link": "https://www.blocktempo.com/anthropic-ipo-morningstar-new-street-seaport-cfra-valuations/",
@@ -6765,315 +7063,6 @@
    "即時新聞",
    "法規",
    "美國"
-  ]
- },
- {
-  "id": 554795,
-  "date": "2026-11-04T03:24:24",
-  "link": "https://www.blocktempo.com/okxice-56-tokenized-stock-objections-tesla-amazon-spacex/",
-  "title": "特斯拉、Amazon、Netflix 等 6 家再拒 OKXICE 代幣化股票！美股七巨頭已有五家說不",
-  "excerpt": "特斯拉、Amazon、Netflix、SpaceX 等 6 家發行人再拒經 OKXICE 代幣化股份，反對名單",
-  "category": "RWA",
-  "tags": [
-   "RWA",
-   "美國"
-  ]
- },
- {
-  "id": 554780,
-  "date": "2026-11-04T03:11:51",
-  "link": "https://www.blocktempo.com/prediction-markets-democrats-sweep-2026-midterms-crypto-oversight/",
-  "title": "預測市場押民主黨橫掃國會！眾院勝率 94%、參院 76%",
-  "excerpt": "美國期中選舉投票日，預測市場一面倒押注民主黨將同時拿下參、眾兩院，Polymarket 給出參院 76%、眾院",
-  "category": "法規",
-  "tags": [
-   "即時新聞",
-   "法規",
-   "美國"
-  ]
- },
- {
-  "id": 554750,
-  "date": "2026-11-04T03:04:34",
-  "link": "https://www.blocktempo.com/dan-koe-lucrative-ai-attention-business-one-person-creative-team/",
-  "title": "Dan Koe 最新 X 長文：2027 最賺錢的 AI 生意，是「捕獲注意力」",
-  "excerpt": "創作者經濟作者 Dan Koe（@thedankoe）在 X Article 中寫道，2027 年最有利可圖的",
-  "category": "獨立觀點",
-  "tags": [
-   "獨立觀點"
-  ]
- },
- {
-  "id": 554745,
-  "date": "2026-11-04T00:15:17",
-  "link": "https://www.blocktempo.com/mercado-bitcoin-36m-security-incident-update-frozen-129m/",
-  "title": "巴西最大加密交易所 Mercado Bitcoin 更新被盜事件：受影響資金約 3,630 萬美元，已凍結 1,290 萬",
-  "excerpt": "巴西加密交易所 Mercado Bitcoin 於台北時間 11 月 3 日晚間更新資安事件進度，指受影響資產",
-  "category": "加密貨幣市場",
-  "tags": [
-   "加密貨幣市場"
-  ]
- },
- {
-  "id": 554737,
-  "date": "2026-11-04T00:11:24",
-  "link": "https://www.blocktempo.com/heyi-binance-57-north-korea-cyber-threats/",
-  "title": "何一：幣安 2026 年已擋下 57 起疑似北韓攻擊，假面試與惡意開發工具是主軸",
-  "excerpt": "幣安共同創辦人暨共同執行長何一於台北時間 11 月 3 日晚間在 X 指出，2026 年全年幣安資安團隊已偵測",
-  "category": "幣安史上最大駭案！63 億美元是怎麼被搬走的？",
-  "tags": [
-   "幣安史上最大駭案！63 億美元是怎麼被搬走的？"
-  ]
- },
- {
-  "id": 554726,
-  "date": "2026-11-04T00:00:20",
-  "link": "https://www.blocktempo.com/anthropic-flashprove-provable-inference-zksnark/",
-  "title": "Anthropic 開源 FlashProve：把幣圈常用的 zkSNARK 零知識證明搬進 AI 推理",
-  "excerpt": "Anthropic 前沿紅隊於台北時間 11 月 2 日發布開源原型 FlashProve：把加密貨幣領域常用",
-  "category": "Anthropic",
-  "tags": [
-   "Anthropic"
-  ]
- },
- {
-  "id": 554721,
-  "date": "2026-11-03T23:04:40",
-  "link": "https://www.blocktempo.com/binance-october29-security-incident-initial-findings/",
-  "title": "幣安發布 63.4 億鎂駭案初報：已凍結 28.5 億美元、代幣回填 98%！FBI 點名北韓是主謀",
-  "excerpt": "幣安於台北時間 11 月 3 日晚間在官方 X 發布 10 月 29 日安全事件初報，指約 63.4 億美元數",
-  "category": "交易所",
-  "tags": [
-   "交易所",
-   "幣安史上最大駭案！63 億美元是怎麼被搬走的？"
-  ]
- },
- {
-  "id": 554646,
-  "date": "2026-11-03T22:53:24",
-  "link": "https://www.blocktempo.com/bitcoin-fifth-weekly-loss-midterms-apple-warning-ada-breakdown/",
-  "title": "比特幣恐連五週收黑！期中選舉、蘋果警訊夾殺風險資產",
-  "excerpt": "比特幣本週恐寫下連續第五週收黑，並列史上第三長的週線連跌紀錄；美國期中選舉同日登場，油價、蘋果財報警訊與貴金屬",
-  "category": "加密貨幣市場",
-  "tags": [
-   "加密貨幣市場",
-   "即時新聞"
-  ]
- },
- {
-  "id": 554714,
-  "date": "2026-11-03T22:38:06",
-  "link": "https://www.blocktempo.com/cftc-selig-equity-perpetual-futures-us-debut/",
-  "title": "美國 CFTC 放開美股永續合約！Michael Selig：永續期貨從加密延伸到傳統證券",
-  "excerpt": "美國商品期貨交易委員會（CFTC）主席 Michael S. Selig 於台北時間 11 月 3 日晚間聲明",
-  "category": "美國",
-  "tags": [
-   "美國"
-  ]
- },
- {
-  "id": 554696,
-  "date": "2026-11-03T21:39:52",
-  "link": "https://www.blocktempo.com/ethgas-institutional-blockspace-ethereum-wall-street-banks-zero-penalty/",
-  "title": "ETHGas 向華爾街賣以太坊區塊空間！但驗證者跳票零賠償",
-  "excerpt": "ETHGas 正把以太坊區塊空間包裝成可事先預訂的資產賣給華爾街，銀行能自行挑選驗證者、並在交易送出前完成制裁",
-  "category": "區塊鏈商業應用",
-  "tags": [
-   "區塊鏈商業應用",
-   "即時新聞",
-   "市場分析"
-  ]
- },
- {
-  "id": 554693,
-  "date": "2026-11-03T21:17:46",
-  "link": "https://www.blocktempo.com/blackrock-moves-702m-btc-eth-to-coinbase-prime/",
-  "title": "貝萊德大倒貨？一小時內轉逾 7 億美元 BTC、ETH 進 Coinbase Prime",
-  "excerpt": "貝萊德（BlackRock）在過去一小時內，將合計約 7.02 億美元的比特幣與以太坊轉入 Coinbase",
-  "category": "加密貨幣市場",
-  "tags": [
-   "加密貨幣市場"
-  ]
- },
- {
-  "id": 554688,
-  "date": "2026-11-03T20:41:53",
-  "link": "https://www.blocktempo.com/qatar-us-iran-36h-proposal-feedback/",
-  "title": "路透：美伊預計 36 小時內對一項「推進談判」新提案做出回覆",
-  "excerpt": "卡達調停方預計將在 36 小時內收到美國與伊朗對一項「推進談判」新提案的回饋，知情官員向路透透露；雙方目前都在",
-  "category": "即時新聞",
-  "tags": [
-   "即時新聞"
-  ]
- },
- {
-  "id": 554669,
-  "date": "2026-11-03T20:21:18",
-  "link": "https://www.blocktempo.com/binance-net-inflows-turn-positive-after-hack-withdrawals-resume/",
-  "title": "幣安資金流正式由負轉正！24 小時淨流入 23 億美元、終結 70 億提款潮",
-  "excerpt": "幣安在 63 億美元竊案後恢復提款，24 小時內錄得約 23 億美元淨流入，一舉扭轉週一超過 70 億美元的淨",
-  "category": "交易所",
-  "tags": [
-   "交易所",
-   "即時新聞",
-   "市場分析",
-   "幣安史上最大駭案！63 億美元是怎麼被搬走的？"
-  ]
- },
- {
-  "id": 554681,
-  "date": "2026-11-03T20:16:28",
-  "link": "https://www.blocktempo.com/cz-talking-tokens-first-interview-after-binance-hackcz-talking-tokens-first-interview-after-binance-hack/",
-  "title": "幣安遭駭後 CZ 首次訪談：快速表態擋恐慌、SAFU 資金買單，AI 安全攻防已成常態",
-  "excerpt": "幣安創辦人趙長鵬（CZ）於台北時間 11 月 3 日傍晚，在 Talking Tokens 主持人 Jacqu",
-  "category": "幣安史上最大駭案！63 億美元是怎麼被搬走的？",
-  "tags": [
-   "幣安史上最大駭案！63 億美元是怎麼被搬走的？"
-  ]
- },
- {
-  "id": 554636,
-  "date": "2026-11-03T19:44:27",
-  "link": "https://www.blocktempo.com/tether-ardoino-reveals-150000-bitcoin-holdings-beyond-reserve-report/",
-  "title": "Tether 自曝持有 15 萬枚比特幣！較儲備報告多 5 萬枚、值 115 億美元",
-  "excerpt": "穩定幣發行商 Tether 執行長 Paolo Ardoino 在瑞士盧加諾透露，公司自己持有約 15 萬枚比",
-  "category": "加密貨幣市場",
-  "tags": [
-   "加密貨幣市場",
-   "即時新聞"
-  ]
- },
- {
-  "id": 554620,
-  "date": "2026-11-03T18:49:09",
-  "link": "https://www.blocktempo.com/gpt6-astra-edits-qwen-weights-math-score-fixing-reasoning-loops/",
-  "title": "GPT-6 Astra 幫 Qwen「開腦」？修改 0.016% 權重後，數學跳 6 倍",
-  "excerpt": "MIT 團隊請 GPT-6 Astra 直接改 Qwen3.5-0.8B 的權重，數學分數從 7.9% 升到",
-  "category": "AI",
-  "tags": [
-   "AI",
-   "技術"
-  ]
- },
- {
-  "id": 554627,
-  "date": "2026-11-03T18:39:44",
-  "link": "https://www.blocktempo.com/sinopac-bank-face-scan-verified-transfers-biometric-security-unanswered-questions/",
-  "title": "沒開 App 卻顯示「刷臉通過」？永豐四千萬盜轉案戳破生物辨識安全感",
-  "excerpt": "永豐銀行今日 419 名客戶帳戶遭異常轉出 4,000 多萬元，部分交易紀錄寫著「臉部掃描確認」。永豐稱是新網",
-  "category": "台灣",
-  "tags": [
-   "台灣",
-   "安全",
-   "銀行"
-  ]
- },
- {
-  "id": 554602,
-  "date": "2026-11-03T18:27:24",
-  "link": "https://www.blocktempo.com/us-midterm-election-stock-market-bitcoin-iosg-data-analysis-returns/",
-  "title": "歷史說美股期中選舉後必漲，但比特幣得先熬過一段下殺",
-  "excerpt": "1950 年以來 19 次美國中期選舉後一年，標普 500 全部上漲，平均漲 15.1%；比特幣三個完整週期的",
-  "category": "即時新聞",
-  "tags": [
-   "即時新聞"
-  ]
- },
- {
-  "id": 554529,
-  "date": "2026-11-03T17:43:27",
-  "link": "https://www.blocktempo.com/anthropic-usage-policy-high-risk-advice-physical-hardware-deceptive-campaigns/",
-  "title": "Claude 新規將上路：投資,醫療,法律建議、灌 AI 搜尋都屬高風險行為",
-  "excerpt": "Anthropic 新版使用政策將於 11 月 12 日生效。除了已知的禁止虐待模型與禁止轉售訂閱，改寫幅度最",
-  "category": "AI",
-  "tags": [
-   "AI",
-   "法規"
-  ]
- },
- {
-  "id": 554582,
-  "date": "2026-11-03T17:08:16",
-  "link": "https://www.blocktempo.com/bitcoin-implied-volatility-term-structure-midterm-elections-options-hedging/",
-  "title": "比特幣波動率曲線明顯拉高！交易員押期中選舉短暫震盪，忙買保險",
-  "excerpt": "美國期中選舉週二登場，比特幣選擇權的隱含波動率期限結構在選後到期日明顯隆起，反映交易員預期開票期間會有一波短暫",
-  "category": "市場分析",
-  "tags": [
-   "即時新聞",
-   "市場分析"
-  ]
- },
- {
-  "id": 554563,
-  "date": "2026-11-03T15:08:52",
-  "link": "https://www.blocktempo.com/sinopac-bank-users-report-unauthorized/",
-  "title": "快訊》永豐盜轉受害者：銀行通知今天就會把錢匯回，原因還在調查中",
-  "excerpt": "根據最新消息，永豐銀行似乎已通知今早遭遇盜轉的用戶，會在今天把錢轉回來並包含手續費，官方還在調查中。 （背景補",
-  "category": "銀行",
-  "tags": [
-   "銀行"
-  ]
- },
- {
-  "id": 554535,
-  "date": "2026-11-03T13:31:05",
-  "link": "https://www.blocktempo.com/sinopac-bank-users-report-unauthorized-100000-transfers-face-verification-unconfirmed/",
-  "title": "永豐銀行驚傳盜轉！多名帳戶今早莫名轉出 10 萬，官方尚未證實",
-  "excerpt": "多名永豐銀行用戶今日在社群指稱，自己沒有操作，帳戶卻在今早轉出 10 萬元到富邦銀行的帳戶。目前永豐官方尚未公",
-  "category": "安全",
-  "tags": [
-   "即時新聞",
-   "安全",
-   "銀行"
-  ]
- },
- {
-  "id": 554523,
-  "date": "2026-11-03T13:10:28",
-  "link": "https://www.blocktempo.com/capytistas-anonymous-group-publishes-musk-tesla-executives-home-addresses-doxing/",
-  "title": "肉搜億萬富豪！匿名組織公開馬斯克、特斯拉董事 32 處住址，揚言下一批更多",
-  "excerpt": "自稱 Capytistas 的匿名組織 11 月 2 日架站，公開與馬斯克、特斯拉董事會及高管有關的資料，組織",
-  "category": "安全",
-  "tags": [
-   "即時新聞",
-   "安全",
-   "美國"
-  ]
- },
- {
-  "id": 554403,
-  "date": "2026-11-03T12:29:21",
-  "link": "https://www.blocktempo.com/disney-weighs-thousands-layoffs-managers-target-twenty-percent-cost-savings/",
-  "title": "迪士尼傳將裁員數千人，要求部分主管每年省下 20% 成本",
-  "excerpt": "彭博引述知情人士報導，迪士尼考慮裁員數千人，並要求部分主管以每年省下 20% 成本為目標。 （前情提要：迪士尼",
-  "category": "美國",
-  "tags": [
-   "即時新聞",
-   "美國"
-  ]
- },
- {
-  "id": 554490,
-  "date": "2026-11-03T12:14:12",
-  "link": "https://www.blocktempo.com/ark-invest-buys-coinbase-circle-robinhood-sells-bullish/",
-  "title": "女股神逢低加倉，Ark 買入 660 萬鎂 Coinbase、Circle 與 Robinhood 股票",
-  "excerpt": "「女股神」Cathie Wood 掌舵的方舟投資週一同步加碼 Coinbase、Circle 與 Robinh",
-  "category": "市場分析",
-  "tags": [
-   "即時新聞",
-   "市場分析"
-  ]
- },
- {
-  "id": 554460,
-  "date": "2026-11-03T11:34:51",
-  "link": "https://www.blocktempo.com/intel-shares-drop-again-foundry-lacks-major-customer-yoffie-spinoff/",
-  "title": "英特爾 Intel 週一再跌 8.8%，前董事主張把燒錢的代工分拆出去",
-  "excerpt": "英特爾週一再跌 8.80%，兩天累計跌 34.9%，跌幅明顯大於費半與那斯達克。市場焦點轉向五年砸下 1,08",
-  "category": "美國",
-  "tags": [
-   "美國",
-   "金融市場"
   ]
  }
 ]
