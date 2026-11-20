@@ -1,5 +1,238 @@
 [
  {
+  "id": 562601,
+  "date": "2026-11-20T11:34:37",
+  "link": "https://www.blocktempo.com/openai-chatgpt-accounting-plugin-quickbooks-xero-invoices-reconciliation-permissions-approval/",
+  "title": "ChatGPT 會計外掛要來了：代開發票、對帳，核准還是人",
+  "excerpt": "OpenAI 推出 ChatGPT 會計外掛，能連進 QuickBooks、Xero 等軟體擬分錄、開發票草稿",
+  "category": "AI",
+  "tags": [
+   "AI"
+  ]
+ },
+ {
+  "id": 562650,
+  "date": "2026-11-20T11:13:42",
+  "link": "https://www.blocktempo.com/mitrade-lottery-campaign-deposit-trading-tasks-iphone-gold-bar-cash/",
+  "title": "100% 中獎！Mitrade 抽最高 2,000 美元現金、iPhone 18、金條（倒數兩週）",
+  "excerpt": "Mitrade 推出「入金·交易·抽獎」活動，每人最多可抽 16 次。三種大獎是 2,000 美元現金、iPh",
+  "category": "交易所",
+  "tags": [
+   "交易所",
+   "金融市場"
+  ]
+ },
+ {
+  "id": 562571,
+  "date": "2026-11-20T10:50:16",
+  "link": "https://www.blocktempo.com/claude-linked-billing-third-party-apps-without-sharing-api-keys/",
+  "title": "Claude 推出不必交 API 金鑰的連結計費，首批 19 家第三方工具支援",
+  "excerpt": "在第三方工具用 Claude，現在改成連結自己的 Claude Platform 組織、帳就可記在自己身上，金",
+  "category": "AI",
+  "tags": [
+   "AI",
+   "技術"
+  ]
+ },
+ {
+  "id": 562636,
+  "date": "2026-11-20T10:39:17",
+  "link": "https://www.blocktempo.com/usde-rebound-whale-health-factor-liquidation-ena-buyback-2027-ethena-looping/",
+  "title": "USDe 反彈全靠一個巨鯨？健康因子 1.02 瀕臨清算，ENA 回購恐延至 2027",
+  "excerpt": "Ethena 旗下合成美元 USDe 在 10 月劇烈波動，流通量單月縮水 7.4%，11 月卻靠單一巨鯨在",
+  "category": "穩定幣",
+  "tags": [
+   "穩定幣"
+  ]
+ },
+ {
+  "id": 562621,
+  "date": "2026-11-20T10:38:56",
+  "link": "https://www.blocktempo.com/hong-kong-hkma-agentic-ai-anti-money-laundering-stablecoins/",
+  "title": "香港金管局想養 AI 代理抓洗錢！穩定幣佔非法資金 84%",
+  "excerpt": "香港金管局正研究用代理式人工智慧同時分析鏈上轉帳與鏈下客戶交易，鎖定資金在加密貨幣與法幣之間快速分層移轉的異常",
+  "category": "法規",
+  "tags": [
+   "法規"
+  ]
+ },
+ {
+  "id": 562586,
+  "date": "2026-11-20T10:35:24",
+  "link": "https://www.blocktempo.com/korea-leet-perfect-scorer-ai-cheating-suspicion-police-continue-probe/",
+  "title": "被疑用 AI 作弊的韓國法學院考試滿分者，直播驗證當天身亡",
+  "excerpt": "韓國 LEET 史上首位全科滿分者被質疑用 AI 作弊，原定直播解題自證清白，卻在驗證當天被發現身亡。他生前否",
+  "category": "AI",
+  "tags": [
+   "AI",
+   "亞太"
+  ]
+ },
+ {
+  "id": 562459,
+  "date": "2026-11-20T10:30:24",
+  "link": "https://www.blocktempo.com/moonpay-seeks-occ-national-trust-bank-charter-stablecoin-custody/",
+  "title": "MoonPay 搶進聯邦信託銀行！穩定幣發行、託管全包",
+  "excerpt": "加密支付商 MoonPay 向美國貨幣監理署遞件，申請設立全國性信託銀行，將在聯邦監理下承作穩定幣發行與贖回、",
+  "category": "法規",
+  "tags": [
+   "即時新聞",
+   "法規"
+  ]
+ },
+ {
+  "id": 562605,
+  "date": "2026-11-20T10:14:53",
+  "link": "https://www.blocktempo.com/google-stitch-loop-agent-fixes-live-products-gemini-carbon-codemender/",
+  "title": "Google 新推 Stitch Loop：產品上線後還繼續找漏洞、修問題",
+  "excerpt": "Google Labs 推出實驗產品 Stitch Loop，這個 AI 代理在產品上線後持續盯線上數字、找問",
+  "category": "AI",
+  "tags": [
+   "AI",
+   "技術"
+  ]
+ },
+ {
+  "id": 562464,
+  "date": "2026-11-20T10:10:21",
+  "link": "https://www.blocktempo.com/robinhood-kalshi-stock-trading-mizuho-130-target-non-sports-volume/",
+  "title": "Robinhood 不怕 Kalshi 賣股！Mizuho 喊 130 美元",
+  "excerpt": "Mizuho 在與 Robinhood 執行長 Vlad Tenev、財務長 Shiv Verma 會面後，重",
+  "category": "市場分析",
+  "tags": [
+   "市場分析"
+  ]
+ },
+ {
+  "id": 562553,
+  "date": "2026-11-20T09:57:27",
+  "link": "https://www.blocktempo.com/taiwan-stocks-plunge-ai-server-limit-down-short-curbs-fail/",
+  "title": "殺！台股重挫逾 2,000 點，AI 伺服器股跌停、限空令 2.0 撐不住",
+  "excerpt": "台股今（20）日盤中一度重挫逾 2,000 點、跌破 11 月 6 日盤中低點，櫃買指數跌逾 7%，跌停集中在",
+  "category": "台灣",
+  "tags": [
+   "台灣",
+   "市場分析",
+   "金融市場"
+  ]
+ },
+ {
+  "id": 562549,
+  "date": "2026-11-20T09:50:32",
+  "link": "https://www.blocktempo.com/amd-hunterbrook-short-seller-ieit-firmware-export-controls-china-blacklist/",
+  "title": "做空機構點名 AMD 韌體流進中國黑名單廠商，超微重挫 7.7%",
+  "excerpt": "做空機構旗下的媒體指稱，AMD 的新版韌體在美國把中國伺服器商 IEIT 列入黑名單後，仍出現在對方的產品更新",
+  "category": "AI",
+  "tags": [
+   "AI",
+   "管制",
+   "美國"
+  ]
+ },
+ {
+  "id": 562468,
+  "date": "2026-11-20T09:50:19",
+  "link": "https://www.blocktempo.com/world-bank-group-circle-citi-usdc-fund-disbursement-pilot/",
+  "title": "世界銀行聯手 Circle、花旗！USDC 撥款 96 國開測",
+  "excerpt": "世界銀行集團宣布與花旗、Circle 合作，測試以受監管的美元穩定幣 USDC 撥付開發資金，把區塊鏈支付軌道",
+  "category": "穩定幣",
+  "tags": [
+   "穩定幣"
+  ]
+ },
+ {
+  "id": 562448,
+  "date": "2026-11-20T09:23:16",
+  "link": "https://www.blocktempo.com/trump-sec-nominee-johnson-tokenized-stocks-formal-rulemaking/",
+  "title": "川普 SEC 提名委員挺代幣化股票立法！豁免該進公告評論程序",
+  "excerpt": "美國參議院銀行委員會週四審查川普提名的兩席 SEC 委員人選。民主黨提名人、前 CFTC 委員 Kristin",
+  "category": "法規",
+  "tags": [
+   "法規"
+  ]
+ },
+ {
+  "id": 562445,
+  "date": "2026-11-20T09:22:44",
+  "link": "https://www.blocktempo.com/sky-usds-market-cap-drop-poloniex-psm-withdrawal-north-korea/",
+  "title": "北韓報告後 15 億美元撤出！Sky USDS 市值蒸發三成",
+  "excerpt": "風險公司 Inca Digital 的鏈上調查曝光後，超過 15 億美元的 USDC 自週四起撤出 Sky 的",
+  "category": "市場分析",
+  "tags": [
+   "市場分析"
+  ]
+ },
+ {
+  "id": 562474,
+  "date": "2026-11-20T09:21:31",
+  "link": "https://www.blocktempo.com/crypto-unicorn-2021-valuations-secondary-market-discounts-fireblocks-visa/",
+  "title": "2021 世代加密獨角獸打對折！次級市場折價最高 90%",
+  "excerpt": "2021 至 2022 年募資的加密獨角獸，如今在次級市場普遍以最後一輪估值 50% 至 70% 的折價交易，",
+  "category": "市場分析",
+  "tags": [
+   "市場分析"
+  ]
+ },
+ {
+  "id": 562493,
+  "date": "2026-11-20T09:21:12",
+  "link": "https://www.blocktempo.com/hyundai-card-kinexys-ai-agent-treasury-fx-poc/",
+  "title": "AI 代理自己換匯！現代汽車 Card 在 Kinexys 完成實測",
+  "excerpt": "現代汽車集團旗下信用卡公司 Hyundai Card 與摩根大通區塊鏈部門 Kinexys 完成概念驗證，讓",
+  "category": "AI",
+  "tags": [
+   "AI"
+  ]
+ },
+ {
+  "id": 562486,
+  "date": "2026-11-20T09:20:50",
+  "link": "https://www.blocktempo.com/ledger-cto-charles-guillemet-leave-nine-years-security/",
+  "title": "Ledger 技術長宣布年底離職！待滿九年：AI 讓攻擊變便宜",
+  "excerpt": "Ledger 技術長 Charles Guillemet 宣布 2026 年底離職，結束自 2017 年 12",
+  "category": "安全",
+  "tags": [
+   "安全"
+  ]
+ },
+ {
+  "id": 562485,
+  "date": "2026-11-20T09:16:48",
+  "link": "https://www.blocktempo.com/btc-dip-62k-us-stocks-crash-2-anthropic-ipo-fear-rises/",
+  "title": "比特幣崩跌 6.14 萬鎂、美股崩 2%！Anthropic 上市恐慌續回升",
+  "excerpt": "比特幣今晨續跌至 6.21 萬美元，美股崩 2% 道瓊跌破 5 萬點，Anthropic 上市觸發「sell-",
+  "category": "市場分析",
+  "tags": [
+   "市場分析"
+  ]
+ },
+ {
+  "id": 562377,
+  "date": "2026-11-19T22:04:56",
+  "link": "https://www.blocktempo.com/blackrock-ibit-bitcoin-holdings-breakdown-strategy-government-quarterly-custody-comparison/",
+  "title": "貝萊德（BlackRock）持有多少比特幣？IBIT 完整持倉解析",
+  "excerpt": "貝萊德旗下 IBIT 在 2026 年 11 月 13 日持有 783,448.30 枚 BTC。這約占比特幣",
+  "category": "市場分析",
+  "tags": [
+   "市場分析",
+   "比特幣",
+   "金融市場"
+  ]
+ },
+ {
+  "id": 562390,
+  "date": "2026-11-19T22:04:52",
+  "link": "https://www.blocktempo.com/binance-adgm-onchain-ipo-nest-exchange-bstocks-sovereign-capital-listing/",
+  "title": "Principia Research 研報》從離岸交易所到鏈上納斯達克",
+  "excerpt": "幣安在阿布達比國際金融中心（ADGM）設有交易所、清算存管、券商與發行四個實體。幣安 6 月的 SpaceX",
+  "category": "交易所",
+  "tags": [
+   "交易所",
+   "市場分析",
+   "金融市場"
+  ]
+ },
+ {
   "id": 562364,
   "date": "2026-11-19T21:34:37",
   "link": "https://www.blocktempo.com/hyperliquid-hong-kong-sfc-alert-list-suspicious-unlicensed-trading-platform/",
@@ -6829,243 +7062,6 @@
   "category": "美國",
   "tags": [
    "美國"
-  ]
- },
- {
-  "id": 555266,
-  "date": "2026-11-04T21:09:27",
-  "link": "https://www.blocktempo.com/fortune-democrats-house-wlfi-cz-pardon-probe/",
-  "title": "《財富》：民主黨奪眾院後川普 WLFI 恐成首批調查對象，趙長鵬獲赦免也將受審",
-  "excerpt": "民主黨拿下眾議院後，預計出任監督委員會主席的 Robert Garcia 放出兩字警告「Lawyer up」；",
-  "category": "美國",
-  "tags": [
-   "美國"
-  ]
- },
- {
-  "id": 555261,
-  "date": "2026-11-04T21:05:24",
-  "link": "https://www.blocktempo.com/riot-platforms-sold-20264-btc-fund-data-centers/",
-  "title": "礦企 Riot Platforms 前三季賣 20,264 枚 BTC 套現 15 億美元！資金主攻 AI 資料中心",
-  "excerpt": "美股上市礦企 Riot Platforms 今年前九個月累計出售 20,264 枚比特幣，套現約 15 億美元",
-  "category": "挖礦",
-  "tags": [
-   "挖礦",
-   "比特幣"
-  ]
- },
- {
-  "id": 555254,
-  "date": "2026-11-04T20:53:02",
-  "link": "https://www.blocktempo.com/paraguay-ueno-bank-national-crisis-spreads/",
-  "title": "巴拉圭數位銀行 Ueno Bank 倒閉擴散成全國危機：總統取消外訪、央行總裁請辭、13 檔共同基金凍結",
-  "excerpt": "巴拉圭數位銀行 Ueno Bank 遭央行接管不到一天，危機已從單一銀行擴散成全國金融與政治風暴：共同基金凍結",
-  "category": "銀行",
-  "tags": [
-   "銀行"
-  ]
- },
- {
-  "id": 555249,
-  "date": "2026-11-04T20:25:32",
-  "link": "https://www.blocktempo.com/he-yi-binance-security-access-management-criticism/",
-  "title": "何一回應幣安安全與權限管理問題：接受批評與建議、歡迎 AI 資安人才加入",
-  "excerpt": "幣安共同創辦人暨共同執行長何一於台北時間 11 月 4 日晚間發文，公開接受外界對幣安「安全和權限管理」的批評",
-  "category": "幣安史上最大駭案！63 億美元是怎麼被搬走的？",
-  "tags": [
-   "幣安史上最大駭案！63 億美元是怎麼被搬走的？"
-  ]
- },
- {
-  "id": 555245,
-  "date": "2026-11-04T20:07:53",
-  "link": "https://www.blocktempo.com/circle-q3-2026-earnings-usdc-arc-presale/",
-  "title": "Circle Q3 財報》營收 8.65 億美元年增 17%、EBITDA 大增 85%，ARC 預售撐住其他營收",
-  "excerpt": "Circle 公布第三季財報，總營收與準備金收入達 8.65 億美元、年增 17%，調整後 EBITDA 衝上",
-  "category": "穩定幣",
-  "tags": [
-   "穩定幣"
-  ]
- },
- {
-  "id": 555217,
-  "date": "2026-11-04T19:37:16",
-  "link": "https://www.blocktempo.com/democrats-congress-garcia-lawyer-up-wyden-subpoenas-trump-family-investigations/",
-  "title": "民主黨奪回國會，川普家族的加密 WLFI 大機率被動刀",
-  "excerpt": "美國期中選舉後，NBC、CNN 推估民主黨奪回國會。眾議院監督委員會首席民主黨成員羅伯特·加西亞發出「Lawy",
-  "category": "法規",
-  "tags": [
-   "法規",
-   "美國"
-  ]
- },
- {
-  "id": 555230,
-  "date": "2026-11-04T19:27:45",
-  "link": "https://www.blocktempo.com/anthropic-claude-chip-design-ipo-investors-synopsys-cadence-shares-drop/",
-  "title": "Anthropic強調「Claude能做晶片設計」，正向IPO投資人吹風",
-  "excerpt": "據 The Information 獨家報導，Anthropic 正向 IPO 投資人強調 Claude 的晶",
-  "category": "AI",
-  "tags": [
-   "AI",
-   "技術",
-   "金融市場"
-  ]
- },
- {
-  "id": 555224,
-  "date": "2026-11-04T19:24:37",
-  "link": "https://www.blocktempo.com/sinopac-bank-blames-hackers-vendor-security-setting-418-customers-refunded/",
-  "title": "永豐董事長道歉！解釋「盜轉案」是駭客利用供應商系統入侵",
-  "excerpt": "永豐銀行 11 月 4 日晚間召開記者會，董事長曹為實與總經理莊銘福鞠躬致歉。銀行表示，經內部調查是外部駭客利",
-  "category": "台灣",
-  "tags": [
-   "台灣",
-   "安全",
-   "銀行"
-  ]
- },
- {
-  "id": 555128,
-  "date": "2026-11-04T19:06:41",
-  "link": "https://www.blocktempo.com/postman-desktop-auto-installs-codex-claude-code-plugins-hook-approval/",
-  "title": "開發工具 Postman 會自動幫 AI 代理裝外掛，不需開發者批准同意",
-  "excerpt": "測試 API 用的開發工具 Postman 被使用者在 GitHub 回報，桌面版升級後自動把外掛裝進 Cod",
-  "category": "AI",
-  "tags": [
-   "AI",
-   "安全",
-   "技術"
-  ]
- },
- {
-  "id": 555129,
-  "date": "2026-11-04T19:05:34",
-  "link": "https://www.blocktempo.com/data-centers-retired-jet-engines-power-grid-delays-xai-crusoe/",
-  "title": "AI 資料中心等不到電，改用「飛機噴射引擎」燒天然氣發電",
-  "excerpt": "電網接電與新渦輪機都要排隊好幾年，美國部分 AI 資料中心改用退役客機的噴射引擎燒天然氣發電。xAI 已在密西",
-  "category": "AI",
-  "tags": [
-   "AI",
-   "美國"
-  ]
- },
- {
-  "id": 555125,
-  "date": "2026-11-04T19:03:33",
-  "link": "https://www.blocktempo.com/tesla-korea-consumers-misled-fsd-kftc-complaint-china-made-vehicles/",
-  "title": "特斯拉在南韓爆集體控訴：去年新車 99% 不能合法開 FSD，還收訂閱費",
-  "excerpt": "路透獨家報導，南韓消費者團體「消費者主權市民會議」預計 11 月 5 日向公平交易委員會提出申訴，指控特斯拉明",
-  "category": "亞太",
-  "tags": [
-   "亞太",
-   "法規"
-  ]
- },
- {
-  "id": 554961,
-  "date": "2026-11-04T18:38:11",
-  "link": "https://www.blocktempo.com/religious-foundation-cryptocurrency-taiwan-money-laundering-official-risk-assessment-donglin/",
-  "title": "宗教法人＋加密貨幣，是台灣洗錢最強組合技？",
-  "excerpt": "據 宜蘭地檢署新聞稿與多家媒體報導，宜蘭冬山鄉東林寺張姓住持父子涉嫌侵占信眾捐款，並以購買黃金、白銀與虛擬貨幣",
-  "category": "台灣",
-  "tags": [
-   "台灣",
-   "法規",
-   "犯罪"
-  ]
- },
- {
-  "id": 555176,
-  "date": "2026-11-04T18:35:07",
-  "link": "https://www.blocktempo.com/cz-heyi-amplify-analysis-hostile-posts-binance-hack-coordinated-accounts/",
-  "title": "CZ、何一轉發「匿名長文」：幣安遭駭被網軍上萬貼文惡意攻擊",
-  "excerpt": "幣安遭駭後，X 帳號 @immrape 發布長文，稱有 1,083 個帳號在約 78 小時內發出 1.17 萬",
-  "category": "交易所",
-  "tags": [
-   "交易所",
-   "社交"
-  ]
- },
- {
-  "id": 555591,
-  "date": "2026-11-04T18:15:23",
-  "link": "https://www.blocktempo.com/rwai-ai-custom-manufacturing-raises-eight-million-dollars-funding-round/",
-  "title": "AI 驅動的定製製造平臺 RWAI 宣佈完成 800 萬美元融資",
-  "excerpt": "AI 驅動的客製化製造平台 RWAI 宣布完成 800 萬美元融資，由 Amber、UOB Venture 等",
-  "category": "加密貨幣市場",
-  "tags": [
-   "加密貨幣市場"
-  ]
- },
- {
-  "id": 555150,
-  "date": "2026-11-04T16:45:58",
-  "link": "https://www.blocktempo.com/trump-democrats-congress-veto-lame-duck-midterms-clarity-act-crypto/",
-  "title": "民主黨大勝，川普會變跛腳總統嗎？對加密貨幣是利空？",
-  "excerpt": "美國期中選舉開票，民主黨在參院已拿下 54 席、眾院推估 255 席，將從 2027 年 1 月起掌控國會。但",
-  "category": "法規",
-  "tags": [
-   "法規",
-   "美國"
-  ]
- },
- {
-  "id": 554966,
-  "date": "2026-11-04T16:33:31",
-  "link": "https://www.blocktempo.com/washington-dc-tavern-receipt-gratuity-service-fee-card-surcharge-reddit/",
-  "title": "美國小費高達 29%！網友秀收據「小費、服務費、刷卡費」收好收滿",
-  "excerpt": "美國華盛頓的網友貼出自己去酒吧的收據，36.98 美元的啤酒與三明治，被加收 20% 自動小費、6% 服務費與",
-  "category": "美國",
-  "tags": [
-   "美國"
-  ]
- },
- {
-  "id": 554959,
-  "date": "2026-11-04T16:28:49",
-  "link": "https://www.blocktempo.com/google-schools-search-gemini-ai-default-off-nyc-mayor-mamdani/",
-  "title": "紐約市長「生生禁AI」政策，讓Google校園版拔掉搜尋功能",
-  "excerpt": "據 Google 官方部落格，Google 將把 K-12 學生帳號的 Gemini 與 Google 搜尋改",
-  "category": "AI",
-  "tags": [
-   "AI",
-   "美國"
-  ]
- },
- {
-  "id": 554965,
-  "date": "2026-11-04T16:21:17",
-  "link": "https://www.blocktempo.com/south-korea-illegal-lending-prevention-loan-delinquency-rate-44-percent/",
-  "title": "韓國政府借錢給弱勢，超過 4 成人不還",
-  "excerpt": "韓國國會議員朴大出辦公室公開的金融委員會資料顯示，韓國政府為了讓低信用民眾不必找地下錢莊而推出的小額貸款，今年",
-  "category": "亞太",
-  "tags": [
-   "亞太",
-   "金融市場"
-  ]
- },
- {
-  "id": 554963,
-  "date": "2026-11-04T16:18:18",
-  "link": "https://www.blocktempo.com/germany-gta-online-course-bildungsurlaub-paid-education-leave-sold-out/",
-  "title": "德國進修班拿 GTA 當教材「能請帶薪假」，瞬間搶光",
-  "excerpt": "德國進修平台 Dein Bildungsurlaub 推出以 GTA 等開放世界遊戲為教材的 3 天線上課「O",
-  "category": "遊戲",
-  "tags": [
-   "即時新聞",
-   "遊戲"
-  ]
- },
- {
-  "id": 555015,
-  "date": "2026-11-04T15:06:09",
-  "link": "https://www.blocktempo.com/disc-image-studio-open-source-burn-pictures-cd-dvd-bluray/",
-  "title": "爺爺，舊光碟有用了！一般燒錄機就能在光碟上畫圖",
-  "excerpt": "Disc Image Studio 是一位中國開發者在 GitHub 開源的工具，只要用一般燒錄機和空白 CD",
-  "category": "技術",
-  "tags": [
-   "技術"
   ]
  }
 ]
