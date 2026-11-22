@@ -1,5 +1,30 @@
 [
  {
+  "id": 563283,
+  "date": "2026-11-22T10:23:41",
+  "link": "https://www.blocktempo.com/kraken-cad-pairs-bitcoin-mispricing-24250-executed-trades-stand-canada/",
+  "title": "比特幣打三折！Kraken 加幣盤 BTC 最低「錯價至 1.7 萬美元」，官方：成交有效",
+  "excerpt": "交易所 Kraken 的加幣交易對在 11 月 21 日出現約 14 小時錯價，BTC/CAD 最低 24,2",
+  "category": "交易所",
+  "tags": [
+   "交易所",
+   "即時新聞",
+   "比特幣"
+  ]
+ },
+ {
+  "id": 563277,
+  "date": "2026-11-22T09:56:33",
+  "link": "https://www.blocktempo.com/bitcoin-bounces-60k-ethereum-1680-nasdaq-crash-10-fear-11/",
+  "title": "比特幣反彈站上 6 萬、以太坊回 1,680 鎂！市場仍處極度恐懼",
+  "excerpt": "比特幣站回 6 萬美元，以太坊同步回穩至 1,683 美元，但上週五美股全面崩跌——那斯達克單日重挫 5.28",
+  "category": "市場分析",
+  "tags": [
+   "即時新聞",
+   "市場分析"
+  ]
+ },
+ {
   "id": 563200,
   "date": "2026-11-21T16:42:05",
   "link": "https://www.blocktempo.com/musk-previews-tesla-fsd-v15-wide-release-next-month/",
@@ -7022,32 +7047,6 @@
   "excerpt": "Sony 新推出的 MDR-3R 售價 59.99 美元，外型照搬 1979 年隨初代 Walkman 推出的",
   "category": "技術",
   "tags": [
-   "技術"
-  ]
- },
- {
-  "id": 556076,
-  "date": "2026-11-06T10:55:33",
-  "link": "https://www.blocktempo.com/taiwan-stocks-plunge-fsc-short-selling-curbs-national-stabilization-fund/",
-  "title": "金管會下午祭穩定股市措施！彭金隆：已獲院長指示、台股 V 轉回四萬點",
-  "excerpt": "行政院長卓榮泰指示金管會穩定股市，主委彭金隆說下午開專案會議、公布措施，是否為限空令尚未鬆口。 （前情提要：台",
-  "category": "台灣",
-  "tags": [
-   "台灣",
-   "市場分析",
-   "金融市場"
-  ]
- },
- {
-  "id": 556040,
-  "date": "2026-11-06T10:23:25",
-  "link": "https://www.blocktempo.com/openssh-musl-alpine-password-bypass-star-account-login-emergency-patch/",
-  "title": "Linux 伺服器十年老漏洞曝光：密碼亂打一長串就能登入，修補已推出",
-  "excerpt": "OpenSSH 10.6p2 緊急修補 musl 系統上的密碼驗證繞過漏洞，沒設密碼的帳號會被超長密碼直接登入",
-  "category": "AI",
-  "tags": [
-   "AI",
-   "安全",
    "技術"
   ]
  }
