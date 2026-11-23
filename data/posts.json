@@ -1,5 +1,104 @@
 [
  {
+  "id": 563626,
+  "date": "2026-11-23T10:52:55",
+  "link": "https://www.blocktempo.com/trump-xi-joint-ai-guardrails-details-unannounced-data-centers-chips/",
+  "title": "川普稱與習近平同意建立 AI 共同護欄，範圍與時程均未公布",
+  "excerpt": "川普上週五從中國返美後說，他與習近平同意就 AI 建立共同護欄，與他過去反對監管的立場不同。但護欄涵蓋什麼、何",
+  "category": "AI",
+  "tags": [
+   "AI"
+  ]
+ },
+ {
+  "id": 563617,
+  "date": "2026-11-23T09:56:56",
+  "link": "https://www.blocktempo.com/bessent-jensen-huang-nvidia-outside-return-megaspeed-compliance-answers-pending/",
+  "title": "貝森特談黃仁勳回任輝達：他已是外部人士，先看責任落在哪層",
+  "excerpt": "美國財政部長貝森特被問到川普說黃仁勳應該復職，回「黃仁勳現在就是外部的人了」，沒有背書也沒有排除回任，只說要先",
+  "category": "AI",
+  "tags": [
+   "AI"
+  ]
+ },
+ {
+  "id": 563557,
+  "date": "2026-11-23T09:32:27",
+  "link": "https://www.blocktempo.com/gold-price-crash-10-percent-margin-call-liquidity-crisis-ai-unwind-tether/",
+  "title": "誰說黃金一定避險？AI 股災追繳潮讓金價單週慘崩 10%",
+  "excerpt": "金價單週重挫約 10%，與科技股同步遭拋售。當 AI 交易退潮觸發跨資產追繳保證金，傳統避險資產淪為市場籌資的",
+  "category": "市場分析",
+  "tags": [
+   "市場分析"
+  ]
+ },
+ {
+  "id": 563561,
+  "date": "2026-11-23T09:31:40",
+  "link": "https://www.blocktempo.com/ubs-bitcoin-gold-hedge-geopolitical-risk-family-office-diversification-liquidity/",
+  "title": "地緣風暴怎麼保住財富？UBS 潑冷水：別押單一資產，比特幣還算不上避險",
+  "excerpt": "UBS 報告顯示，64% 家族辦公室最擔憂地緣衝突，但僅 24% 配置加密資產，且佔比僅 1%。比特幣與黃金相",
+  "category": "加密貨幣市場",
+  "tags": [
+   "加密貨幣市場"
+  ]
+ },
+ {
+  "id": 563497,
+  "date": "2026-11-23T09:24:57",
+  "link": "https://www.blocktempo.com/bitcoin-quantum-migration-exposed-public-keys-custodians-bridges/",
+  "title": "量子電腦還沒來先頭痛！比特幣 600 萬枚公鑰曝險、遷移卡關",
+  "excerpt": "量子電腦目前還無法攻破比特幣網路，但要把數百萬枚比特幣搬到抗量子簽章保護的地址，並讓經手這些幣的交易所、託管商",
+  "category": "比特幣",
+  "tags": [
+   "比特幣"
+  ]
+ },
+ {
+  "id": 563504,
+  "date": "2026-11-23T09:24:19",
+  "link": "https://www.blocktempo.com/openai-anthropic-aaif-agentic-ai-standards-payments-identity/",
+  "title": "OpenAI、Anthropic 聯手推 AI 代理共同標準",
+  "excerpt": "OpenAI、Anthropic、Google、微軟等業者支持的代理式 AI 基金會（AAIF），正為 AI",
+  "category": "AI",
+  "tags": [
+   "AI"
+  ]
+ },
+ {
+  "id": 563514,
+  "date": "2026-11-23T09:22:32",
+  "link": "https://www.blocktempo.com/trump-second-memecoin-dinner-token-down-99-percent-seat-518/",
+  "title": "川普二度辦迷因幣晚宴！川普幣距高點崩 98.8%",
+  "excerpt": "美國總統川普週日晚間二度為川普幣（TRUMP）大戶設宴，但入場門檻已崩到只剩 518 美元，遠低於 2025",
+  "category": "加密貨幣市場",
+  "tags": [
+   "加密貨幣市場"
+  ]
+ },
+ {
+  "id": 563520,
+  "date": "2026-11-23T09:20:35",
+  "link": "https://www.blocktempo.com/fusionist-ace-bridge-mint-exploit-traders-drain-5-7-million/",
+  "title": "Fusionist 跨鏈橋遭印鈔攻擊！5,370 萬枚 ACE 儲備被搬光",
+  "excerpt": "Fusionist 在 BNB Chain 上的 ACE 跨鏈橋遭濫用特權增發：攻擊者兩個半小時內把發行量從",
+  "category": "加密貨幣市場",
+  "tags": [
+   "加密貨幣市場"
+  ]
+ },
+ {
+  "id": 563529,
+  "date": "2026-11-23T09:18:37",
+  "link": "https://www.blocktempo.com/morning-roundup-btc-61290-eth-1720-fear-11-stocks-crash/",
+  "title": "比特幣反彈重回「6.14萬鎂」以太坊回升1,720！極度恐懼與美股崩跌夾擊",
+  "excerpt": "今（23）日比特幣在週末反彈站上 6.1 萬美元，單日漲幅約 1.8%，以太坊同步回升至 1,720 美元，漲",
+  "category": "市場分析",
+  "tags": [
+   "市場分析"
+  ]
+ },
+ {
   "id": 563436,
   "date": "2026-11-22T17:38:07",
   "link": "https://www.blocktempo.com/chainflip-revised-12m-hack-loss-offers-10-percent-bounty-deadline/",
@@ -6942,108 +7041,6 @@
   "category": "即時新聞",
   "tags": [
    "即時新聞"
-  ]
- },
- {
-  "id": 556395,
-  "date": "2026-11-06T23:33:20",
-  "link": "https://www.blocktempo.com/sora-aoi-studies-bitcoin-warns-against-fake-crypto-scam/",
-  "title": "蒼井空發文求教加密貨幣：因工作變動最近開始學習加密資產",
-  "excerpt": "日本知名藝人蒼井空於 11 月 5 日公開表示，因工作變動而開始自學比特幣等加密資產，並在社群上向懂行的網友虛",
-  "category": "加密貨幣市場",
-  "tags": [
-   "加密貨幣市場"
-  ]
- },
- {
-  "id": 556381,
-  "date": "2026-11-06T22:53:23",
-  "link": "https://www.blocktempo.com/alphabet-q3-13f-spacex-qualcomm-holdings/",
-  "title": "Google 母公司 Alphabet 最新 13F 報告：SpaceX 佔比近 95% 穩居第一、砸 5.5 億鎂建倉高通",
-  "excerpt": "科技巨頭 Google 母公司 Alphabet 於 11 月 6 日正式向美國證券交易委員會提交 2026",
-  "category": "美國",
-  "tags": [
-   "美國",
-   "金融市場"
-  ]
- },
- {
-  "id": 556377,
-  "date": "2026-11-06T22:39:03",
-  "link": "https://www.blocktempo.com/ios-darksword-exploit-targets-crypto-wallets-certik-alert/",
-  "title": "iPhone 開 Safari 就被盜！iOS 爆 DarkSword 漏洞洗劫加密錢包，CertiK 示警：速更新系統",
-  "excerpt": "知名區塊鏈資安機構 CertiK 於 6 日發出緊急通報，指出名為「DarkSword」的 iOS 漏洞利用工",
-  "category": "安全",
-  "tags": [
-   "安全"
-  ]
- },
- {
-  "id": 556371,
-  "date": "2026-11-06T22:27:19",
-  "link": "https://www.blocktempo.com/tsmc-rumored-to-enter-3d-dram-memory-market/",
-  "title": "台積電傳進軍 3D DRAM 記憶體代工！三星、美光迎新強敵？",
-  "excerpt": "據《The Information》報導，市場傳出晶圓代工龍頭台積電（TSMC）正評估進軍先進記憶體製造領域，",
-  "category": "AI",
-  "tags": [
-   "AI"
-  ]
- },
- {
-  "id": 556359,
-  "date": "2026-11-06T22:11:04",
-  "link": "https://www.blocktempo.com/us-ai-data-center-residential-backlash-midterm-elections/",
-  "title": "美國 AI 資料中心距離居民區有多近？航拍圖曝光「只隔一條街」，24 小時噪音吵到人崩潰",
-  "excerpt": "AI 資料中心距離美國人的日常生活到底有多近？答案是：就隔著一條雙線道馬路。隨著社群平台曝光多張震撼空拍照，全",
-  "category": "AI",
-  "tags": [
-   "AI",
-   "美國"
-  ]
- },
- {
-  "id": 556296,
-  "date": "2026-11-06T21:49:23",
-  "link": "https://www.blocktempo.com/gopax-halts-trading-withdrawals-cold-storage-hack-threat/",
-  "title": "收到駭客威脅信！韓國加密貨幣交易所 GOPAX 全面暫停交易、資產搬進冷錢包",
-  "excerpt": "韓國交易所 GOPAX 收到駭客威脅信後全面暫停交易與提款，並計畫把全部資產移入冷錢包；其冷錢包比重 80.5",
-  "category": "交易所",
-  "tags": [
-   "交易所",
-   "加密貨幣市場"
-  ]
- },
- {
-  "id": 556328,
-  "date": "2026-11-06T21:47:20",
-  "link": "https://www.blocktempo.com/us-october-nonfarm-payrolls-exceeds-expectations-unemployment/",
-  "title": "美國 10 月非農就業暴增 16.5 萬人遠超預期！失業率持平 4.1%，前值狂補 8.4 萬人",
-  "excerpt": "美國 10 月非農就業人數大幅增加 165,000 人，遠高於市場原先預估的 6 萬至 6.5 萬人水準，失業",
-  "category": "美國",
-  "tags": [
-   "美國"
-  ]
- },
- {
-  "id": 556324,
-  "date": "2026-11-06T21:31:27",
-  "link": "https://www.blocktempo.com/hypercall-anthropic-pre-ipo-options-market/",
-  "title": "Hypercall 搶先推出 Anthropic IPO 上市前選擇權！週一開盤、美國用戶買不到",
-  "excerpt": "鏈上選擇權平台 Hypercall 將於台北時間 11 月 9 日晚上 9 時推出掛鉤 Anthropic 的",
-  "category": "Anthropic",
-  "tags": [
-   "Anthropic"
-  ]
- },
- {
-  "id": 556318,
-  "date": "2026-11-06T20:34:27",
-  "link": "https://www.blocktempo.com/solana-shanghai-ads-event-halted-pboc/",
-  "title": "中國人民銀行叫停 Solana 上海活動：品牌宣傳等同虛擬貨幣營銷，涉事單位將被查",
-  "excerpt": "Solana 在上海陸家嘴花旗集團大廈外牆投放廣告，並一度計畫在上海等地舉辦「Solana Accelerat",
-  "category": "中國",
-  "tags": [
-   "中國"
   ]
  }
 ]
