@@ -1,5 +1,177 @@
 [
  {
+  "id": 564636,
+  "date": "2026-11-25T12:56:40",
+  "link": "https://www.blocktempo.com/stablecoin-neobank-cashback-redotpay-etherfi-kast-revenue-growth-blockworks-report/",
+  "title": "加密新銀行返現戰失靈？RedotPay 靠牌照突圍，收益才是真戰場",
+  "excerpt": "穩定幣新銀行快速崛起，但 Blockworks 最新報告揭露，多數加密支付卡專案的返現補貼其實是虧本生意：扣掉",
+  "category": "加密貨幣市場",
+  "tags": [
+   "加密貨幣市場"
+  ]
+ },
+ {
+  "id": 564632,
+  "date": "2026-11-25T12:56:19",
+  "link": "https://www.blocktempo.com/jensen-huang-nvidia-employee-meeting-apology-return-psychological-therapy-succession-plan/",
+  "title": "黃仁勳回歸首場員工大會：認錯、道歉、還說「接班人計畫是錯的」",
+  "excerpt": "黃仁勳在回歸後的首場員工大會上坦言，自己辜負了團隊，並稱這是他人生中第二艱難的會議。他同時丟擲震撼彈：不相信業",
+  "category": "美國",
+  "tags": [
+   "美國"
+  ]
+ },
+ {
+  "id": 564604,
+  "date": "2026-11-25T12:29:19",
+  "link": "https://www.blocktempo.com/new-york-prediction-market-tax-universal-pre-k-bill/",
+  "title": "預測市場手續費課 10%！紐約州參議員要拿去辦學前教育",
+  "excerpt": "紐約州民主黨參議員 Jeremy Cooney 提出《FUTURES 法案》，擬對預測市場營運商在紐約賺取的手",
+  "category": "美國",
+  "tags": [
+   "美國"
+  ]
+ },
+ {
+  "id": 564613,
+  "date": "2026-11-25T12:05:09",
+  "link": "https://www.blocktempo.com/apple-siri-layoffs-legacy-infrastructure-ai-agent-late-2027-gurman/",
+  "title": "Siri 換腦也換人：蘋果裁舊架構團隊，要從問答進化成「替你做事」",
+  "excerpt": "蘋果這波 Siri 裁員砍的是舊架構，新一代 AI 團隊沒動。古爾曼認為，蘋果一年一版的發版節奏，讓它很難跟上",
+  "category": "AI",
+  "tags": [
+   "AI",
+   "技術"
+  ]
+ },
+ {
+  "id": 564608,
+  "date": "2026-11-25T11:51:43",
+  "link": "https://www.blocktempo.com/anthropic-enterprise-frontier-safeguards-zero-data-retention-public-beta-claude/",
+  "title": "不想讓 Claude 保留你的資料？企業現在能改存自家雲端",
+  "excerpt": "Anthropic 最強模型原本規定保留資料 30 天，受監管的企業很難接受。公測版 EFS 改讓企業自己保管",
+  "category": "AI",
+  "tags": [
+   "AI",
+   "安全"
+  ]
+ },
+ {
+  "id": 564579,
+  "date": "2026-11-25T10:51:37",
+  "link": "https://www.blocktempo.com/microsoft-code-red-exchange-online-outage-memos-one-hour-recovery/",
+  "title": "微軟大當機一整天後拉「Code Red」：下次事故要一小時內修好",
+  "excerpt": "微軟在 11 月中旬的 Microsoft 365 大當機後宣布 Code Red。據路透看到的備忘錄，微軟的",
+  "category": "技術",
+  "tags": [
+   "技術"
+  ]
+ },
+ {
+  "id": 564568,
+  "date": "2026-11-25T10:42:51",
+  "link": "https://www.blocktempo.com/nvidia-huang-first-all-hands-apology-therapy-denies-trump-succession/",
+  "title": "黃仁勳回歸 Nvidia 首場員工大會：每天 90 分鐘心理治療，不相信接班計畫",
+  "excerpt": "黃仁勳回任後首場全員大會上道歉並透露每天接受心理治療，同時否認是靠川普或特權回來，也直言不信接班計畫。 （前情",
+  "category": "AI",
+  "tags": [
+   "AI",
+   "美國"
+  ]
+ },
+ {
+  "id": 564472,
+  "date": "2026-11-25T10:40:12",
+  "link": "https://www.blocktempo.com/sec-clears-molecule-desci-research-tokens-registration-exemption/",
+  "title": "SEC 開綠燈！Molecule 科學代幣免註冊、首創幣轉股架構",
+  "excerpt": "美國 SEC 公司金融部發出無異議函，放行瑞士 DeSci 公司 Molecule 旗下 LabsCo 在免依",
+  "category": "法規",
+  "tags": [
+   "法規"
+  ]
+ },
+ {
+  "id": 564571,
+  "date": "2026-11-25T10:34:28",
+  "link": "https://www.blocktempo.com/taiwan-stocks-celebration-rally-lasts-one-day-tariff-chip-selloff/",
+  "title": "台股重挫逾 3,300 點！黃仁勳慶祝行情全吐回，近 400 檔觸跌停",
+  "excerpt": "加權指數 25 日早盤重挫逾 3,300 點、跌破 23 日收盤價，24 日創紀錄的 3,310 點漲幅全數吐",
+  "category": "台灣",
+  "tags": [
+   "台灣",
+   "市場分析",
+   "金融市場"
+  ]
+ },
+ {
+  "id": 564574,
+  "date": "2026-11-25T10:30:54",
+  "link": "https://www.blocktempo.com/trump-says-nvidia-huang-pardon-unnecessary-open-government-equity-stake/",
+  "title": "川普：我願意特赦黃仁勳，考慮讓美國政府入股輝達",
+  "excerpt": "川普為黃仁勳留了特赦的後路，要他下週在國會說實話。但特赦只及於聯邦罪，加州的調查與股東官司都不在範圍內。川普還",
+  "category": "AI",
+  "tags": [
+   "AI",
+   "法規",
+   "美國"
+  ]
+ },
+ {
+  "id": 564478,
+  "date": "2026-11-25T10:10:11",
+  "link": "https://www.blocktempo.com/europol-crypto-payments-trail-illegal-streaming-piracy-takedown/",
+  "title": "加密金流露餡！Europol 聯手幣安、Coinbase 抄掉 57 個盜版串流",
+  "excerpt": "歐盟執法機關 Europol 與 11 國警方在西班牙塞維利亞展開五天行動，並在幣安、Coinbase 與區塊",
+  "category": "犯罪",
+  "tags": [
+   "犯罪"
+  ]
+ },
+ {
+  "id": 564482,
+  "date": "2026-11-25T09:20:07",
+  "link": "https://www.blocktempo.com/cleanspark-annual-loss-bitcoin-production-decline-ai-data-center/",
+  "title": "由盈轉虧！CleanSpark 年虧 9.87 億美元，押注 AI 資料中心",
+  "excerpt": "美國比特幣礦企 CleanSpark 公布 2026 財年財報，全年淨損 9.871 億美元，相較 2025",
+  "category": "挖礦",
+  "tags": [
+   "挖礦"
+  ]
+ },
+ {
+  "id": 564487,
+  "date": "2026-11-25T09:19:54",
+  "link": "https://www.blocktempo.com/cia-odni-open-source-intelligence-network-breach-unclassified-hack/",
+  "title": "CIA 情報網遭駭！美情報體系一個月內連環中招",
+  "excerpt": "美國中情局（CIA）與國家情報總監辦公室（ODNI）共用的一套公開來源情報分析網路遭駭客入侵，非機密資訊因此外",
+  "category": "美國",
+  "tags": [
+   "美國"
+  ]
+ },
+ {
+  "id": 564491,
+  "date": "2026-11-25T09:19:26",
+  "link": "https://www.blocktempo.com/pump-fun-retires-external-wallet-signin-private-key-privy-criticism/",
+  "title": "Pump.fun 停用外部錢包登入！私鑰交 Privy 惹議",
+  "excerpt": "Solana 迷因幣平台 Pump.fun 宣布 11 月 30 日起停用網頁版的外部錢包登入，屆時使用者若要",
+  "category": "安全",
+  "tags": [
+   "安全"
+  ]
+ },
+ {
+  "id": 564503,
+  "date": "2026-11-25T09:11:52",
+  "link": "https://www.blocktempo.com/bitcoin-below-60k-etf-outflows-november-record-fear-13/",
+  "title": "比特幣再失守 6 萬美元！ETF 月流出創紀錄 47.1 億鎂，恐慌指數回升至 13 仍處極度恐慌",
+  "excerpt": "比特幣在短暫反彈至 6.45 萬美元後再度失守 6 萬美元防線，24 小時跌幅達 2.7%。美國現貨比特幣 E",
+  "category": "市場分析",
+  "tags": [
+   "市場分析"
+  ]
+ },
+ {
   "id": 564467,
   "date": "2026-11-25T03:08:41",
   "link": "https://www.blocktempo.com/korea-domestic-ico-whitepaper-disclosure-proposal/",
@@ -6836,180 +7008,6 @@
    "台灣",
    "市場分析",
    "金融市場"
-  ]
- },
- {
-  "id": 557629,
-  "date": "2026-11-10T12:11:36",
-  "link": "https://www.blocktempo.com/callofduty-facetime-chat-bomb-remark-frontier-flight-ontario-airport-evacuated/",
-  "title": "真的不要講炸彈！加州機場疏散一整架班機，原因竟是乘客視訊聊《決勝時刻》",
-  "excerpt": "安大略機場一架班機準備起飛時，乘客與朋友視訊聊《決勝時刻》的炸彈對話被旁人聽到，飛機與航廈東側遭疏散，警方搜查",
-  "category": "美國",
-  "tags": [
-   "美國",
-   "遊戲"
-  ]
- },
- {
-  "id": 557543,
-  "date": "2026-11-10T11:33:23",
-  "link": "https://www.blocktempo.com/eztravel-breach-exposes-customers-order-details-fuels-phishing-scam-risk/",
-  "title": "易遊網 69 萬人個資遭駭外流，接到「訂單異常」電話先別信",
-  "excerpt": "易遊網 11 月 7 日發現會員中心遭異常攻擊，部分歷史訂單的姓名、電話、電子郵件與訂購內容外流，受影響逾 6",
-  "category": "台灣",
-  "tags": [
-   "台灣",
-   "安全"
-  ]
- },
- {
-  "id": 557611,
-  "date": "2026-11-10T11:29:54",
-  "link": "https://www.blocktempo.com/jensen-huang-spy-affair-megaspeed-china-ai-chip-export-trump/",
-  "title": "黃仁勳「間諜門」：婚外情如何撼動 4.25 兆美元 AI 帝國",
-  "excerpt": "黃仁勳與一名涉嫌為中國情報人員的女性婚外情曝光，讓輝達（NVIDIA）捲入前所未有的國安疑雲。從私人醜聞到白宮",
-  "category": "AI",
-  "tags": [
-   "AI"
-  ]
- },
- {
-  "id": 557603,
-  "date": "2026-11-10T11:29:41",
-  "link": "https://www.blocktempo.com/ethereum-devcon-8-quantum-resistant-2028-roadmap-glamsterdam-delay/",
-  "title": "以太坊在孟買定調 2028 抗量子：Glamsterdam 卡關、量子威脅逼近",
-  "excerpt": "Devcon 8 在孟買宣布以太坊 2028 年 12 月前完成抗量子轉型，比官方計劃提前一年。Glamste",
-  "category": "技術",
-  "tags": [
-   "技術"
-  ]
- },
- {
-  "id": 557508,
-  "date": "2026-11-10T11:18:48",
-  "link": "https://www.blocktempo.com/claude-code-dont-ask-again-leaks-passwords-api-keys-github/",
-  "title": "Claude Code「不再詢問」可能讓密碼上 GitHub，資安公司發現上千組外流",
-  "excerpt": "在 Claude Code 按下「不再詢問」，會把含密碼的指令原文存進專案的設定檔；專案若公開上傳到 GitH",
-  "category": "AI",
-  "tags": [
-   "AI",
-   "安全"
-  ]
- },
- {
-  "id": 557534,
-  "date": "2026-11-10T11:06:57",
-  "link": "https://www.blocktempo.com/france-attributes-supermarket-fridge-hack-iran-revolutionary-guards-shahid-kaveh/",
-  "title": "抓到了！法國指控「超市冷櫃駭客」是伊朗革命衛隊，歐盟下週談制裁",
-  "excerpt": "法國政府 11 月 9 日正式指認，10 月中旬癱瘓超過 700 個超市賣場冷櫃的攻擊，是伊朗革命衛隊旗下的",
-  "category": "安全",
-  "tags": [
-   "即時新聞",
-   "安全"
-  ]
- },
- {
-  "id": 557539,
-  "date": "2026-11-10T10:59:43",
-  "link": "https://www.blocktempo.com/nvidia-jensen-huang-shareholder-class-action-megaspeed-affair-securities-fraud/",
-  "title": "說和女間諜往來「很正常」？輝達與黃仁勳被股東告上法院",
-  "excerpt": "輝達股價 11 月 9 日收跌 4.27% 後，一名散戶股東隨即在聖荷西聯邦法院提告，主張輝達與黃仁勳把他和疑",
-  "category": "AI",
-  "tags": [
-   "AI",
-   "法規",
-   "美國"
-  ]
- },
- {
-  "id": 557524,
-  "date": "2026-11-10T10:15:08",
-  "link": "https://www.blocktempo.com/tesla-cybertruck-end-production-wired-smaller-ev-batteries-cybercab-fathom/",
-  "title": "特斯拉 Cybertruck 停產，WIRED：大電池退場對電動車是好事",
-  "excerpt": "特斯拉宣布 Cybertruck 明年年中前後停產，WIRED 認為 123 kWh 的巨型電池和多數車主的用",
-  "category": "技術",
-  "tags": [
-   "技術",
-   "美國"
-  ]
- },
- {
-  "id": 557513,
-  "date": "2026-11-10T09:54:16",
-  "link": "https://www.blocktempo.com/iraq-us-understanding-oil-exports-hormuz-oman-lane-iran-crossings/",
-  "title": "伊拉克原油拿到美國「通行證」？外長稱已達諒解，油輪可通過荷姆茲海峽",
-  "excerpt": "伊拉克外長稱已與美方達成非正式諒解，原油可經荷姆茲海峽出口，但文本與航道條件未公開，美方未證實，航道也未必獲伊",
-  "category": "金融市場",
-  "tags": [
-   "即時新聞",
-   "金融市場"
-  ]
- },
- {
-  "id": 557462,
-  "date": "2026-11-10T09:41:49",
-  "link": "https://www.blocktempo.com/securitize-acquires-river-one-asset-backed-finance-market/",
-  "title": "Securitize 收購 River One！搶進 6 兆美元抵押融資市場",
-  "excerpt": "代幣化平台 Securitize 宣布收購紐約機構融資公司 River One，把倉儲融資接進代幣化發行業務，",
-  "category": "市場分析",
-  "tags": [
-   "市場分析"
-  ]
- },
- {
-  "id": 557488,
-  "date": "2026-11-10T09:41:38",
-  "link": "https://www.blocktempo.com/anthropic-launches-claude-fable-mythos-api-price-cut-twenty-percent/",
-  "title": "Claude Fable 5.2 上線：更強並降價 20%，訂閱戶再送重置券",
-  "excerpt": "Claude Fable 5.2 與 Mythos 5.2 是同一顆模型，差別在資安與生物防護的鬆緊。官方稱成",
-  "category": "AI",
-  "tags": [
-   "AI",
-   "即時新聞"
-  ]
- },
- {
-  "id": 557496,
-  "date": "2026-11-10T09:41:34",
-  "link": "https://www.blocktempo.com/morgan-stanley-buy-drop-ai-semiconductor-midterm-election-2028-delay/",
-  "title": "大摩逆勢喊買：AI 股中位數跌 53%，2028 延後非取消",
-  "excerpt": "摩根士丹利在最新報告中逆勢喊買 AI 股，指出市場對美國中期選舉結果反應過度，AI 資本開支總量並未下調，僅約",
-  "category": "AI",
-  "tags": [
-   "AI"
-  ]
- },
- {
-  "id": 557468,
-  "date": "2026-11-10T09:41:15",
-  "link": "https://www.blocktempo.com/mara-q3-net-profit-sells-13597-bitcoin-repay-loans-ai-pivot/",
-  "title": "礦企 MARA 賣 1.36 萬枚比特幣還清貸款，Q3 淨賺 6.34 億美元",
-  "excerpt": "比特幣礦企 MARA 第三季淨利衝上 6.34 億美元，主要來自比特幣升值認列的 8.85 億美元帳面收益；季",
-  "category": "市場分析",
-  "tags": [
-   "市場分析"
-  ]
- },
- {
-  "id": 557476,
-  "date": "2026-11-10T09:40:46",
-  "link": "https://www.blocktempo.com/bitcoin-ethereum-75119-2128-market-fear-index-stocks-divergence-cpi/",
-  "title": "比特幣守7.5萬鎂、以太坊撐2,128美元，美股AI股全面反彈、恐慌指數續回升",
-  "excerpt": "比特幣今（10）日報 75,119 美元微跌 0.2%，以太坊報 2,128 美元走低 0.8%。美股週一全面",
-  "category": "市場分析",
-  "tags": [
-   "市場分析"
-  ]
- },
- {
-  "id": 557428,
-  "date": "2026-11-10T02:50:44",
-  "link": "https://www.blocktempo.com/meta-muse-ember-smallest-efficient-model/",
-  "title": "Meta 推出最小模型 Muse Ember！智能接近 Spark，評測任務成本僅約 1/17",
-  "excerpt": "Meta 推出旗下最小、最省成本的 Muse Ember，主打 AI 代理每天反覆執行的工作。在 Artifi",
-  "category": "AI",
-  "tags": [
-   "AI"
   ]
  }
 ]
