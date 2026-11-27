@@ -1,5 +1,247 @@
 [
  {
+  "id": 565680,
+  "date": "2026-11-27T22:11:24",
+  "link": "https://www.blocktempo.com/polymarket-taipei-mayor-election-eve-odds-chiang-wanan-puma-shen/",
+  "title": "Polymarket 下注犯法！但我們來看蔣萬安、沈伯洋的選前之夜觀測",
+  "excerpt": "台灣九合一選舉在 11 月 28 日投票，境外預測市場 Polymarket 的台北市長選舉市場，截至 11",
+  "category": "台灣",
+  "tags": [
+   "台灣",
+   "法規"
+  ]
+ },
+ {
+  "id": 565686,
+  "date": "2026-11-27T21:58:59",
+  "link": "https://www.blocktempo.com/france-technical-recession-q3-2026-gdp-minus-0-2/",
+  "title": "法國陷入技術性經濟衰退！第三季 GDP 再摔 0.2%，全年成長只剩 0.1%",
+  "excerpt": "法國國家統計局公布，2026 年第三季國內生產毛額（GDP）季減 0.2%，並把 10 月底初估值再往下修。國",
+  "category": "其他國家",
+  "tags": [
+   "其他國家"
+  ]
+ },
+ {
+  "id": 565678,
+  "date": "2026-11-27T21:50:36",
+  "link": "https://www.blocktempo.com/he-yi-binance-tokenized-ipo-awaiting-regulatory-approval/",
+  "title": "何一：幣安擬推代幣化 IPO 助企業對接傳統金融，但須待監管批准後上線",
+  "excerpt": "幣安共同創辦人暨聯席執行長何一表示，平台計畫上架更多新類型資產，作為真實世界資產（RWA）規劃的一環，協助企業",
+  "category": "交易所",
+  "tags": [
+   "交易所",
+   "加密貨幣市場"
+  ]
+ },
+ {
+  "id": 565668,
+  "date": "2026-11-27T21:43:20",
+  "link": "https://www.blocktempo.com/bitcoin-seven-week-losing-streak-may-end-stock-rebound/",
+  "title": "比特幣週線有望終結七連跌！本週翻紅但仍跑輸美股",
+  "excerpt": "比特幣在感恩節假期後的第一個交易時段重新站回 6.1 萬美元上方，本週累計漲幅約 0.5%，只要週日收盤守在",
+  "category": "市場分析",
+  "tags": [
+   "市場分析",
+   "比特幣"
+  ]
+ },
+ {
+  "id": 565662,
+  "date": "2026-11-27T20:37:44",
+  "link": "https://www.blocktempo.com/b3-open-brl-real-stablecoin-q1-2027/",
+  "title": "巴西證交所 B3 聯手六大金融機構，打造雷亞爾穩定幣 Open BRL、目標明年 Q1 上線",
+  "excerpt": "巴西證券交易所 B3 與六家大型金融機構合作，開發以巴西雷亞爾計價的穩定幣 Open BRL，並搭建共用的資金",
+  "category": "穩定幣",
+  "tags": [
+   "穩定幣"
+  ]
+ },
+ {
+  "id": 565654,
+  "date": "2026-11-27T20:15:27",
+  "link": "https://www.blocktempo.com/reuters-us-air-force-cloud-one-breach-sources/",
+  "title": "路透：美國空軍旗艦雲端平台 Cloud One 遭駭！恐危及敏感戰術與後勤資料",
+  "excerpt": "路透引述知情人士指出，駭客已入侵美國空軍旗艦雲端平台 Cloud One，可能危及戰術、人事與後勤等敏感資料。",
+  "category": "安全",
+  "tags": [
+   "安全"
+  ]
+ },
+ {
+  "id": 565632,
+  "date": "2026-11-27T20:10:33",
+  "link": "https://www.blocktempo.com/cz-thailand-blockchain-enthusiasm-cools-meaningful-development-tokenized-bonds-stablecoins/",
+  "title": "CZ：大眾對於區塊鏈熱度降溫，可能是更有意義的開始",
+  "excerpt": "幣安創辦人趙長鵬（CZ）11 月 27 日在泰國一場活動上表示，大眾對區塊鏈的熱情減退，可能是更有意義發展期的",
+  "category": "亞太",
+  "tags": [
+   "亞太",
+   "交易所",
+   "穩定幣"
+  ]
+ },
+ {
+  "id": 565647,
+  "date": "2026-11-27T20:10:14",
+  "link": "https://www.blocktempo.com/cz-bnb-demo-night-bangkok-bitcoin-60k-decent-price/",
+  "title": "CZ：比特幣 6 萬美元已是不錯價格，加密產業不會消失",
+  "excerpt": "幣安創辦人趙長鵬（CZ）在泰國曼谷 BNB Demo Night 回答社群提問時表示，把時間拉長來看，比特幣",
+  "category": "獨立觀點",
+  "tags": [
+   "獨立觀點"
+  ]
+ },
+ {
+  "id": 565635,
+  "date": "2026-11-27T19:31:11",
+  "link": "https://www.blocktempo.com/anthropic-claude-api-python-rust-rewrite-agent-pull-requests-unread/",
+  "title": "Anthropic API 改用 Rust，八成 PR 工程師沒細讀",
+  "excerpt": "Anthropic Claude 平台工程主管 Katelyn Lesse 上播客《The Pragmatic",
+  "category": "AI",
+  "tags": [
+   "AI",
+   "技術"
+  ]
+ },
+ {
+  "id": 565629,
+  "date": "2026-11-27T19:29:36",
+  "link": "https://www.blocktempo.com/sbf-ftx-amazon-documentary-prison-interviews-burstein-calls-sentence-harsh/",
+  "title": "Amazon 將播 SBF 獄中受訪紀錄片，導演認為 25 年刑期太重",
+  "excerpt": "據《紐約時報》報導，以 FTX 創辦人 SBF 為主角的三集紀錄片《The Boy Who Stole Bil",
+  "category": "交易所",
+  "tags": [
+   "交易所",
+   "犯罪",
+   "美國"
+  ]
+ },
+ {
+  "id": 565590,
+  "date": "2026-11-27T18:12:18",
+  "link": "https://www.blocktempo.com/japanese-founder-ai-agents-twenty-million-yen-income-gemini-bangkok/",
+  "title": "日本女生大學成績平均 60 分！創業讓 AI 做所有工作，年收 2000 萬日圓",
+  "excerpt": "大學 GPA 只有 0.9 的日本 25 歲創業者大塚あみ，接受《文春 Online》專訪時說，她同時讓約 2",
+  "category": "AI",
+  "tags": [
+   "AI",
+   "亞太"
+  ]
+ },
+ {
+  "id": 565593,
+  "date": "2026-11-27T17:50:50",
+  "link": "https://www.blocktempo.com/spacex-nvidia-chip-collateral-bondholders-fear-orbit-seizure-saturn-bonds/",
+  "title": "SpaceX 拿輝達晶片擔保借錢，債權人擔心「射上太空」追不回",
+  "excerpt": "SpaceX 買輝達晶片的融資，11 月 19 日賣出約 321 億美元債券，擔保品就是晶片本身。FT 20",
+  "category": "AI",
+  "tags": [
+   "AI",
+   "美國",
+   "金融市場"
+  ]
+ },
+ {
+  "id": 565589,
+  "date": "2026-11-27T17:21:30",
+  "link": "https://www.blocktempo.com/japanese-idol-producer-anthropic-ipo-shares-sold-first-day-profit/",
+  "title": "日本偶像前團長買 Anthropic，一天賺進 11 億日圓",
+  "excerpt": "日本 2.5 次元偶像團體「すとぷり」前團長柏原真人，在 Anthropic 那斯達克上市時以承銷價買進 24",
+  "category": "AI",
+  "tags": [
+   "AI",
+   "亞太",
+   "金融市場"
+  ]
+ },
+ {
+  "id": 565575,
+  "date": "2026-11-27T17:02:28",
+  "link": "https://www.blocktempo.com/claude-accused-sabotaging-ml-research-anthropic-documents-frontier-llm-limits/",
+  "title": "Claude 被控「暗中破壞 AI 訓練過程」，但官方本就限制反蒸餾",
+  "excerpt": "開發者 Jacob Everly 與 MagicPath 執行長 Pietro Schirano 本週在 X",
+  "category": "AI",
+  "tags": [
+   "AI",
+   "技術"
+  ]
+ },
+ {
+  "id": 565568,
+  "date": "2026-11-27T17:00:19",
+  "link": "https://www.blocktempo.com/joyoung-soymilk-maker-investors-ask-1nm-soybean-process-denies-semiconductor/",
+  "title": "九陽豆漿機被傳「1 奈米黃豆製程」，公開回應：我們不做半導體喔",
+  "excerpt": "中國小家電廠九陽股份（002242.SZ）今年股價漲逾 300%，有投資人在深交所互動易提問，說它的破壁技術已",
+  "category": "中國",
+  "tags": [
+   "中國",
+   "金融市場"
+  ]
+ },
+ {
+  "id": 565564,
+  "date": "2026-11-27T16:58:53",
+  "link": "https://www.blocktempo.com/shanghai-mother-nvidia-job-shopping-card-scam-police-stop-purchase/",
+  "title": "「花 4 萬人民幣」送兒子進 NVIDIA 上班，上海老婦人被詐騙還被警察嗆",
+  "excerpt": "上海一個阿姨相信，只要花人民幣 4 萬元買購物卡、儲值到一個帳號，對方就能讓兒子進輝達上班。她 11 月 5",
+  "category": "中國",
+  "tags": [
+   "中國",
+   "犯罪"
+  ]
+ },
+ {
+  "id": 565562,
+  "date": "2026-11-27T16:57:29",
+  "link": "https://www.blocktempo.com/microsoft-outlook-user-reports-surge-code-red-one-hour-goal/",
+  "title": "Outlook 今天又爆災情！微軟的「當機一小時修復」做得到嗎？",
+  "excerpt": "Outlook 11 月 27 日下午再傳災情，Downdetector 從台灣時間下午 2 點起收到大量回報",
+  "category": "技術",
+  "tags": [
+   "即時新聞",
+   "技術"
+  ]
+ },
+ {
+  "id": 565535,
+  "date": "2026-11-27T16:12:24",
+  "link": "https://www.blocktempo.com/alipay-pockyt-shop-sells-openai-chatgpt-gift-cards-us-only/",
+  "title": "支付寶上架「美國區 ChatGPT 禮品卡」，中國代付平台慘了？",
+  "excerpt": "支付寶裡的跨境小程式 Pockyt Shop 上架 OpenAI 的 ChatGPT 美國禮品卡，中國用戶可用",
+  "category": "AI",
+  "tags": [
+   "AI",
+   "中國",
+   "支付"
+  ]
+ },
+ {
+  "id": 565540,
+  "date": "2026-11-27T16:07:18",
+  "link": "https://www.blocktempo.com/sk-hynix-kioxia-memory-chip-stocks-rebound-asia-tariff-relief/",
+  "title": "亞洲記憶體股反彈！SK 海力士漲 5.4%、鎧俠漲 8.9%",
+  "excerpt": "南韓 KOSPI 指數 11 月 27 日漲 4.34%，SK 海力士、三星電子分別漲 5.41%、4.55%",
+  "category": "亞太",
+  "tags": [
+   "亞太",
+   "台灣",
+   "市場分析"
+  ]
+ },
+ {
+  "id": 565497,
+  "date": "2026-11-27T12:56:32",
+  "link": "https://www.blocktempo.com/musk-spacex-free-share-us-children-ai-orbit/",
+  "title": "馬斯克每年送全美兒童一股SpaceX：慈善外衣下的民意算力博弈",
+  "excerpt": "從兩股加碼到每年一股，馬斯克把全美兒童變成SpaceX股東，稀釋有限卻直指軌道算力與AI紅利的敘事高地。 （前",
+  "category": "AI",
+  "tags": [
+   "AI",
+   "美國"
+  ]
+ },
+ {
   "id": 565459,
   "date": "2026-11-27T12:29:51",
   "link": "https://www.blocktempo.com/anthropic-spacex-h200-cluster-lease-renewal-rumor-blackwell-price-cut/",
@@ -6769,244 +7011,6 @@
   "category": "即時新聞",
   "tags": [
    "即時新聞"
-  ]
- },
- {
-  "id": 558962,
-  "date": "2026-11-12T22:28:32",
-  "link": "https://www.blocktempo.com/who-is-colette-kress-nvidia-interim-ceo/",
-  "title": "Nvidia 臨時執行長 Colette Kress 是誰？從微軟、思科老臣到黃仁勳繼任者，背景一次看",
-  "excerpt": "Nvidia 任命財務長克瑞斯為臨時執行長，她將繼續兼任財務長，直到永久繼任者出爐。這位曾在德儀、微軟與思科歷",
-  "category": "即時新聞",
-  "tags": [
-   "即時新聞"
-  ]
- },
- {
-  "id": 558956,
-  "date": "2026-11-12T22:15:35",
-  "link": "https://www.blocktempo.com/dtcc-tokenization-service-to-connect-with-solana/",
-  "title": "DTCC 代幣化服務將接入 Solana！預計 2027 年下半年推出",
-  "excerpt": "美國存託結算公司（DTCC）計劃把代幣化服務接入 Solana，預計 2027 年下半年推出。合資格、由旗下存",
-  "category": "RWA",
-  "tags": [
-   "RWA",
-   "加密貨幣市場",
-   "美國"
-  ]
- },
- {
-  "id": 558945,
-  "date": "2026-11-12T22:01:19",
-  "link": "https://www.blocktempo.com/nvidia-ceo-jensen-huang-resigns-amid-scandal/",
-  "title": "重磅！Nvidia 黃仁勳辭職，財務長 Colette Kress 臨危接掌輝達",
-  "excerpt": "全球 AI 晶片霸主迎來人事大地震！輝達（NVIDIA）官方最新公告，創辦人黃仁勳（Jensen Huang）",
-  "category": "即時新聞",
-  "tags": [
-   "即時新聞"
-  ]
- },
- {
-  "id": 558923,
-  "date": "2026-11-12T21:47:34",
-  "link": "https://www.blocktempo.com/trump-iran-deal-vance-democrat-states-corruption/",
-  "title": "川普喊不需要與伊朗達成協議！稱美國掌握千億資金與荷姆茲海峽，要范斯專注國內反貪",
-  "excerpt": "川普宣稱美國已掌握伊朗數千億美元資金與海峽，表示不再需要與伊朗達成協議。同一篇發文中，他要求副總統范斯專注民主",
-  "category": "美國",
-  "tags": [
-   "美國"
-  ]
- },
- {
-  "id": 558914,
-  "date": "2026-11-12T21:29:32",
-  "link": "https://www.blocktempo.com/nvidia-cds-144-5-bp-board-weighs-huang-fate/",
-  "title": "Nvidia 違約風險接近歷史高點！年中以來增逾三倍，董事會討論黃仁勳去留",
-  "excerpt": "NVIDIA 五年期違約保護成本 11 月 12 日一度升至 144.5 個基點，接近本月盤中高點，自年中以來",
-  "category": "金融市場",
-  "tags": [
-   "即時新聞",
-   "金融市場"
-  ]
- },
- {
-  "id": 558910,
-  "date": "2026-11-12T21:25:00",
-  "link": "https://www.blocktempo.com/crypto-market-crash-bitcoin-below-73k-liquidations/",
-  "title": "殺！比特幣跌破 7.3 萬、以太坊失守 2000 美元！全網 24 小時爆倉 5.2 億美元",
-  "excerpt": "加密貨幣市場賣壓持續湧現！據 CoinGlass 數據統計，截至台北時間 11 月 12 日晚間，比特幣（BT",
-  "category": "加密貨幣市場",
-  "tags": [
-   "加密貨幣市場"
-  ]
- },
- {
-  "id": 558874,
-  "date": "2026-11-12T20:32:23",
-  "link": "https://www.blocktempo.com/polymarket-layoffs-contractors-investor-pressure-kalshi-volume-lead/",
-  "title": "Polymarket 證實大裁員！投資人施壓整頓、交易量遭 Kalshi 超車",
-  "excerpt": "Polymarket 證實展開全公司人力精簡並終止部分外包合約，受影響者逾半為外包人員；投資人要求創辦人 Sh",
-  "category": "金融市場",
-  "tags": [
-   "即時新聞",
-   "金融市場",
-   "預測市場"
-  ]
- },
- {
-  "id": 558853,
-  "date": "2026-11-12T20:26:23",
-  "link": "https://www.blocktempo.com/canaan-q3-2026-revenue-drop-96-buyback-sell-bitcoin-treasury/",
-  "title": "礦機賣不動了！嘉楠科技營收崩 96%，2,000 萬美元回購全靠賣比特幣",
-  "excerpt": "礦機大廠嘉楠科技第三季礦機營收只剩 480 萬美元、年減 96%，公司週二啟動 2,000 萬美元的庫藏股回購",
-  "category": "市場分析",
-  "tags": [
-   "即時新聞",
-   "市場分析",
-   "挖礦"
-  ]
- },
- {
-  "id": 558870,
-  "date": "2026-11-12T20:23:32",
-  "link": "https://www.blocktempo.com/gemini-sells-uk-eu-operations-to-kast-for-under-10-million/",
-  "title": "加密交易所 Gemini 出清英歐業務！不到 1,000 萬美元賣給穩定幣支付商 KAST",
-  "excerpt": "紐約掛牌的 Gemini 把英國與歐盟業務賣給新加坡穩定幣支付商 KAST，成交金額不到 1,000 萬美元。",
-  "category": "交易所",
-  "tags": [
-   "交易所",
-   "即時新聞",
-   "市場分析"
-  ]
- },
- {
-  "id": 558886,
-  "date": "2026-11-12T20:13:54",
-  "link": "https://www.blocktempo.com/stablecoin-supply-14-2-billion-30-day-contraction-glassnode/",
-  "title": "主要穩定幣 30 天縮水 142 億美元！創 2022 年 6 月以來最大跌幅",
-  "excerpt": "Glassnode 追蹤的主要穩定幣美元供應規模，在截至 11 月 9 日的 30 天內淨減 142 億美元，",
-  "category": "穩定幣",
-  "tags": [
-   "穩定幣"
-  ]
- },
- {
-  "id": 558882,
-  "date": "2026-11-12T20:09:58",
-  "link": "https://www.blocktempo.com/anthropic-ipo-valuation-1-4-trillion-nasdaq-ant/",
-  "title": "Anthropic 正式遞交 IPO 申請！估值上看 1.4 兆鎂，台積電、Nvidia 參與 260 億私募",
-  "excerpt": "人工智慧巨頭 Anthropic 於 11 月 12 日發布首次公開發行（IPO）公告，將以代碼「ANT」在那",
-  "category": "Anthropic",
-  "tags": [
-   "Anthropic"
-  ]
- },
- {
-  "id": 558829,
-  "date": "2026-11-12T16:04:38",
-  "link": "https://www.blocktempo.com/exodus-q3-2026-revenue-growth-net-loss-wallet-payments-pivot/",
-  "title": "Exodus Q3 營收增 7% 卻轉虧 830 萬美元，股價今年跌 7 成",
-  "excerpt": "錢包與支付平台 Exodus 公布 2026 年第三季財報，營收年增 7% 至 3,250 萬美元，淨利卻由去",
-  "category": "金融市場",
-  "tags": [
-   "金融市場"
-  ]
- },
- {
-  "id": 558820,
-  "date": "2026-11-12T15:52:42",
-  "link": "https://www.blocktempo.com/jensen-huang-nvidia-proxy-access-bylaw-nominate-directors-fired-board/",
-  "title": "黃仁勳若被董事會開除，他能靠手上持股殺回來嗎？",
-  "excerpt": "輝達章程的代理權提名條款確實存在，黃仁勳的持股 3.58% 也超過 3% 門檻，但最多提名 2 席，最快明年股",
-  "category": "AI",
-  "tags": [
-   "AI",
-   "美國"
-  ]
- },
- {
-  "id": 558814,
-  "date": "2026-11-12T15:26:41",
-  "link": "https://www.blocktempo.com/tsmc-employee-personal-data-leak-dark-web-bitcoin-cloud-vendor/",
-  "title": "台積電 4.6 萬員工個資 3 枚比特幣暗網兜售，官方認外洩，但強調系統沒被入侵",
-  "excerpt": "駭客在地下論壇宣稱握有 4.6 萬筆台積電員工個資，開價 3 枚比特幣。台積電證實部分員工資料外流，但沒有證據",
-  "category": "台灣",
-  "tags": [
-   "即時新聞",
-   "台灣",
-   "安全"
-  ]
- },
- {
-  "id": 558810,
-  "date": "2026-11-12T15:21:57",
-  "link": "https://www.blocktempo.com/commerce-rule-block-chinese-ai-firms-remote-nvidia-chips-countries/",
-  "title": "美國傳要封堵中國租海外算力用輝達晶片，新馬泰等七國都被點名",
-  "excerpt": "美國商務部據報正敲定新規，禁止中國 AI 公司透過第三國資料中心遠端使用先進晶片，最快本月公布，管制擴及新加坡",
-  "category": "AI",
-  "tags": [
-   "AI",
-   "管制",
-   "美國"
-  ]
- },
- {
-  "id": 558796,
-  "date": "2026-11-12T14:54:45",
-  "link": "https://www.blocktempo.com/anthropic-pre-ipo-arbitrage-binance-hyperliquid-spread-convergence-billy0xff-trading-strategy/",
-  "title": "Anthropic 盤前套利全復盤：價差 30% 收斂至 2%，他如何重倉吃下？",
-  "excerpt": "Anthropic 還沒上市，幣安、Hyperliquid 等平台先開出盤前合約，卻因換股規則與股本口徑不同，",
-  "category": "加密貨幣市場",
-  "tags": [
-   "加密貨幣市場"
-  ]
- },
- {
-  "id": 558759,
-  "date": "2026-11-12T11:45:51",
-  "link": "https://www.blocktempo.com/musk-hire-jensen-huang-honor-nvidia-ceo-board-spacex-polymarket/",
-  "title": "黃仁勳若真從輝達下台，馬斯克：招聘他是我的榮幸",
-  "excerpt": "X 上 Zerohedge 請馬斯克雇用黃仁勳，結果馬斯克真的回應稱「那會是我的榮幸」。 （前情提要：黃仁勳爆",
-  "category": "AI",
-  "tags": [
-   "AI",
-   "美國"
-  ]
- },
- {
-  "id": 558767,
-  "date": "2026-11-12T11:40:54",
-  "link": "https://www.blocktempo.com/mitrade-live-trading-challenge-50000-usd-prize-pool-top-200/",
-  "title": "Mitrade 交易挑戰賽：前 200 名都有獎、規則＆獎金一次看",
-  "excerpt": "Mitrade 實盤挑戰賽即將截止，成績只算報名之後新開的倉位，交易滿 2 筆且獲利，前 200 名就依淨收益",
-  "category": "交易所",
-  "tags": [
-   "交易所",
-   "金融市場"
-  ]
- },
- {
-  "id": 558749,
-  "date": "2026-11-12T11:26:46",
-  "link": "https://www.blocktempo.com/anthropic-amodei-cancer-alzheimers-decade-claim-drug-trial-timeline-reality/",
-  "title": "Anthropic 執行長說 AI 十年內治好癌症，是誇大還是真有機會？",
-  "excerpt": "新藥從人體試驗到上市平均要 10.5 年，AI 新藥走最遠的才剛進三期，Anthropic 執行長說「不到十年",
-  "category": "AI",
-  "tags": [
-   "AI",
-   "獨立觀點"
-  ]
- },
- {
-  "id": 558737,
-  "date": "2026-11-12T11:19:26",
-  "link": "https://www.blocktempo.com/jensen-huang-nvidia-resignation-odds-surge-polymarket-kalshi-suspension-rules/",
-  "title": "黃仁勳年底離職輝達機率 Polymarket 一夜飆升到 87%",
-  "excerpt": "輝達執行長黃仁勳的下台賠率，在 Polymarket 與 Kalshi 一天內升到 88.5% 與 87%。不",
-  "category": "AI",
-  "tags": [
-   "AI",
-   "金融市場"
   ]
  }
 ]
